@@ -1,0 +1,10 @@
+<map id="Signals.h" name="Signals.h">
+<area shape="rect" id="node2" href="$LinkAllIR_8h.html" title="LinkAllIR.h" alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="115,80,283,107"/>
+<area shape="rect" id="node4" href="$MCContext_8cpp.html" title="MCContext.cpp" alt="" coords="307,80,426,107"/>
+<area shape="rect" id="node5" href="$Debug_8cpp.html" title="Debug.cpp" alt="" coords="451,80,541,107"/>
+<area shape="rect" id="node6" href="$ErrorHandling_8cpp.html" title="ErrorHandling.cpp" alt="" coords="565,80,701,107"/>
+<area shape="rect" id="node7" href="$PrettyStackTrace_8cpp.html" title="PrettyStackTrace.cpp" alt="" coords="726,80,882,107"/>
+<area shape="rect" id="node8" href="$Signals_8cpp.html" title="Signals.cpp" alt="" coords="906,80,1001,107"/>
+<area shape="rect" id="node9" href="$ToolOutputFile_8cpp.html" title="ToolOutputFile.cpp" alt="" coords="1025,80,1162,107"/>
+</map>

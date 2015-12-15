@@ -1,0 +1,32 @@
+<map id="Mips.h" name="Mips.h">
+<area shape="rect" id="node2" href="$MipsMCTargetDesc_8h.html" title="MCTargetDesc/MipsMCTarget\lDesc.h" alt="" coords="3509,80,3715,121"/>
+<area shape="rect" id="node7" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="3001,87,3199,114"/>
+<area shape="rect" id="node8" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2657,468,2807,495"/>
+<area shape="rect" id="node15" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="876,169,969,196"/>
+<area shape="rect" id="node43" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3011,169,3189,196"/>
+<area shape="rect" id="node49" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="3600,393,3795,420"/>
+<area shape="rect" id="node16" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="617,543,791,569"/>
+<area shape="rect" id="node18" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="604,244,748,271"/>
+<area shape="rect" id="node38" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="825,319,1021,345"/>
+<area shape="rect" id="node19" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="425,319,583,345"/>
+<area shape="rect" id="node20" href="$PassInfo_8h.html" title="llvm/PassInfo.h" alt="" coords="371,393,487,420"/>
+<area shape="rect" id="node22" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="659,319,800,345"/>
+<area shape="rect" id="node35" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="2673,319,2837,345"/>
+<area shape="rect" id="node36" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="5,468,176,495"/>
+<area shape="rect" id="node23" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="2955,393,3061,420"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1095,393,1257,420"/>
+<area shape="rect" id="node31" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1448,468,1619,495"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2337,393,2495,420"/>
+<area shape="rect" id="node33" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="614,393,847,420"/>
+<area shape="rect" id="node34" href="$RWMutex_8h.html" title="llvm/Support/RWMutex.h" alt="" coords="440,468,616,495"/>
+<area shape="rect" id="node24" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="2934,468,3061,495"/>
+<area shape="rect" id="node26" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="843,468,1005,495"/>
+<area shape="rect" id="node28" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1081,468,1271,495"/>
+<area shape="rect" id="node29" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1795,468,1981,495"/>
+<area shape="rect" id="node39" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1803,393,1973,420"/>
+<area shape="rect" id="node40" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="2294,468,2479,495"/>
+<area shape="rect" id="node44" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="3076,244,3244,271"/>
+<area shape="rect" id="node48" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2723,393,2930,420"/>
+<area shape="rect" id="node45" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="3228,319,3343,345"/>
+<area shape="rect" id="node50" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="3509,468,3705,495"/>
+</map>

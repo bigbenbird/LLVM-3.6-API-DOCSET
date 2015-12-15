@@ -1,0 +1,5 @@
+<map id="llvm::MDNodeFwdDecl" name="llvm::MDNodeFwdDecl">
+<area shape="rect" id="node2" href="$classllvm_1_1MDNode.html" title="Tuple of metadata. " alt="" coords="9,80,119,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ReplaceableMetadataImpl.html" title="Shared implementation of use&#45;lists for replaceable metadata. " alt="" coords="143,80,363,107"/>
+</map>

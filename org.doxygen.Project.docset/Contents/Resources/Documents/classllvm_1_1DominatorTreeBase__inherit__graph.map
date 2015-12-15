@@ -1,0 +1,7 @@
+<map id="llvm::DominatorTreeBase&lt; N &gt;" name="llvm::DominatorTreeBase&lt; N &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; llvm::BasicBlock \&gt;" alt="" coords="683,5,865,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="671,71,877,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; BasicBlock \&gt;" alt="" coords="683,136,865,177"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DominatorBase.html" title="Base class that other, more interesting dominator analyses inherit from. " alt="" coords="5,71,161,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree..." alt="" coords="927,143,1077,170"/>
+</map>

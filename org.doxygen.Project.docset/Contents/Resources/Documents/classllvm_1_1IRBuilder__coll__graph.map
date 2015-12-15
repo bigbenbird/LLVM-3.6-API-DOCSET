@@ -1,0 +1,50 @@
+<map id="llvm::IRBuilder&lt; preserveNames, T, Inserter &gt;" name="llvm::IRBuilder&lt; preserveNames, T, Inserter &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IRBuilderBase.html" title="Common base class shared among various IRBuilders. " alt="" coords="1849,1336,1992,1363"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BasicBlock.html" title="LLVM Basic Block Representation. " alt="" coords="889,61,1013,88"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="449,120,539,147"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="61,416,141,443"/>
+<area shape="rect" id="node11" href="$classllvm_1_1LLVMContextImpl.html" title="llvm::LLVMContextImpl" alt="" coords="1267,1381,1433,1408"/>
+<area shape="rect" id="node13" href="$classllvm_1_1Type.html" title="llvm::Type" alt="" coords="452,416,536,443"/>
+<area shape="rect" id="node48" href="$classllvm_1_1MDNode.html" title="Tuple of metadata. " alt="" coords="896,2687,1007,2713"/>
+<area shape="rect" id="node49" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="435,2687,553,2713"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; BasicBlock \&gt;" alt="" coords="387,61,601,88"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; BasicBlock \&gt;" alt="" coords="28,57,175,98"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node10" href="$classllvm_1_1LLVMContext.html" title="llvm::LLVMContext" alt="" coords="1604,1336,1743,1363"/>
+<area shape="rect" id="node12" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer. " alt="" coords="854,439,1049,495"/>
+<area shape="rect" id="node28" href="$classllvm_1_1IntegerType.html" title="Integer representation type. " alt="" coords="887,519,1016,545"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l llvm::Module *, 4 \&gt;" alt="" coords="877,570,1025,611"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::Type *,\l uint64_t \&gt;, llvm::ArrayType * \&gt;" alt="" coords="840,635,1063,691"/>
+<area shape="rect" id="node16" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::StructType * \&gt;" alt="" coords="870,714,1033,755"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; Function\lType *, FunctionTypeKeyInfo \&gt;" alt="" coords="846,779,1057,821"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; ConstantStruct \&gt;" alt="" coords="858,845,1045,886"/>
+<area shape="rect" id="node19" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l llvm::IntegerType * \&gt;" alt="" coords="851,910,1052,951"/>
+<area shape="rect" id="node20" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; const char *,\l unsigned \&gt;, unsigned \&gt;" alt="" coords="861,975,1041,1031"/>
+<area shape="rect" id="node21" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Value\l *, ValueHandleBase * \&gt;" alt="" coords="862,1054,1041,1095"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ConstantInt.html" title="Class for constant integers. " alt="" coords="886,1120,1017,1147"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; ConstantVector \&gt;" alt="" coords="858,1171,1045,1213"/>
+<area shape="rect" id="node24" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeImpl \&gt;" alt="" coords="869,1237,1033,1278"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, llvm::UndefValue * \&gt;" alt="" coords="846,1302,1057,1343"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Instruction *,\l llvm::SmallVector \&gt;" alt="" coords="864,1367,1039,1423"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, llvm::PointerType * \&gt;" alt="" coords="846,1446,1057,1487"/>
+<area shape="rect" id="node29" href="$structllvm_1_1LeakDetectorImpl.html" title="llvm::LeakDetectorImpl\l\&lt; llvm::Metadata \&gt;" alt="" coords="867,1511,1036,1553"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l llvm::UniquableMDNode\l *, 1 \&gt;" alt="" coords="862,1576,1041,1632"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; llvm\l::MDLocation *, llvm\l::MDLocationInfo \&gt;" alt="" coords="871,1656,1031,1712"/>
+<area shape="rect" id="node32" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetNode \&gt;" alt="" coords="869,1735,1033,1777"/>
+<area shape="rect" id="node33" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; unsigned \&gt;" alt="" coords="847,1801,1056,1828"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; StructType\l *, AnonStructTypeKeyInfo \&gt;" alt="" coords="851,1853,1052,1894"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; llvm\l::MDTuple *, llvm::MDTupleInfo \&gt;" alt="" coords="838,1918,1065,1959"/>
+<area shape="rect" id="node36" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::PointerType *, llvm\l::ConstantPointerNull * \&gt;" alt="" coords="860,1983,1043,2039"/>
+<area shape="rect" id="node37" href="$classbool.html" title="bool" alt="" coords="77,2713,126,2740"/>
+<area shape="rect" id="node38" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::Type *,\l unsigned \&gt;, llvm::VectorType * \&gt;" alt="" coords="833,2063,1069,2119"/>
+<area shape="rect" id="node39" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; const llvm::\lFunction *, const llvm\l::BasicBlock * \&gt;, llvm\l::BlockAddress * \&gt;" alt="" coords="872,2143,1031,2228"/>
+<area shape="rect" id="node40" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::ConstantDataSequential * \&gt;" alt="" coords="845,2253,1058,2294"/>
+<area shape="rect" id="node41" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetImpl \&gt;" alt="" coords="869,2318,1033,2359"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; APFloat,\l ConstantFP *, DenseMapAPFloat\lKeyInfo \&gt;" alt="" coords="834,2383,1069,2439"/>
+<area shape="rect" id="node43" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; APInt,\l ConstantInt *, DenseMapAPInt\lKeyInfo \&gt;" alt="" coords="841,2463,1061,2519"/>
+<area shape="rect" id="node44" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Function *, ReturnInst * \&gt;" alt="" coords="857,2542,1045,2583"/>
+<area shape="rect" id="node45" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, llvm::ConstantAggregate\lZero * \&gt;" alt="" coords="833,2607,1069,2663"/>
+<area shape="rect" id="node46" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; llvm::ConstantExpr \&gt;" alt="" coords="858,113,1045,154"/>
+<area shape="rect" id="node47" href="$classllvm_1_1FastMathFlags.html" title="Convenience struct for specifying and reasoning about fast&#45;math flags. " alt="" coords="1600,1387,1747,1413"/>
+<area shape="rect" id="node50" href="$classllvm_1_1Inserter.html" title="Inserter" alt="" coords="1885,1387,1956,1413"/>
+</map>

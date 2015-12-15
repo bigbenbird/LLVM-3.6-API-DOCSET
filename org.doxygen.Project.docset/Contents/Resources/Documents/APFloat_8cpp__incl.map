@@ -1,0 +1,24 @@
+<map id="APFloat.cpp" name="APFloat.cpp">
+<area shape="rect" id="node2" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="289,80,431,107"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="854,453,1045,480"/>
+<area shape="rect" id="node30" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="293,155,429,181"/>
+<area shape="rect" id="node31" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="2425,229,2586,256"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2577,379,2727,405"/>
+<area shape="rect" id="node36" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1784,80,1931,107"/>
+<area shape="rect" id="node40" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2374,304,2546,331"/>
+<area shape="rect" id="node41" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2673,304,2879,331"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="283,229,410,256"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="144,304,291,331"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1715,603,1890,629"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="144,379,272,405"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="587,379,744,405"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1648,379,1819,405"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1614,453,1799,480"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1840,528,2003,555"/>
+<area shape="rect" id="node25" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1352,453,1539,480"/>
+<area shape="rect" id="node19" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2207,528,2425,555"/>
+<area shape="rect" id="node33" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1971,304,2146,331"/>
+<area shape="rect" id="node34" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="2179,379,2349,405"/>
+<area shape="rect" id="node37" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1617,155,1767,181"/>
+<area shape="rect" id="node38" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1585,229,1743,256"/>
+</map>

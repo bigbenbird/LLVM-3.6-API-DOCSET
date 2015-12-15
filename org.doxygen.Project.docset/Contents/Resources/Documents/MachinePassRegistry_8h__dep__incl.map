@@ -1,0 +1,32 @@
+<map id="MachinePassRegistry.h" name="MachinePassRegistry.h">
+<area shape="rect" id="node2" href="$MachineScheduler_8h.html" title="MachineScheduler.h" alt="" coords="611,80,762,107"/>
+<area shape="rect" id="node13" href="$RegAllocRegistry_8h.html" title="RegAllocRegistry.h" alt="" coords="1474,80,1609,107"/>
+<area shape="rect" id="node20" href="$SchedulerRegistry_8h.html" title="SchedulerRegistry.h" alt="" coords="2756,80,2903,107"/>
+<area shape="rect" id="node31" href="$MachinePassRegistry_8cpp.html" title="MachinePassRegistry.cpp" alt="" coords="2927,80,3105,107"/>
+<area shape="rect" id="node3" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="5,155,171,181"/>
+<area shape="rect" id="node4" href="$AArch64Subtarget_8cpp.html" title="AArch64Subtarget.cpp" alt="" coords="195,155,362,181"/>
+<area shape="rect" id="node5" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="386,155,593,181"/>
+<area shape="rect" id="node8" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="617,155,756,181"/>
+<area shape="rect" id="node9" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="831,155,1014,181"/>
+<area shape="rect" id="node10" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="668,229,839,256"/>
+<area shape="rect" id="node6" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="150,229,373,256"/>
+<area shape="rect" id="node7" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="397,229,595,256"/>
+<area shape="rect" id="node11" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="863,229,1062,256"/>
+<area shape="rect" id="node12" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="1087,229,1284,256"/>
+<area shape="rect" id="node14" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="1039,155,1132,181"/>
+<area shape="rect" id="node15" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="1156,155,1292,181"/>
+<area shape="rect" id="node16" href="$RegAllocFast_8cpp.html" title="RegAllocFast.cpp" alt="" coords="1316,155,1444,181"/>
+<area shape="rect" id="node17" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="1468,155,1615,181"/>
+<area shape="rect" id="node18" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="1639,155,1774,181"/>
+<area shape="rect" id="node19" href="$AArch64TargetMachine_8cpp.html" title="AArch64TargetMachine.cpp" alt="" coords="1799,155,1993,181"/>
+<area shape="rect" id="node21" href="$LinkAllCodegenComponents_8h.html" title="LinkAllCodegenComponents.h" alt="" coords="2017,155,2231,181"/>
+<area shape="rect" id="node22" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="2255,155,2433,181"/>
+<area shape="rect" id="node23" href="$ScheduleDAGFast_8cpp.html" title="ScheduleDAGFast.cpp" alt="" coords="2457,155,2620,181"/>
+<area shape="rect" id="node24" href="$ScheduleDAGRRList_8cpp.html" title="ScheduleDAGRRList.cpp" alt="" coords="2645,155,2819,181"/>
+<area shape="rect" id="node25" href="$ScheduleDAGVLIW_8cpp.html" title="ScheduleDAGVLIW.cpp" alt="" coords="2844,155,3009,181"/>
+<area shape="rect" id="node26" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="3033,155,3193,181"/>
+<area shape="rect" id="node27" href="$HexagonExpandPredSpillCode_8cpp.html" title="HexagonExpandPredSpillCode.cpp" alt="" coords="3218,155,3459,181"/>
+<area shape="rect" id="node28" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="3483,155,3749,181"/>
+<area shape="rect" id="node29" href="$HexagonSplitTFRCondSets_8cpp.html" title="HexagonSplitTFRCondSets.cpp" alt="" coords="3773,155,3990,181"/>
+<area shape="rect" id="node30" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="4015,155,4215,181"/>
+</map>

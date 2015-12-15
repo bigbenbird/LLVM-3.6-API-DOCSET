@@ -1,0 +1,23 @@
+<map id="llvm::CastInst" name="llvm::CastInst">
+<area shape="rect" id="node10" href="$classllvm_1_1AddrSpaceCastInst.html" title="This class represents a conversion between pointers from one address space to another. " alt="" coords="1445,5,1624,32"/>
+<area shape="rect" id="node11" href="$classllvm_1_1BitCastInst.html" title="This class represents a no&#45;op cast from one type to another. " alt="" coords="1472,56,1597,83"/>
+<area shape="rect" id="node12" href="$classllvm_1_1FPExtInst.html" title="This class represents an extension of floating point types. " alt="" coords="1477,107,1592,133"/>
+<area shape="rect" id="node13" href="$classllvm_1_1FPToSIInst.html" title="This class represents a cast from floating point to signed integer. " alt="" coords="1475,157,1594,184"/>
+<area shape="rect" id="node14" href="$classllvm_1_1FPToUIInst.html" title="This class represents a cast from floating point to unsigned integer. " alt="" coords="1475,208,1595,235"/>
+<area shape="rect" id="node15" href="$classllvm_1_1FPTruncInst.html" title="This class represents a truncation of floating point types. " alt="" coords="1471,259,1598,285"/>
+<area shape="rect" id="node16" href="$classllvm_1_1IntToPtrInst.html" title="This class represents a cast from an integer to a pointer. " alt="" coords="1471,309,1598,336"/>
+<area shape="rect" id="node17" href="$classllvm_1_1PtrToIntInst.html" title="This class represents a cast from a pointer to an integer. " alt="" coords="1471,360,1598,387"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SExtInst.html" title="This class represents a sign extension of integer types. " alt="" coords="1481,411,1589,437"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SIToFPInst.html" title="This class represents a cast from signed integer to floating point. " alt="" coords="1475,461,1594,488"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TruncInst.html" title="This class represents a truncation of integer types. " alt="" coords="1479,512,1591,539"/>
+<area shape="rect" id="node21" href="$classllvm_1_1UIToFPInst.html" title="This class represents a cast unsigned integer to floating point. " alt="" coords="1475,563,1595,589"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ZExtInst.html" title="This class represents zero extension of integer types. " alt="" coords="1480,613,1589,640"/>
+<area shape="rect" id="node2" href="$classllvm_1_1UnaryInstruction.html" title="llvm::UnaryInstruction" alt="" coords="1077,309,1239,336"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="905,309,1028,336"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="706,284,793,311"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="352,280,443,307"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction \&gt;" alt="" coords="643,339,856,365"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Instruction \&gt;" alt="" coords="324,331,471,373"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,359,152,401"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="301,397,493,424"/>
+</map>

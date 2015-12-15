@@ -1,0 +1,7 @@
+<map id="llvm::MDNodeFwdDecl" name="llvm::MDNodeFwdDecl">
+<area shape="rect" id="node2" href="$classllvm_1_1MDNode.html" title="Tuple of metadata. " alt="" coords="225,185,336,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="126,109,243,136"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="5,5,55,32"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="209,5,289,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ReplaceableMetadataImpl.html" title="Shared implementation of use&#45;lists for replaceable metadata. " alt="" coords="360,185,580,212"/>
+</map>

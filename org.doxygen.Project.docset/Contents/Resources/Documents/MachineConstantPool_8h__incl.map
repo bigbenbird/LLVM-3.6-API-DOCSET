@@ -1,0 +1,12 @@
+<map id="MachineConstantPool.h" name="MachineConstantPool.h">
+<area shape="rect" id="node2" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="675,80,832,107"/>
+<area shape="rect" id="node23" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="908,80,1071,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="671,155,833,181"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="725,229,910,256"/>
+<area shape="rect" id="node5" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="790,304,967,345"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1019,311,1205,338"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="25,311,188,338"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="77,393,251,420"/>
+<area shape="rect" id="node14" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="407,229,598,256"/>
+<area shape="rect" id="node15" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="407,311,625,338"/>
+</map>

@@ -1,0 +1,93 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="175,613,314,640"/>
+<area shape="rect" id="node2" href="$structllvm_1_1LibCallAliasAnalysis.html" title="LibCallAliasAnalysis &#45; Alias analysis driven from LibCallInfo. " alt="" coords="430,639,609,665"/>
+<area shape="rect" id="node3" href="$classllvm_1_1objcarc_1_1ObjCARCAliasAnalysis.html" title="This is a simple alias analysis implementation that uses knowledge of ARC constructs to answer querie..." alt="" coords="712,1403,907,1445"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l InstCombiner, Instruction * \&gt;" alt="" coords="139,1863,351,1905"/>
+<area shape="rect" id="node5" href="$classllvm_1_1InstCombiner.html" title="InstCombiner &#45; The &#45;instcombine pass. " alt="" coords="449,1863,590,1889"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="5,2492,91,2519"/>
+<area shape="rect" id="node7" href="$classllvm_1_1BasicBlockPass.html" title="llvm::BasicBlockPass" alt="" coords="168,2619,321,2645"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CallGraphSCCPass.html" title="llvm::CallGraphSCCPass" alt="" coords="157,2720,332,2747"/>
+<area shape="rect" id="node11" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="175,1261,314,1288"/>
+<area shape="rect" id="node67" href="$classllvm_1_1legacy_1_1FunctionPassManagerImpl.html" title="FunctionPassManagerImpl manages FPPassManagers. " alt="" coords="426,2546,613,2587"/>
+<area shape="rect" id="node68" href="$classllvm_1_1legacy_1_1PassManagerImpl.html" title="PassManagerImpl manages MPPassManagers. " alt="" coords="411,2612,627,2639"/>
+<area shape="rect" id="node69" href="$classllvm_1_1LoopPass.html" title="llvm::LoopPass" alt="" coords="187,1812,303,1839"/>
+<area shape="rect" id="node71" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="179,2157,310,2184"/>
+<area shape="rect" id="node89" href="$classllvm_1_1RegionPass.html" title="A pass that runs on each Region in a function. " alt="" coords="181,2467,308,2493"/>
+<area shape="rect" id="node9" href="$classllvm_1_1InlineCostAnalysis.html" title="Cost analyzer used by inliner. " alt="" coords="434,2735,605,2761"/>
+<area shape="rect" id="node10" href="$structllvm_1_1Inliner.html" title="llvm::Inliner" alt="" coords="472,2684,567,2711"/>
+<area shape="rect" id="node12" href="$classllvm_1_1BlockFrequencyInfo.html" title="llvm::BlockFrequencyInfo" alt="" coords="430,993,609,1020"/>
+<area shape="rect" id="node13" href="$classllvm_1_1BranchProbabilityInfo.html" title="Analysis pass providing branch probability information. " alt="" coords="424,1044,615,1071"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DependenceAnalysis.html" title="llvm::DependenceAnalysis" alt="" coords="425,1095,614,1121"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DominanceFrontier.html" title="llvm::DominanceFrontier" alt="" coords="431,1145,608,1172"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DominatorTreeWrapperPass.html" title="Legacy analysis pass which computes a DominatorTree. " alt="" coords="404,1196,635,1223"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DOTGraphTraitsPrinter.html" title="llvm::DOTGraphTraitsPrinter\l\&lt; AnalysisT, IsSimple, GraphT,\l AnalysisGraphTraitsT \&gt;" alt="" coords="411,1247,627,1303"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DOTGraphTraitsViewer.html" title="llvm::DOTGraphTraitsViewer\l\&lt; AnalysisT, IsSimple, GraphT,\l AnalysisGraphTraitsT \&gt;" alt="" coords="411,1327,627,1383"/>
+<area shape="rect" id="node19" href="$classllvm_1_1FunctionTargetTransformInfo.html" title="llvm::FunctionTargetTransformInfo" alt="" coords="402,1407,637,1433"/>
+<area shape="rect" id="node20" href="$classllvm_1_1IntervalPartition.html" title="llvm::IntervalPartition" alt="" coords="442,1457,597,1484"/>
+<area shape="rect" id="node21" href="$classllvm_1_1LazyValueInfo.html" title="This pass computes, caches, and vends lazy value constraint information. " alt="" coords="448,1508,591,1535"/>
+<area shape="rect" id="node22" href="$classllvm_1_1LoopInfo.html" title="llvm::LoopInfo" alt="" coords="464,1559,575,1585"/>
+<area shape="rect" id="node23" href="$classllvm_1_1LPPassManager.html" title="llvm::LPPassManager" alt="" coords="441,2393,597,2420"/>
+<area shape="rect" id="node24" href="$structllvm_1_1MachineFunctionAnalysis.html" title="llvm::MachineFunctionAnalysis" alt="" coords="412,1609,627,1636"/>
+<area shape="rect" id="node25" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="424,537,615,564"/>
+<area shape="rect" id="node57" href="$classllvm_1_1MemoryDependenceAnalysis.html" title="llvm::MemoryDependenceAnalysis" alt="" coords="399,1660,640,1687"/>
+<area shape="rect" id="node58" href="$classllvm_1_1NVPTXAllocaHoisting.html" title="llvm::NVPTXAllocaHoisting" alt="" coords="425,1711,613,1737"/>
+<area shape="rect" id="node59" href="$structllvm_1_1NVPTXLowerAggrCopies.html" title="llvm::NVPTXLowerAggrCopies" alt="" coords="415,1761,623,1788"/>
+<area shape="rect" id="node60" href="$structllvm_1_1PostDominatorTree.html" title="llvm::PostDominatorTree" alt="" coords="430,689,609,716"/>
+<area shape="rect" id="node61" href="$classllvm_1_1RegionInfoPass.html" title="llvm::RegionInfoPass" alt="" coords="444,740,595,767"/>
+<area shape="rect" id="node62" href="$classllvm_1_1RGPassManager.html" title="The pass manager to schedule RegionPasses. " alt="" coords="440,2444,599,2471"/>
+<area shape="rect" id="node63" href="$classllvm_1_1ScalarEvolution.html" title="llvm::ScalarEvolution" alt="" coords="442,791,597,817"/>
+<area shape="rect" id="node64" href="$classllvm_1_1StackProtector.html" title="llvm::StackProtector" alt="" coords="444,841,595,868"/>
+<area shape="rect" id="node65" href="$structllvm_1_1UnifyFunctionExitNodes.html" title="llvm::UnifyFunctionExitNodes" alt="" coords="417,892,622,919"/>
+<area shape="rect" id="node66" href="$classNVPTXLowerStructArgs.html" title="NVPTXLowerStructArgs" alt="" coords="435,943,604,969"/>
+<area shape="rect" id="node26" href="$classllvm_1_1AsmPrinter.html" title="This class is intended to be used as a driving class for all asm writers. " alt="" coords="746,284,873,311"/>
+<area shape="rect" id="node34" href="$classllvm_1_1EdgeBundles.html" title="llvm::EdgeBundles" alt="" coords="740,335,879,361"/>
+<area shape="rect" id="node35" href="$classllvm_1_1LiveDebugVariables.html" title="llvm::LiveDebugVariables" alt="" coords="719,385,900,412"/>
+<area shape="rect" id="node36" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="742,436,877,463"/>
+<area shape="rect" id="node37" href="$classllvm_1_1LiveRegMatrix.html" title="llvm::LiveRegMatrix" alt="" coords="738,487,881,513"/>
+<area shape="rect" id="node38" href="$classllvm_1_1LiveStacks.html" title="llvm::LiveStacks" alt="" coords="747,537,871,564"/>
+<area shape="rect" id="node39" href="$classllvm_1_1LiveVariables.html" title="llvm::LiveVariables" alt="" coords="740,588,879,615"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MachineBlockFrequencyInfo.html" title="llvm::MachineBlockFrequencyInfo" alt="" coords="694,639,925,665"/>
+<area shape="rect" id="node41" href="$classllvm_1_1MachineDominanceFrontier.html" title="llvm::MachineDominanceFrontier" alt="" coords="694,689,925,716"/>
+<area shape="rect" id="node42" href="$classllvm_1_1MachineDominatorTree.html" title="llvm::MachineDominatorTree" alt="" coords="708,740,911,767"/>
+<area shape="rect" id="node43" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="728,791,891,817"/>
+<area shape="rect" id="node44" href="$structllvm_1_1MachinePostDominatorTree.html" title="llvm::MachinePostDominatorTree" alt="" coords="694,841,925,868"/>
+<area shape="rect" id="node45" href="$classllvm_1_1MachineRegionInfoPass.html" title="llvm::MachineRegionInfoPass" alt="" coords="708,892,911,919"/>
+<area shape="rect" id="node46" href="$classllvm_1_1MachineTraceMetrics.html" title="llvm::MachineTraceMetrics" alt="" coords="715,943,903,969"/>
+<area shape="rect" id="node47" href="$classllvm_1_1MipsModuleDAGToDAGISel.html" title="llvm::MipsModuleDAGToDAGISel" alt="" coords="697,993,922,1020"/>
+<area shape="rect" id="node48" href="$classllvm_1_1PEI.html" title="llvm::PEI" alt="" coords="772,1044,847,1071"/>
+<area shape="rect" id="node49" href="$classllvm_1_1SelectionDAGISel.html" title="llvm::SelectionDAGISel" alt="" coords="726,31,893,57"/>
+<area shape="rect" id="node53" href="$classllvm_1_1SlotIndexes.html" title="llvm::SlotIndexes" alt="" coords="744,81,875,108"/>
+<area shape="rect" id="node54" href="$classllvm_1_1SpillPlacement.html" title="llvm::SpillPlacement" alt="" coords="734,132,885,159"/>
+<area shape="rect" id="node55" href="$classllvm_1_1StackMapLiveness.html" title="This pass calculates the liveness information for each basic block in a function and attaches the reg..." alt="" coords="722,183,897,209"/>
+<area shape="rect" id="node56" href="$classllvm_1_1VirtRegMap.html" title="llvm::VirtRegMap" alt="" coords="745,233,873,260"/>
+<area shape="rect" id="node27" href="$classllvm_1_1AMDGPUAsmPrinter.html" title="llvm::AMDGPUAsmPrinter" alt="" coords="979,233,1165,260"/>
+<area shape="rect" id="node28" href="$classllvm_1_1ARMAsmPrinter.html" title="llvm::ARMAsmPrinter" alt="" coords="995,284,1149,311"/>
+<area shape="rect" id="node29" href="$classllvm_1_1HexagonAsmPrinter.html" title="llvm::HexagonAsmPrinter" alt="" coords="980,335,1164,361"/>
+<area shape="rect" id="node30" href="$classllvm_1_1MipsAsmPrinter.html" title="llvm::MipsAsmPrinter" alt="" coords="994,385,1150,412"/>
+<area shape="rect" id="node31" href="$classllvm_1_1NVPTXAsmPrinter.html" title="llvm::NVPTXAsmPrinter" alt="" coords="987,436,1157,463"/>
+<area shape="rect" id="node32" href="$classllvm_1_1SystemZAsmPrinter.html" title="llvm::SystemZAsmPrinter" alt="" coords="979,132,1165,159"/>
+<area shape="rect" id="node33" href="$classllvm_1_1X86AsmPrinter.html" title="llvm::X86AsmPrinter" alt="" coords="997,183,1147,209"/>
+<area shape="rect" id="node50" href="$classllvm_1_1MipsDAGToDAGISel.html" title="llvm::MipsDAGToDAGISel" alt="" coords="983,31,1161,57"/>
+<area shape="rect" id="node51" href="$classllvm_1_1Mips16DAGToDAGISel.html" title="llvm::Mips16DAGToDAGISel" alt="" coords="1214,5,1409,32"/>
+<area shape="rect" id="node52" href="$classllvm_1_1MipsSEDAGToDAGISel.html" title="llvm::MipsSEDAGToDAGISel" alt="" coords="1213,56,1409,83"/>
+<area shape="rect" id="node70" href="$classllvm_1_1IVUsers.html" title="llvm::IVUsers" alt="" coords="467,1812,572,1839"/>
+<area shape="rect" id="node72" href="$classllvm_1_1CallGraphWrapperPass.html" title="The ModulePass which wraps up a CallGraph and the logic to build it. " alt="" coords="420,2183,619,2209"/>
+<area shape="rect" id="node73" href="$classllvm_1_1DOTGraphTraitsModulePrinter.html" title="llvm::DOTGraphTraitsModule\lPrinter\&lt; AnalysisT, IsSimple,\l GraphT, AnalysisGraphTraitsT \&gt;" alt="" coords="406,2233,633,2289"/>
+<area shape="rect" id="node74" href="$classllvm_1_1DOTGraphTraitsModuleViewer.html" title="llvm::DOTGraphTraitsModule\lViewer\&lt; AnalysisT, IsSimple,\l GraphT, AnalysisGraphTraitsT \&gt;" alt="" coords="406,2313,633,2369"/>
+<area shape="rect" id="node75" href="$classllvm_1_1ForwardControlFlowIntegrity.html" title="llvm::ForwardControlFlow\lIntegrity" alt="" coords="430,1914,609,1955"/>
+<area shape="rect" id="node76" href="$classllvm_1_1FPPassManager.html" title="llvm::FPPassManager" alt="" coords="441,2495,597,2521"/>
+<area shape="rect" id="node77" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="442,1980,597,2007"/>
+<area shape="rect" id="node86" href="$classllvm_1_1JumpInstrTables.html" title="llvm::JumpInstrTables" alt="" coords="442,2031,597,2057"/>
+<area shape="rect" id="node87" href="$classllvm_1_1Mips16HardFloat.html" title="llvm::Mips16HardFloat" alt="" coords="438,2081,601,2108"/>
+<area shape="rect" id="node88" href="$classllvm_1_1MipsOs16.html" title="llvm::MipsOs16" alt="" coords="460,2132,579,2159"/>
+<area shape="rect" id="node78" href="$classllvm_1_1AssumptionCacheTracker.html" title="An immutable pass that tracks lazily created AssumptionCache objects. " alt="" coords="701,1904,918,1931"/>
+<area shape="rect" id="node79" href="$classllvm_1_1DataLayoutPass.html" title="llvm::DataLayoutPass" alt="" coords="730,1955,889,1981"/>
+<area shape="rect" id="node80" href="$classllvm_1_1GCModuleInfo.html" title="llvm::GCModuleInfo" alt="" coords="737,2005,881,2032"/>
+<area shape="rect" id="node81" href="$classllvm_1_1JumpInstrTableInfo.html" title="llvm::JumpInstrTableInfo" alt="" coords="724,2056,895,2083"/>
+<area shape="rect" id="node82" href="$classllvm_1_1MachineBranchProbabilityInfo.html" title="llvm::MachineBranchProbabilityInfo" alt="" coords="688,2107,931,2133"/>
+<area shape="rect" id="node83" href="$classllvm_1_1MachineModuleInfo.html" title="llvm::MachineModuleInfo" alt="" coords="720,2157,899,2184"/>
+<area shape="rect" id="node84" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="729,1803,890,1829"/>
+<area shape="rect" id="node85" href="$classllvm_1_1TargetPassConfig.html" title="llvm::TargetPassConfig" alt="" coords="727,1853,891,1880"/>
+<area shape="rect" id="node90" href="$classllvm_1_1PMDataManager.html" title="llvm::PMDataManager" alt="" coords="163,2416,326,2443"/>
+<area shape="rect" id="node91" href="$classllvm_1_1PMTopLevelManager.html" title="llvm::PMTopLevelManager" alt="" coords="152,2568,337,2595"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="XCoreRegisterInfo.h" name="XCoreRegisterInfo.h">
+<area shape="rect" id="node2" href="$XCoreDisassembler_8cpp.html" title="This file is part of the XCore Disassembler. " alt="" coords="596,80,768,107"/>
+<area shape="rect" id="node3" href="$XCoreInstrInfo_8h.html" title="XCoreInstrInfo.h" alt="" coords="793,80,915,107"/>
+<area shape="rect" id="node13" href="$XCoreRegisterInfo_8cpp.html" title="XCoreRegisterInfo.cpp" alt="" coords="1282,229,1442,256"/>
+<area shape="rect" id="node4" href="$XCoreAsmPrinter_8cpp.html" title="XCoreAsmPrinter.cpp" alt="" coords="5,304,161,331"/>
+<area shape="rect" id="node5" href="$XCoreSubtarget_8h.html" title="XCoreSubtarget.h" alt="" coords="645,155,780,181"/>
+<area shape="rect" id="node11" href="$XCoreFrameLowering_8cpp.html" title="XCoreFrameLowering.cpp" alt="" coords="141,229,324,256"/>
+<area shape="rect" id="node12" href="$XCoreFrameToArgsOffsetElim_8cpp.html" title="XCoreFrameToArgsOffsetElim.cpp" alt="" coords="1024,229,1257,256"/>
+<area shape="rect" id="node16" href="$XCoreInstrInfo_8cpp.html" title="XCoreInstrInfo.cpp" alt="" coords="917,155,1055,181"/>
+<area shape="rect" id="node17" href="$XCoreMachineFunctionInfo_8cpp.html" title="XCoreMachineFunctionInfo.cpp" alt="" coords="1079,155,1293,181"/>
+<area shape="rect" id="node6" href="$XCoreTargetMachine_8h.html" title="XCoreTargetMachine.h" alt="" coords="399,229,562,256"/>
+<area shape="rect" id="node8" href="$XCoreISelLowering_8cpp.html" title="XCoreISelLowering.cpp" alt="" coords="814,304,979,331"/>
+<area shape="rect" id="node14" href="$XCoreSubtarget_8cpp.html" title="XCoreSubtarget.cpp" alt="" coords="637,229,788,256"/>
+<area shape="rect" id="node15" href="$XCoreTargetObjectFile_8cpp.html" title="XCoreTargetObjectFile.cpp" alt="" coords="813,229,999,256"/>
+<area shape="rect" id="node7" href="$XCoreISelDAGToDAG_8cpp.html" title="XCoreISelDAGToDAG.cpp" alt="" coords="185,304,365,331"/>
+<area shape="rect" id="node9" href="$XCoreSelectionDAGInfo_8cpp.html" title="XCoreSelectionDAGInfo.cpp" alt="" coords="390,304,587,331"/>
+<area shape="rect" id="node10" href="$XCoreTargetMachine_8cpp.html" title="XCoreTargetMachine.cpp" alt="" coords="611,304,790,331"/>
+</map>

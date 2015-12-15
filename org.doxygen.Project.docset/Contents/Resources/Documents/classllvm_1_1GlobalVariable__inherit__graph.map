@@ -1,0 +1,11 @@
+<map id="llvm::GlobalVariable" name="llvm::GlobalVariable">
+<area shape="rect" id="node2" href="$classllvm_1_1GlobalObject.html" title="llvm::GlobalObject" alt="" coords="983,5,1121,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="632,5,763,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation. " alt="" coords="297,5,412,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="145,5,232,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Global\lVariable \&gt;" alt="" coords="967,57,1137,98"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; GlobalVariable \&gt;" alt="" coords="624,57,771,98"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="281,82,428,123"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="601,123,793,149"/>
+</map>

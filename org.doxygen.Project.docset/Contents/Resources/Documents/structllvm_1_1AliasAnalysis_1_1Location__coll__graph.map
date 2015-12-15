@@ -1,0 +1,8 @@
+<map id="llvm::AliasAnalysis::Location" name="llvm::AliasAnalysis::Location">
+<area shape="rect" id="node3" href="$structllvm_1_1AAMDNodes.html" title="A collection of metadata nodes that might be associated with a memory access used by the alias&#45;analys..." alt="" coords="275,344,411,371"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Tuple of metadata. " alt="" coords="259,225,369,252"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="126,124,243,151"/>
+<area shape="rect" id="node6" href="$classbool.html" title="bool" alt="" coords="5,5,55,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="274,5,354,32"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="449,175,539,201"/>
+</map>

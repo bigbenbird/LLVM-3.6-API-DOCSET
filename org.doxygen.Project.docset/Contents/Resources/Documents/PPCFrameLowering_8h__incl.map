@@ -1,0 +1,34 @@
+<map id="PPCFrameLowering.h" name="PPCFrameLowering.h">
+<area shape="rect" id="node2" href="$PPC_8h.html" title="PPC.h" alt="" coords="3291,244,3349,271"/>
+<area shape="rect" id="node9" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="541,408,699,435"/>
+<area shape="rect" id="node18" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="1340,80,1583,107"/>
+<area shape="rect" id="node41" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2469,244,2667,271"/>
+<area shape="rect" id="node3" href="$PPCMCTargetDesc_8h.html" title="MCTargetDesc/PPCMCTarget\lDesc.h" alt="" coords="3358,319,3559,360"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1089,483,1263,509"/>
+<area shape="rect" id="node19" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1040,155,1243,196"/>
+<area shape="rect" id="node20" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="94,244,261,271"/>
+<area shape="rect" id="node21" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1038,244,1245,271"/>
+<area shape="rect" id="node22" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1568,326,1715,353"/>
+<area shape="rect" id="node24" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="753,326,938,353"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1782,483,1933,509"/>
+<area shape="rect" id="node30" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="811,408,925,435"/>
+<area shape="rect" id="node31" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1389,326,1544,353"/>
+<area shape="rect" id="node32" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="950,408,1135,435"/>
+<area shape="rect" id="node33" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="1131,326,1365,353"/>
+<area shape="rect" id="node34" href="$DebugInfo_8h.html" title="llvm/IR/DebugInfo.h" alt="" coords="963,326,1107,353"/>
+<area shape="rect" id="node36" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="1739,326,1882,353"/>
+<area shape="rect" id="node37" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2085,408,2227,435"/>
+<area shape="rect" id="node38" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="1907,326,2075,353"/>
+<area shape="rect" id="node39" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="297,326,501,353"/>
+<area shape="rect" id="node40" href="$TargetOpcodes_8h.html" title="llvm/Target/TargetOpcodes.h" alt="" coords="525,326,728,353"/>
+<area shape="rect" id="node35" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1441,408,1647,435"/>
+<area shape="rect" id="node42" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2605,326,2699,353"/>
+<area shape="rect" id="node47" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2301,326,2480,353"/>
+<area shape="rect" id="node49" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="3035,408,3229,435"/>
+<area shape="rect" id="node43" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="2765,408,2909,435"/>
+<area shape="rect" id="node46" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="2545,408,2741,435"/>
+<area shape="rect" id="node44" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="2641,483,2799,509"/>
+<area shape="rect" id="node45" href="$PassInfo_8h.html" title="llvm/PassInfo.h" alt="" coords="2009,483,2125,509"/>
+<area shape="rect" id="node48" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="2301,408,2469,435"/>
+<area shape="rect" id="node50" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="3086,483,3282,509"/>
+</map>

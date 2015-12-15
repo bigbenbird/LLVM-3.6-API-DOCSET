@@ -1,0 +1,5 @@
+<map id="llvm::sampleprof::SampleProfileWriterText" name="llvm::sampleprof::SampleProfileWriterText">
+<area shape="rect" id="node2" href="$classllvm_1_1sampleprof_1_1SampleProfileWriter.html" title="Sample&#45;based profile writer. Base class. " alt="" coords="5,171,191,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1raw__fd__ostream.html" title="llvm::raw_fd_ostream" alt="" coords="19,81,177,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1raw__ostream.html" title="llvm::raw_ostream" alt="" coords="29,5,167,32"/>
+</map>

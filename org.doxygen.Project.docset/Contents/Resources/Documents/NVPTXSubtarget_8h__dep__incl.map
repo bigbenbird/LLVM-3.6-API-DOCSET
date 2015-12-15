@@ -1,0 +1,15 @@
+<map id="NVPTXSubtarget.h" name="NVPTXSubtarget.h">
+<area shape="rect" id="node2" href="$NVPTXAsmPrinter_8h.html" title="NVPTXAsmPrinter.h" alt="" coords="216,155,363,181"/>
+<area shape="rect" id="node4" href="$NVPTXTargetMachine_8h.html" title="NVPTXTargetMachine.h" alt="" coords="507,80,675,107"/>
+<area shape="rect" id="node5" href="$NVPTXFrameLowering_8cpp.html" title="NVPTXFrameLowering.cpp" alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node12" href="$NVPTXRegisterInfo_8cpp.html" title="NVPTXRegisterInfo.cpp" alt="" coords="699,80,864,107"/>
+<area shape="rect" id="node13" href="$NVPTXReplaceImageHandles_8cpp.html" title="NVPTXReplaceImageHandles.cpp" alt="" coords="888,80,1120,107"/>
+<area shape="rect" id="node14" href="$NVPTXSubtarget_8cpp.html" title="NVPTXSubtarget.cpp" alt="" coords="1144,80,1299,107"/>
+<area shape="rect" id="node3" href="$NVPTXAsmPrinter_8cpp.html" title="NVPTXAsmPrinter.cpp" alt="" coords="487,229,649,256"/>
+<area shape="rect" id="node6" href="$NVPTXInstrInfo_8cpp.html" title="NVPTXInstrInfo.cpp" alt="" coords="886,155,1029,181"/>
+<area shape="rect" id="node7" href="$NVPTXISelDAGToDAG_8h.html" title="NVPTXISelDAGToDAG.h" alt="" coords="1053,155,1224,181"/>
+<area shape="rect" id="node9" href="$NVPTXISelLowering_8cpp.html" title="NVPTXISelLowering.cpp" alt="" coords="1248,155,1419,181"/>
+<area shape="rect" id="node10" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="387,155,570,181"/>
+<area shape="rect" id="node11" href="$NVPTXTargetTransformInfo_8cpp.html" title="NVPTXTargetTransformInfo.cpp" alt="" coords="595,155,811,181"/>
+<area shape="rect" id="node8" href="$NVPTXISelDAGToDAG_8cpp.html" title="NVPTXISelDAGToDAG.cpp" alt="" coords="1046,229,1231,256"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::InstrProfLookupTrait::data_type" name="llvm::InstrProfLookupTrait::data_type">
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint64_t \&gt;" alt="" coords="5,95,196,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="27,5,174,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="llvm::StringRef" alt="" coords="220,95,333,121"/>
+</map>

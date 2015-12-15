@@ -1,0 +1,27 @@
+<map id="llvm::ARMRegisterInfo" name="llvm::ARMRegisterInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1ARMBaseRegisterInfo.html" title="llvm::ARMBaseRegisterInfo" alt="" coords="2030,465,2221,492"/>
+<area shape="rect" id="node3" href="$classARMGenRegisterInfo.html" title="ARMGenRegisterInfo" alt="" coords="1738,465,1889,492"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ARMSubtarget.html" title="llvm::ARMSubtarget" alt="" coords="1739,860,1887,887"/>
+<area shape="rect" id="node27" href="$classllvm_1_1ARMBaseTargetMachine.html" title="llvm::ARMBaseTargetMachine" alt="" coords="2021,937,2229,964"/>
+<area shape="rect" id="node5" href="$classARMGenSubtargetInfo.html" title="ARMGenSubtargetInfo" alt="" coords="1357,731,1520,757"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="929,1435,1073,1461"/>
+<area shape="rect" id="node29" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1365,1845,1513,1872"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="532,1368,696,1395"/>
+<area shape="rect" id="node21" href="$structllvm_1_1MCProcResourceDesc.html" title="Define a kind of processor resource that will be modeled by the scheduler. " alt="" coords="517,452,711,479"/>
+<area shape="rect" id="node24" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="546,351,682,377"/>
+<area shape="rect" id="node25" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="553,104,675,131"/>
+<area shape="rect" id="node14" href="$classbool.html" title="bool" alt="" coords="97,1020,146,1047"/>
+<area shape="rect" id="node20" href="$structllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="924,665,1079,692"/>
+<area shape="rect" id="node23" href="$structllvm_1_1MCSchedClassDesc.html" title="llvm::MCSchedClassDesc" alt="" coords="523,757,705,784"/>
+<area shape="rect" id="node32" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="550,2033,678,2060"/>
+<area shape="rect" id="node17" href="$classunsigned.html" title="unsigned" alt="" coords="81,519,161,545"/>
+<area shape="rect" id="node19" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="1355,507,1522,533"/>
+<area shape="rect" id="node41" href="$classllvm_1_1StringMapImpl.html" title="llvm::StringMapImpl" alt="" coords="540,1725,688,1752"/>
+<area shape="rect" id="node28" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1723,1724,1904,1751"/>
+<area shape="rect" id="node30" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="954,1844,1049,1871"/>
+<area shape="rect" id="node31" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="922,1793,1081,1820"/>
+<area shape="rect" id="node40" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::ARMSubtarget \&gt; \&gt;" alt="" coords="1304,1659,1573,1701"/>
+<area shape="rect" id="node43" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; ValueTy,\l AllocatorTy \&gt;" alt="" coords="908,1659,1095,1701"/>
+<area shape="rect" id="node42" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="28,1983,215,2009"/>
+<area shape="rect" id="node44" href="$classllvm_1_1Triple.html" title="llvm::Triple" alt="" coords="1395,456,1483,483"/>
+</map>

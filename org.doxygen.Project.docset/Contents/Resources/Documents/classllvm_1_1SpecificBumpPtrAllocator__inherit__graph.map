@@ -1,0 +1,5 @@
+<map id="llvm::SpecificBumpPtrAllocator&lt; T &gt;" name="llvm::SpecificBumpPtrAllocator&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title="llvm::SpecificBumpPtrAllocator\l\&lt; Item \&gt;" alt="" coords="454,5,671,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title="llvm::SpecificBumpPtrAllocator\l\&lt; llvm::LazyCallGraph::Node \&gt;" alt="" coords="453,71,672,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title="llvm::SpecificBumpPtrAllocator\l\&lt; llvm::LazyCallGraph::SCC \&gt;" alt="" coords="454,136,671,177"/>
+</map>

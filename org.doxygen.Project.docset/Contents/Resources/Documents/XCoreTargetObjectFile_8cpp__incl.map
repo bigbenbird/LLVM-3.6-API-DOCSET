@@ -1,0 +1,34 @@
+<map id="XCoreTargetObjectFile.cpp" name="XCoreTargetObjectFile.cpp">
+<area shape="rect" id="node2" href="$XCoreTargetObjectFile_8h.html" title="XCoreTargetObjectFile.h" alt="" coords="1913,80,2083,107"/>
+<area shape="rect" id="node8" href="$XCoreSubtarget_8h.html" title="XCoreSubtarget.h" alt="" coords="856,155,991,181"/>
+<area shape="rect" id="node10" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1063,319,1261,345"/>
+<area shape="rect" id="node16" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2455,237,2608,263"/>
+<area shape="rect" id="node24" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="3001,80,3160,107"/>
+<area shape="rect" id="node35" href="$MCSectionELF_8h.html" title="llvm/MC/MCSectionELF.h" alt="" coords="1785,155,1961,181"/>
+<area shape="rect" id="node40" href="$Support_2ELF_8h.html" title="llvm/Support/ELF.h" alt="" coords="3611,393,3750,420"/>
+<area shape="rect" id="node3" href="$TargetLoweringObjectFileImpl_8h.html" title="llvm/CodeGen/TargetLowering\lObjectFileImpl.h" alt="" coords="1841,229,2051,271"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1995,393,2145,420"/>
+<area shape="rect" id="node7" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="1335,319,1498,345"/>
+<area shape="rect" id="node9" href="$XCoreFrameLowering_8h.html" title="XCoreFrameLowering.h" alt="" coords="1028,237,1195,263"/>
+<area shape="rect" id="node13" href="$XCoreISelLowering_8h.html" title="XCoreISelLowering.h" alt="" coords="5,237,156,263"/>
+<area shape="rect" id="node14" href="$XCoreInstrInfo_8h.html" title="XCoreInstrInfo.h" alt="" coords="181,237,303,263"/>
+<area shape="rect" id="node15" href="$XCoreSelectionDAGInfo_8h.html" title="XCoreSelectionDAGInfo.h" alt="" coords="328,237,511,263"/>
+<area shape="rect" id="node22" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="535,229,733,271"/>
+<area shape="rect" id="node11" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1117,393,1210,420"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2276,543,2451,569"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4870,393,5033,420"/>
+<area shape="rect" id="node18" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2713,468,2883,495"/>
+<area shape="rect" id="node19" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2486,319,2649,345"/>
+<area shape="rect" id="node20" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="2582,393,2689,420"/>
+<area shape="rect" id="node25" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="3368,155,3524,181"/>
+<area shape="rect" id="node27" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="3286,319,3454,345"/>
+<area shape="rect" id="node28" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3052,319,3211,345"/>
+<area shape="rect" id="node29" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="3001,393,3176,420"/>
+<area shape="rect" id="node30" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="2632,237,2775,263"/>
+<area shape="rect" id="node31" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2107,319,2310,345"/>
+<area shape="rect" id="node33" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="2619,155,2787,181"/>
+<area shape="rect" id="node36" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1675,319,1801,345"/>
+<area shape="rect" id="node37" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="1559,237,1715,263"/>
+<area shape="rect" id="node38" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="1825,319,1981,345"/>
+<area shape="rect" id="node39" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2127,237,2288,263"/>
+</map>

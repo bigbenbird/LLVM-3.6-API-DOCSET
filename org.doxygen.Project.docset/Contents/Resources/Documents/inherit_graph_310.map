@@ -1,0 +1,188 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; AnalysisID \&gt;" alt="" coords="223,5,427,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Arg * \&gt;" alt="" coords="223,71,427,112"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; AttributeSpec \&gt;" alt="" coords="223,136,427,177"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BitTestCase \&gt;" alt="" coords="223,201,427,243"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Block \&gt;" alt="" coords="223,267,427,308"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BlockInterference \&gt;" alt="" coords="223,332,427,373"/>
+<area shape="rect" id="node8" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BlockNode \&gt;" alt="" coords="223,397,427,439"/>
+<area shape="rect" id="node9" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; bool \&gt;" alt="" coords="223,463,427,504"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BucketT[InlineBuckets]\l, LargeRep \&gt;" alt="" coords="223,527,427,583"/>
+<area shape="rect" id="node11" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ByValInfo \&gt;" alt="" coords="223,607,427,648"/>
+<area shape="rect" id="node12" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; char \&gt;" alt="" coords="223,672,427,713"/>
+<area shape="rect" id="node13" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; COFF::AuxiliarybfAndefSymbol \&gt;" alt="" coords="204,737,447,779"/>
+<area shape="rect" id="node14" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; COFF::AuxiliaryCLRToken \&gt;" alt="" coords="223,803,427,844"/>
+<area shape="rect" id="node15" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; COFF::AuxiliaryFunctionDefinition \&gt;" alt="" coords="196,868,455,909"/>
+<area shape="rect" id="node16" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; COFF::AuxiliarySectionDefinition \&gt;" alt="" coords="199,933,452,975"/>
+<area shape="rect" id="node17" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; COFF::AuxiliaryWeakExternal \&gt;" alt="" coords="210,999,441,1040"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; COFF::DataDirectory \&gt;" alt="" coords="223,1064,427,1105"/>
+<area shape="rect" id="node19" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const char * \&gt;" alt="" coords="223,1129,427,1171"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::CallInst * \&gt;" alt="" coords="223,1195,427,1236"/>
+<area shape="rect" id="node21" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::Comdat * \&gt;" alt="" coords="223,1260,427,1301"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::Function * \&gt;" alt="" coords="223,1325,427,1367"/>
+<area shape="rect" id="node23" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::LocalAsMetadata * \&gt;" alt="" coords="202,1391,449,1432"/>
+<area shape="rect" id="node24" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::MachineInstr * \&gt;" alt="" coords="217,1456,434,1497"/>
+<area shape="rect" id="node25" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::SCEV * \&gt;" alt="" coords="223,1521,427,1563"/>
+<area shape="rect" id="node26" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const llvm::Value * \&gt;" alt="" coords="223,1587,427,1628"/>
+<area shape="rect" id="node27" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; const uint32_t * \&gt;" alt="" coords="223,1652,427,1693"/>
+<area shape="rect" id="node28" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ConstantPoolEntry \&gt;" alt="" coords="223,1717,427,1759"/>
+<area shape="rect" id="node29" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; CriticalEdge \&gt;" alt="" coords="223,1783,427,1824"/>
+<area shape="rect" id="node30" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l Instruction *, uint64_t\l \&gt;[4], LargeRep \&gt;" alt="" coords="223,1848,427,1919"/>
+<area shape="rect" id="node31" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l Instruction *, unsigned\l \&gt;[4], LargeRep \&gt;" alt="" coords="223,1943,427,2013"/>
+<area shape="rect" id="node32" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l KeyT, unsigned \&gt;[InlineBuckets]\l, LargeRep \&gt;" alt="" coords="210,2037,441,2108"/>
+<area shape="rect" id="node33" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l llvm::SDValue, llvm::SDValue\l \&gt;[InlineBuckets], LargeRep \&gt;" alt="" coords="219,2132,432,2203"/>
+<area shape="rect" id="node34" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l llvm::SDValue, std::pair\l\&lt; llvm::SDValue, llvm::SDValue\l \&gt; \&gt;[InlineBuckets], LargeRep \&gt;" alt="" coords="211,2227,439,2313"/>
+<area shape="rect" id="node35" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l uint32_t, llvm::bfi_detail\l::IrreducibleGraph::IrrNode\l * \&gt;[InlineBuckets], LargeRep \&gt;" alt="" coords="213,2337,437,2422"/>
+<area shape="rect" id="node36" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; detail::DenseMapPair\&lt;\l void *, std::pair\&lt; llvm\l::PointerUnion, uint64_t \&gt;\l \&gt;[InlineBuckets], LargeRep \&gt;" alt="" coords="219,2446,432,2531"/>
+<area shape="rect" id="node37" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Entry \&gt;" alt="" coords="223,2556,427,2597"/>
+<area shape="rect" id="node38" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; FreeList * \&gt;" alt="" coords="223,2621,427,2663"/>
+<area shape="rect" id="node39" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; HandlerInfo \&gt;" alt="" coords="223,2687,427,2728"/>
+<area shape="rect" id="node40" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; IdxMBBPair \&gt;" alt="" coords="223,2752,427,2793"/>
+<area shape="rect" id="node41" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; InsnRange \&gt;" alt="" coords="223,2817,427,2859"/>
+<area shape="rect" id="node42" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Inst \&gt;" alt="" coords="223,2883,427,2924"/>
+<area shape="rect" id="node43" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; InState \&gt;" alt="" coords="223,2948,427,2989"/>
+<area shape="rect" id="node44" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Instruction * \&gt;" alt="" coords="223,3013,427,3055"/>
+<area shape="rect" id="node45" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; int \&gt;" alt="" coords="223,3079,427,3120"/>
+<area shape="rect" id="node46" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ISD::ArgFlagsTy \&gt;" alt="" coords="223,3144,427,3185"/>
+<area shape="rect" id="node47" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ISD::InputArg \&gt;" alt="" coords="223,3209,427,3251"/>
+<area shape="rect" id="node48" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ISD::OutputArg \&gt;" alt="" coords="223,3275,427,3316"/>
+<area shape="rect" id="node49" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; LiveInBlock \&gt;" alt="" coords="223,3340,427,3381"/>
+<area shape="rect" id="node50" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; LiveOutReg \&gt;" alt="" coords="223,3405,427,3447"/>
+<area shape="rect" id="node51" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::AllocaInst * \&gt;" alt="" coords="223,3471,427,3512"/>
+<area shape="rect" id="node52" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::BasicBlock * \&gt;" alt="" coords="223,3536,427,3577"/>
+<area shape="rect" id="node53" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::BitCodeAbbrevOp \&gt;" alt="" coords="223,3601,427,3643"/>
+<area shape="rect" id="node54" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::BlockFrequency \&gt;" alt="" coords="223,3667,427,3708"/>
+<area shape="rect" id="node55" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::CCValAssign \&gt;" alt="" coords="223,3732,427,3773"/>
+<area shape="rect" id="node56" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::cl::parser::OptionInfo \&gt;" alt="" coords="216,3797,435,3839"/>
+<area shape="rect" id="node57" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::COFFYAML::PEHeader \&gt;" alt="" coords="214,3863,437,3904"/>
+<area shape="rect" id="node58" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DebugLocEntry \&gt;" alt="" coords="223,3928,427,3969"/>
+<area shape="rect" id="node59" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DebugLocEntry::Value \&gt;" alt="" coords="213,3993,438,4035"/>
+<area shape="rect" id="node60" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DebugLocList \&gt;" alt="" coords="223,4059,427,4100"/>
+<area shape="rect" id="node61" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::detail::PtrUseVisitorBase\l::UseToVisit \&gt;" alt="" coords="211,4123,440,4179"/>
+<area shape="rect" id="node62" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DICompileUnit \&gt;" alt="" coords="223,4203,427,4244"/>
+<area shape="rect" id="node63" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DIEAbbrevData \&gt;" alt="" coords="223,4268,427,4309"/>
+<area shape="rect" id="node64" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DIEValue * \&gt;" alt="" coords="223,4333,427,4375"/>
+<area shape="rect" id="node65" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DIGlobalVariable \&gt;" alt="" coords="223,4399,427,4440"/>
+<area shape="rect" id="node66" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DILineInfo \&gt;" alt="" coords="223,4464,427,4505"/>
+<area shape="rect" id="node67" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DIScope \&gt;" alt="" coords="223,4529,427,4571"/>
+<area shape="rect" id="node68" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DISubprogram \&gt;" alt="" coords="223,4595,427,4636"/>
+<area shape="rect" id="node69" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DIType \&gt;" alt="" coords="223,4660,427,4701"/>
+<area shape="rect" id="node70" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DwarfAccelTable\l::Atom \&gt;" alt="" coords="223,4725,427,4781"/>
+<area shape="rect" id="node71" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DWARFDebugInfoEntryMinimal \&gt;" alt="" coords="187,4804,464,4845"/>
+<area shape="rect" id="node72" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::ForwardedRegister \&gt;" alt="" coords="223,4869,427,4911"/>
+<area shape="rect" id="node73" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Function * \&gt;" alt="" coords="223,4935,427,4976"/>
+<area shape="rect" id="node74" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::GCOVEdge * \&gt;" alt="" coords="223,5000,427,5041"/>
+<area shape="rect" id="node75" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::ImmutablePass * \&gt;" alt="" coords="223,5065,427,5107"/>
+<area shape="rect" id="node76" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Instruction * \&gt;" alt="" coords="223,5131,427,5172"/>
+<area shape="rect" id="node77" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LayoutAlignElem \&gt;" alt="" coords="223,5196,427,5237"/>
+<area shape="rect" id="node78" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LazyCallGraph::Node * \&gt;" alt="" coords="210,5261,441,5303"/>
+<area shape="rect" id="node79" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LazyCallGraph::SCC * \&gt;" alt="" coords="214,5327,437,5368"/>
+<area shape="rect" id="node80" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LexicalScope * \&gt;" alt="" coords="223,5392,427,5433"/>
+<area shape="rect" id="node81" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LiveInterval * \&gt;" alt="" coords="223,5457,427,5499"/>
+<area shape="rect" id="node82" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LiveRange * \&gt;" alt="" coords="223,5523,427,5564"/>
+<area shape="rect" id="node83" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::LiveRange::Segment \&gt;" alt="" coords="216,5588,435,5629"/>
+<area shape="rect" id="node84" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MachineBasicBlock * \&gt;" alt="" coords="216,5653,435,5695"/>
+<area shape="rect" id="node85" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MachineInstr * \&gt;" alt="" coords="223,5719,427,5760"/>
+<area shape="rect" id="node86" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MachineTraceMetrics\l::FixedBlockInfo \&gt;" alt="" coords="223,5783,427,5839"/>
+<area shape="rect" id="node87" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MachineTraceMetrics\l::LiveInReg \&gt;" alt="" coords="223,5863,427,5919"/>
+<area shape="rect" id="node88" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MachineTraceMetrics\l::TraceBlockInfo \&gt;" alt="" coords="223,5943,427,5999"/>
+<area shape="rect" id="node89" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCDwarfFile \&gt;" alt="" coords="223,6023,427,6064"/>
+<area shape="rect" id="node90" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCFixup \&gt;" alt="" coords="223,6088,427,6129"/>
+<area shape="rect" id="node91" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCLOHDirective \&gt;" alt="" coords="223,6153,427,6195"/>
+<area shape="rect" id="node92" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCOperand \&gt;" alt="" coords="223,6219,427,6260"/>
+<area shape="rect" id="node93" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCSectionData * \&gt;" alt="" coords="223,6284,427,6325"/>
+<area shape="rect" id="node94" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCSymbol * \&gt;" alt="" coords="223,6349,427,6391"/>
+<area shape="rect" id="node95" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::MCSymbolData * \&gt;" alt="" coords="223,6415,427,6456"/>
+<area shape="rect" id="node96" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Metadata * \&gt;" alt="" coords="223,6480,427,6521"/>
+<area shape="rect" id="node97" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Pass * \&gt;" alt="" coords="223,6545,427,6587"/>
+<area shape="rect" id="node98" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::PMDataManager * \&gt;" alt="" coords="223,6611,427,6652"/>
+<area shape="rect" id="node99" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::RangeSpan \&gt;" alt="" coords="223,6676,427,6717"/>
+<area shape="rect" id="node100" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::RangeSpanList \&gt;" alt="" coords="223,6741,427,6783"/>
+<area shape="rect" id="node101" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::RuntimeDyldMachO\l::EHFrameRelatedSections \&gt;" alt="" coords="223,6806,428,6862"/>
+<area shape="rect" id="node102" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SDDbgValue * \&gt;" alt="" coords="223,6885,427,6927"/>
+<area shape="rect" id="node103" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SDep \&gt;" alt="" coords="223,6951,427,6992"/>
+<area shape="rect" id="node104" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SDNode * \&gt;" alt="" coords="223,7016,427,7057"/>
+<area shape="rect" id="node105" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SDValue \&gt;" alt="" coords="223,7081,427,7123"/>
+<area shape="rect" id="node106" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SlotIndex \&gt;" alt="" coords="223,7147,427,7188"/>
+<area shape="rect" id="node107" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SmallString\&lt; 32 \&gt; \&gt;" alt="" coords="222,7212,429,7253"/>
+<area shape="rect" id="node108" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SmallVector\&lt; unsigned, 8 \&gt; \&gt;" alt="" coords="192,7277,459,7319"/>
+<area shape="rect" id="node109" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SMFixIt \&gt;" alt="" coords="223,7343,427,7384"/>
+<area shape="rect" id="node110" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SMLoc \&gt;" alt="" coords="223,7408,427,7449"/>
+<area shape="rect" id="node111" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SplitAnalysis::BlockInfo \&gt;" alt="" coords="210,7473,441,7515"/>
+<area shape="rect" id="node112" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::StringRef \&gt;" alt="" coords="223,7539,427,7580"/>
+<area shape="rect" id="node113" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SUnit * \&gt;" alt="" coords="223,7604,427,7645"/>
+<area shape="rect" id="node114" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::TypedTrackingMDRef \&gt;" alt="" coords="219,7669,432,7711"/>
+<area shape="rect" id="node115" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Value * \&gt;" alt="" coords="223,7735,427,7776"/>
+<area shape="rect" id="node116" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::WeakVH \&gt;" alt="" coords="223,7800,427,7841"/>
+<area shape="rect" id="node117" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Location \&gt;" alt="" coords="223,7865,427,7907"/>
+<area shape="rect" id="node118" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; LocationList \&gt;" alt="" coords="223,7931,427,7972"/>
+<area shape="rect" id="node119" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; MCPhysReg \&gt;" alt="" coords="223,7996,427,8037"/>
+<area shape="rect" id="node120" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; MILOHDirective \&gt;" alt="" coords="223,8061,427,8103"/>
+<area shape="rect" id="node121" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; NodeState \&gt;" alt="" coords="223,8127,427,8168"/>
+<area shape="rect" id="node122" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; object::llvm::object::\lOwningBinary\&lt; object::llvm\l::object::Archive \&gt; \&gt;" alt="" coords="223,8192,427,8263"/>
+<area shape="rect" id="node123" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; PointerAlignElem \&gt;" alt="" coords="223,8287,427,8328"/>
+<area shape="rect" id="node124" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; PointerUnion\&lt; Function\l *, Node * \&gt; \&gt;" alt="" coords="223,8351,427,8407"/>
+<area shape="rect" id="node125" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; RegUnitInfo \&gt;" alt="" coords="223,8431,427,8472"/>
+<area shape="rect" id="node126" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; RelocationValueRef \&gt;" alt="" coords="223,8496,427,8537"/>
+<area shape="rect" id="node127" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; RootData \&gt;" alt="" coords="223,8561,427,8603"/>
+<area shape="rect" id="node128" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ScavengedInfo \&gt;" alt="" coords="223,8627,427,8668"/>
+<area shape="rect" id="node129" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; SectionEntry \&gt;" alt="" coords="223,8692,427,8733"/>
+<area shape="rect" id="node130" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Segment \&gt;" alt="" coords="223,8757,427,8799"/>
+<area shape="rect" id="node131" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; SID \&gt;" alt="" coords="223,8823,427,8864"/>
+<area shape="rect" id="node132" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; SimpleKey \&gt;" alt="" coords="223,8888,427,8929"/>
+<area shape="rect" id="node133" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; SMSNode \&gt;" alt="" coords="223,8953,427,8995"/>
+<area shape="rect" id="node134" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::error_code \&gt;" alt="" coords="223,9019,427,9060"/>
+<area shape="rect" id="node135" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; AnalysisID,\l llvm::IdentifyingPassPtr \&gt; \&gt;" alt="" coords="223,9083,427,9139"/>
+<area shape="rect" id="node136" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; AtomType, Form \&gt; \&gt;" alt="" coords="206,9163,445,9204"/>
+<area shape="rect" id="node137" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; BlockFrequency,\l unsigned \&gt; \&gt;" alt="" coords="222,9227,429,9283"/>
+<area shape="rect" id="node138" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; BlockNode,\l BlockMass \&gt; \&gt;" alt="" coords="223,9307,427,9363"/>
+<area shape="rect" id="node139" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; bool, llvm\l::StringRef \&gt; \&gt;" alt="" coords="223,9387,427,9443"/>
+<area shape="rect" id="node140" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; const char\l *, std::pair\&lt; int, const\l char * \&gt; \&gt; \&gt;" alt="" coords="223,9468,427,9539"/>
+<area shape="rect" id="node141" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; const MDNode\l *, const MDNode * \&gt; \&gt;" alt="" coords="223,9563,427,9619"/>
+<area shape="rect" id="node142" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; int, int64_t \&gt; \&gt;" alt="" coords="223,9643,427,9684"/>
+<area shape="rect" id="node143" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; KeyT, ValueT \&gt; \&gt;" alt="" coords="219,9708,432,9749"/>
+<area shape="rect" id="node144" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; llvm::LazyCallGraph\l::Node *, llvm::LazyCallGraph\l::iterator \&gt; \&gt;" alt="" coords="211,9773,440,9844"/>
+<area shape="rect" id="node145" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; llvm::SlotIndex,\l llvm::SlotIndex \&gt; \&gt;" alt="" coords="223,9869,427,9925"/>
+<area shape="rect" id="node146" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; MCSectionSubPair,\l MCSectionSubPair \&gt; \&gt;" alt="" coords="213,9949,437,10005"/>
+<area shape="rect" id="node147" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; SID, SmallVector\l\&lt; RelocationValueRef, 2 \&gt; \&gt; \&gt;" alt="" coords="217,10029,434,10085"/>
+<area shape="rect" id="node148" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; std::string,\l GCOVCoverage \&gt; \&gt;" alt="" coords="223,10109,427,10165"/>
+<area shape="rect" id="node149" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; std::string,\l int \&gt; \&gt;" alt="" coords="223,10189,427,10245"/>
+<area shape="rect" id="node150" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; std::unique\l_ptr\&lt; llvm::DwarfTypeUnit\l \&gt;, llvm::DICompositeType \&gt; \&gt;" alt="" coords="216,10269,435,10340"/>
+<area shape="rect" id="node151" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; unsigned, llvm\l::MCFragment * \&gt; \&gt;" alt="" coords="223,10365,427,10421"/>
+<area shape="rect" id="node152" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; unsigned, llvm\l::MCSymbol * \&gt; \&gt;" alt="" coords="223,10445,427,10501"/>
+<area shape="rect" id="node153" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; unsigned, unsigned \&gt; \&gt;" alt="" coords="196,10524,455,10565"/>
+<area shape="rect" id="node154" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; void *, size_t \&gt; \&gt;" alt="" coords="217,10589,433,10631"/>
+<area shape="rect" id="node155" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::string * \&gt;" alt="" coords="223,10655,427,10696"/>
+<area shape="rect" id="node156" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::string \&gt;" alt="" coords="223,10720,427,10761"/>
+<area shape="rect" id="node157" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::DbgVariable \&gt; \&gt;" alt="" coords="223,10785,427,10841"/>
+<area shape="rect" id="node158" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::DWARFCompileUnit \&gt; \&gt;" alt="" coords="223,10865,427,10921"/>
+<area shape="rect" id="node159" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::DwarfUnit \&gt; \&gt;" alt="" coords="223,10945,427,11001"/>
+<area shape="rect" id="node160" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::GCOVBlock \&gt; \&gt;" alt="" coords="223,11025,427,11081"/>
+<area shape="rect" id="node161" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::GCOVEdge \&gt; \&gt;" alt="" coords="223,11105,427,11161"/>
+<area shape="rect" id="node162" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::GCOVFunction \&gt; \&gt;" alt="" coords="223,11185,427,11241"/>
+<area shape="rect" id="node163" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::MemoryBuffer \&gt; \&gt;" alt="" coords="223,11265,427,11321"/>
+<area shape="rect" id="node164" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::MipsOptionRecord \&gt; \&gt;" alt="" coords="223,11345,427,11401"/>
+<area shape="rect" id="node165" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::Module \&gt; \&gt;" alt="" coords="223,11425,427,11481"/>
+<area shape="rect" id="node166" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; llvm\l::opt::Arg \&gt; \&gt;" alt="" coords="223,11505,427,11561"/>
+<area shape="rect" id="node167" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; object\l::llvm::object::ObjectFile \&gt; \&gt;" alt="" coords="223,11585,427,11641"/>
+<area shape="rect" id="node168" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::unique_ptr\&lt; UnitType \&gt; \&gt;" alt="" coords="209,11664,441,11705"/>
+<area shape="rect" id="node169" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; storage_type \&gt;" alt="" coords="223,11729,427,11771"/>
+<area shape="rect" id="node170" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; StringRef \&gt;" alt="" coords="223,11795,427,11836"/>
+<area shape="rect" id="node171" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; sys::llvm::sys::MemoryBlock \&gt;" alt="" coords="210,11860,441,11901"/>
+<area shape="rect" id="node172" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="205,11926,446,11953"/>
+<area shape="rect" id="node173" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; TNorm \&gt;" alt="" coords="223,11977,427,12019"/>
+<area shape="rect" id="node174" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; TreeData \&gt;" alt="" coords="223,12043,427,12084"/>
+<area shape="rect" id="node175" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; uint32_t \&gt;" alt="" coords="223,12108,427,12149"/>
+<area shape="rect" id="node176" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; uint8_t \&gt;" alt="" coords="223,12173,427,12215"/>
+<area shape="rect" id="node177" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; uintptr_t \&gt;" alt="" coords="223,12239,427,12280"/>
+<area shape="rect" id="node178" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; unsigned \&gt;" alt="" coords="223,12304,427,12345"/>
+<area shape="rect" id="node179" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; unsigned char \&gt;" alt="" coords="223,12369,427,12411"/>
+<area shape="rect" id="node180" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; ValueT \&gt;" alt="" coords="223,12435,427,12476"/>
+<area shape="rect" id="node181" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; VariableDbgInfo \&gt;" alt="" coords="223,12500,427,12541"/>
+<area shape="rect" id="node182" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; VersionMapEntry \&gt;" alt="" coords="223,12565,427,12607"/>
+<area shape="rect" id="node183" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; VNInfo * \&gt;" alt="" coords="223,12631,427,12672"/>
+<area shape="rect" id="node184" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; void * \&gt;" alt="" coords="223,12696,427,12737"/>
+<area shape="rect" id="node185" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; VReg2SUnit \&gt;" alt="" coords="223,12761,427,12803"/>
+<area shape="rect" id="node186" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Weight \&gt;" alt="" coords="223,12827,427,12868"/>
+<area shape="rect" id="node187" href="$structllvm_1_1AlignedCharArrayUnion.html" title="This union template exposes a suitably aligned and sized character array member which can hold elemen..." alt="" coords="223,12891,427,12947"/>
+</map>

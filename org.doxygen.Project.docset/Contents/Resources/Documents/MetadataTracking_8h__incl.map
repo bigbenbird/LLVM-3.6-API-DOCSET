@@ -1,0 +1,9 @@
+<map id="MetadataTracking.h" name="MetadataTracking.h">
+<area shape="rect" id="node2" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="182,80,358,107"/>
+<area shape="rect" id="node14" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="347,155,513,181"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="537,155,723,181"/>
+<area shape="rect" id="node9" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="145,155,323,181"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="7,237,181,263"/>
+<area shape="rect" id="node4" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="380,229,557,271"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="582,237,769,263"/>
+</map>

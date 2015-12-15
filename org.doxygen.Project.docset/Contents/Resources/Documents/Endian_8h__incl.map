@@ -1,0 +1,14 @@
+<map id="Endian.h" name="Endian.h">
+<area shape="rect" id="node2" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="5,379,168,405"/>
+<area shape="rect" id="node6" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1631,80,1780,107"/>
+<area shape="rect" id="node19" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="921,453,1138,480"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="451,528,626,555"/>
+<area shape="rect" id="node7" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1709,155,1867,181"/>
+<area shape="rect" id="node8" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1670,304,1821,331"/>
+<area shape="rect" id="node15" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="971,229,1146,256"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="701,304,872,331"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="691,379,882,405"/>
+<area shape="rect" id="node26" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="1897,304,2066,331"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1118,379,1303,405"/>
+<area shape="rect" id="node22" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="907,379,1093,405"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::ThumbBETargetMachine" name="llvm::ThumbBETargetMachine">
+<area shape="rect" id="node2" href="$classllvm_1_1ThumbTargetMachine.html" title="llvm::ThumbTargetMachine" alt="" coords="14,229,206,256"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ARMBaseTargetMachine.html" title="llvm::ARMBaseTargetMachine" alt="" coords="6,155,214,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="19,80,201,107"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="36,5,184,32"/>
+</map>

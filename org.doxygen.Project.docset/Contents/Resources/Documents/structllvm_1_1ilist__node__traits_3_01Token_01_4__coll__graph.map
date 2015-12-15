@@ -1,0 +1,5 @@
+<map id="llvm::ilist_node_traits&lt; Token &gt;" name="llvm::ilist_node_traits&lt; Token &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer. " alt="" coords="581,21,776,77"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; AllocatorT, SlabSize,\l SizeThreshold \&gt; \&gt;" alt="" coords="356,14,532,85"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators..." alt="" coords="5,29,149,70"/>
+</map>

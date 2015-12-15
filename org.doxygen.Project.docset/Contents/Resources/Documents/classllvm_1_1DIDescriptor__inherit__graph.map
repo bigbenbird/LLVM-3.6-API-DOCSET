@@ -1,0 +1,25 @@
+<map id="llvm::DIDescriptor" name="llvm::DIDescriptor">
+<area shape="rect" id="node2" href="$classllvm_1_1DIEnumerator.html" title="A wrapper for an enumerator (e.g. X and Y in &#39;enum {X,Y}&#39;). " alt="" coords="230,5,375,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIExpression.html" title="A complex location expression. " alt="" coords="233,56,372,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DIGlobalVariable.html" title="This is a wrapper for a global variable. " alt="" coords="223,107,383,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DIImportedEntity.html" title="An imported module (C++ using directive or similar). " alt="" coords="221,157,384,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DILocation.html" title="This object holds location information. " alt="" coords="241,208,364,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DIObjCProperty.html" title="llvm::DIObjCProperty" alt="" coords="226,259,379,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DIScope.html" title="A base class for various scopes. " alt="" coords="248,309,357,336"/>
+<area shape="rect" id="node20" href="$classllvm_1_1DISubrange.html" title="This is used to represent ranges, for array bounds. " alt="" coords="237,360,368,387"/>
+<area shape="rect" id="node21" href="$classllvm_1_1DITemplateTypeParameter.html" title="This is a wrapper for template type parameter. " alt="" coords="191,411,414,437"/>
+<area shape="rect" id="node22" href="$classllvm_1_1DITemplateValueParameter.html" title="This is a wrapper for template value parameter. " alt="" coords="188,461,417,488"/>
+<area shape="rect" id="node23" href="$classllvm_1_1DITypedArray.html" title="This descriptor holds an array of nodes with type T. " alt="" coords="215,512,391,539"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DIVariable.html" title="This is a wrapper for a variable (e.g. parameter, local, global etc). " alt="" coords="243,563,363,589"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DICompileUnit.html" title="A wrapper for a compile unit. " alt="" coords="475,157,622,184"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DIFile.html" title="This is a wrapper for a file. " alt="" coords="504,208,593,235"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DILexicalBlock.html" title="This is a wrapper for a lexical block. " alt="" coords="475,259,622,285"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DILexicalBlockFile.html" title="This is a wrapper for a lexical block with a filename change. " alt="" coords="465,309,632,336"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DINameSpace.html" title="A wrapper for a C++ style name space. " alt="" coords="475,360,623,387"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DISubprogram.html" title="This is a wrapper for a subprogram (e.g. a function). " alt="" coords="474,411,623,437"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DIType.html" title="llvm::DIType" alt="" coords="500,461,597,488"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DIBasicType.html" title="A basic type, like &#39;int&#39; or &#39;float&#39;. " alt="" coords="688,436,819,463"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DIDerivedType.html" title="A simple derived type. " alt="" coords="680,487,827,513"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DICompositeType.html" title="Types that refer to multiple other types. " alt="" coords="875,487,1041,513"/>
+<area shape="rect" id="node19" href="$classllvm_1_1DISubroutineType.html" title="llvm::DISubroutineType" alt="" coords="1089,487,1256,513"/>
+</map>

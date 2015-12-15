@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; RewriteDescriptor \&gt;" alt="" coords="5,53,168,94"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Rewrite\lDescriptor \&gt;" alt="" coords="216,53,392,94"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SymbolRewriter_1_1RewriteDescriptor.html" title="llvm::SymbolRewriter\l::RewriteDescriptor" alt="" coords="440,53,595,94"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SymbolRewriter_1_1ExplicitRewriteDescriptor.html" title="llvm::SymbolRewriter\l::ExplicitRewriteDescriptor\l\&lt; DT, ValueType, Get \&gt;" alt="" coords="663,5,849,61"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SymbolRewriter_1_1PatternRewriteDescriptor.html" title="llvm::SymbolRewriter\l::PatternRewriteDescriptor\l\&lt; DT, ValueType, Get, Iterator \&gt;" alt="" coords="643,85,869,141"/>
+</map>

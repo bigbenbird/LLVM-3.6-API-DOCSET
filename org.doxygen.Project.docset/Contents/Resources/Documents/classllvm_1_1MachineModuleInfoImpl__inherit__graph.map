@@ -1,0 +1,4 @@
+<map id="llvm::MachineModuleInfoImpl" name="llvm::MachineModuleInfoImpl">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineModuleInfoELF.html" title="llvm::MachineModuleInfoELF" alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineModuleInfoMachO.html" title="llvm::MachineModuleInfoMachO" alt="" coords="229,80,451,107"/>
+</map>

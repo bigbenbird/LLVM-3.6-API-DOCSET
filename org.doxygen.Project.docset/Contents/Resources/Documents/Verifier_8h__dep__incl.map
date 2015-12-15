@@ -1,0 +1,18 @@
+<map id="Verifier.h" name="Verifier.h">
+<area shape="rect" id="node2" href="$LinkAllIR_8h.html" title="LinkAllIR.h" alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$Analysis_2Analysis_8cpp.html" title="Analysis.cpp" alt="" coords="115,80,216,107"/>
+<area shape="rect" id="node4" href="$ForwardControlFlowIntegrity_8cpp.html" title="A pass that instruments code with fast checks for indirect calls and hooks for a function to check vi..." alt="" coords="241,80,463,107"/>
+<area shape="rect" id="node5" href="$JumpInstrTables_8cpp.html" title="An implementation of jump&#45;instruction tables. " alt="" coords="487,80,635,107"/>
+<area shape="rect" id="node6" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="659,80,834,107"/>
+<area shape="rect" id="node7" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="859,80,952,107"/>
+<area shape="rect" id="node8" href="$Verifier_8cpp.html" title="Verifier.cpp" alt="" coords="977,80,1069,107"/>
+<area shape="rect" id="node9" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="1093,80,1261,107"/>
+<area shape="rect" id="node10" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="1286,80,1469,107"/>
+<area shape="rect" id="node11" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1493,80,1691,107"/>
+<area shape="rect" id="node12" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="1715,80,1893,107"/>
+<area shape="rect" id="node13" href="$Scalar_8cpp.html" title="Scalar.cpp" alt="" coords="1917,80,2005,107"/>
+<area shape="rect" id="node14" href="$CodeExtractor_8cpp.html" title="CodeExtractor.cpp" alt="" coords="2029,80,2168,107"/>
+<area shape="rect" id="node15" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="2192,80,2331,107"/>
+<area shape="rect" id="node16" href="$SLPVectorizer_8cpp.html" title="SLPVectorizer.cpp" alt="" coords="2355,80,2491,107"/>
+<area shape="rect" id="node17" href="$Vectorize_8cpp.html" title="Vectorize.cpp" alt="" coords="2515,80,2623,107"/>
+</map>

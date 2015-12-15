@@ -1,0 +1,35 @@
+<map id="Thumb1InstrInfo.h" name="Thumb1InstrInfo.h">
+<area shape="rect" id="node2" href="$ARMBaseInstrInfo_8h.html" title="ARMBaseInstrInfo.h" alt="" coords="1668,80,1813,107"/>
+<area shape="rect" id="node49" href="$Thumb1RegisterInfo_8h.html" title="Thumb1RegisterInfo.h" alt="" coords="1483,80,1643,107"/>
+<area shape="rect" id="node3" href="$ARMBaseInfo_8h.html" title="MCTargetDesc/ARMBaseInfo.h" alt="" coords="1984,251,2196,278"/>
+<area shape="rect" id="node18" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1187,423,1350,449"/>
+<area shape="rect" id="node29" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="478,341,630,367"/>
+<area shape="rect" id="node34" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1643,155,1839,196"/>
+<area shape="rect" id="node39" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2143,162,2322,189"/>
+<area shape="rect" id="node41" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="1049,162,1246,189"/>
+<area shape="rect" id="node4" href="$ARMMCTargetDesc_8h.html" title="ARMMCTargetDesc.h" alt="" coords="2321,341,2475,367"/>
+<area shape="rect" id="node10" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1796,423,2003,449"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1827,497,1977,524"/>
+<area shape="rect" id="node16" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="576,661,751,688"/>
+<area shape="rect" id="node19" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1565,497,1751,524"/>
+<area shape="rect" id="node20" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1183,572,1360,613"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1593,579,1779,606"/>
+<area shape="rect" id="node22" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="354,497,517,524"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="541,497,732,524"/>
+<area shape="rect" id="node25" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="555,579,772,606"/>
+<area shape="rect" id="node30" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="101,423,229,449"/>
+<area shape="rect" id="node31" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="909,497,1079,524"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="410,423,581,449"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1405,251,1639,278"/>
+<area shape="rect" id="node38" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="1663,244,1859,285"/>
+<area shape="rect" id="node36" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1421,333,1623,375"/>
+<area shape="rect" id="node40" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="2270,251,2438,278"/>
+<area shape="rect" id="node42" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="800,244,1031,285"/>
+<area shape="rect" id="node43" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="565,251,724,278"/>
+<area shape="rect" id="node44" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="1055,244,1240,285"/>
+<area shape="rect" id="node45" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="307,341,454,367"/>
+<area shape="rect" id="node46" href="$MachineValueType_8h.html" title="llvm/CodeGen/MachineValue\lType.h" alt="" coords="1038,333,1241,375"/>
+<area shape="rect" id="node47" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="654,341,806,367"/>
+<area shape="rect" id="node48" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="831,341,1013,367"/>
+<area shape="rect" id="node50" href="$ARMBaseRegisterInfo_8h.html" title="ARMBaseRegisterInfo.h" alt="" coords="1863,162,2031,189"/>
+</map>

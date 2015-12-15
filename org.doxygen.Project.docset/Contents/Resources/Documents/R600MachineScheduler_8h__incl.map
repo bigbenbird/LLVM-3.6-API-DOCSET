@@ -1,0 +1,38 @@
+<map id="R600MachineScheduler.h" name="R600MachineScheduler.h">
+<area shape="rect" id="node2" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="2212,80,2329,107"/>
+<area shape="rect" id="node29" href="$PriorityQueue_8h.html" title="llvm/ADT/PriorityQueue.h" alt="" coords="3034,80,3214,107"/>
+<area shape="rect" id="node31" href="$MachineScheduler_8h.html" title="llvm/CodeGen/MachineScheduler.h" alt="" coords="803,155,1045,181"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="1514,80,1675,107"/>
+<area shape="rect" id="node3" href="$AMDGPUInstrInfo_8h.html" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="2309,155,2451,181"/>
+<area shape="rect" id="node27" href="$R600Defines_8h.html" title="R600Defines.h" alt="" coords="2119,155,2233,181"/>
+<area shape="rect" id="node28" href="$R600RegisterInfo_8h.html" title="Interface definition for R600RegisterInfo. " alt="" coords="2602,155,2742,181"/>
+<area shape="rect" id="node4" href="$AMDGPURegisterInfo_8h.html" title="TargetRegisterInfo interface that is implemented by all hw codegen targets. " alt="" coords="2714,237,2881,263"/>
+<area shape="rect" id="node18" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="2492,237,2689,263"/>
+<area shape="rect" id="node5" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2553,408,2703,435"/>
+<area shape="rect" id="node14" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="2266,319,2451,360"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1351,557,1526,584"/>
+<area shape="rect" id="node7" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1053,483,1259,509"/>
+<area shape="rect" id="node8" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="511,557,662,584"/>
+<area shape="rect" id="node15" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2243,408,2426,435"/>
+<area shape="rect" id="node16" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1867,483,2029,509"/>
+<area shape="rect" id="node19" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="1657,408,1809,435"/>
+<area shape="rect" id="node22" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="2527,319,2758,360"/>
+<area shape="rect" id="node23" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1986,408,2219,435"/>
+<area shape="rect" id="node24" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="2767,557,2926,584"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1568,483,1739,509"/>
+<area shape="rect" id="node32" href="$MachinePassRegistry_8h.html" title="llvm/CodeGen/MachinePass\lRegistry.h" alt="" coords="564,229,761,271"/>
+<area shape="rect" id="node41" href="$RegisterPressure_8h.html" title="llvm/CodeGen/RegisterPressure.h" alt="" coords="1621,237,1856,263"/>
+<area shape="rect" id="node44" href="$ScheduleDAGInstrs_8h.html" title="llvm/CodeGen/ScheduleDAGInstrs.h" alt="" coords="1261,237,1512,263"/>
+<area shape="rect" id="node33" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="5,326,176,353"/>
+<area shape="rect" id="node36" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="557,326,769,353"/>
+<area shape="rect" id="node34" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="85,483,179,509"/>
+<area shape="rect" id="node35" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="59,408,258,435"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="406,483,565,509"/>
+<area shape="rect" id="node38" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="495,408,622,435"/>
+<area shape="rect" id="node42" href="$SparseSet_8h.html" title="llvm/ADT/SparseSet.h" alt="" coords="1222,408,1383,435"/>
+<area shape="rect" id="node43" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="1699,326,1901,353"/>
+<area shape="rect" id="node45" href="$SparseMultiSet_8h.html" title="llvm/ADT/SparseMultiSet.h" alt="" coords="1291,326,1482,353"/>
+<area shape="rect" id="node46" href="$ScheduleDAG_8h.html" title="llvm/CodeGen/ScheduleDAG.h" alt="" coords="1925,326,2139,353"/>
+<area shape="rect" id="node47" href="$TargetSchedule_8h.html" title="llvm/CodeGen/TargetSchedule.h" alt="" coords="1407,408,1633,435"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="893,408,1096,435"/>
+</map>

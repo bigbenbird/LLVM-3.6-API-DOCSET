@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title="llvm::cl::GenericOptionValue" alt="" coords="5,150,205,177"/>
+<area shape="rect" id="node2" href="$structllvm_1_1cl_1_1OptionValueBase.html" title="llvm::cl::OptionValueBase\l\&lt; DataType, isClass \&gt;" alt="" coords="253,5,436,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title="llvm::cl::OptionValueCopy\l\&lt; DataType \&gt;" alt="" coords="253,71,436,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1cl_1_1OptionValueBase.html" title="llvm::cl::OptionValueBase\l\&lt; DataType, std::is_class\l\&lt; DataType \&gt;::value \&gt;" alt="" coords="253,135,436,191"/>
+<area shape="rect" id="node7" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title="llvm::cl::OptionValueCopy\l\&lt; cl::boolOrDefault \&gt;" alt="" coords="253,215,436,256"/>
+<area shape="rect" id="node9" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title="llvm::cl::OptionValueCopy\l\&lt; std::string \&gt;" alt="" coords="253,280,436,321"/>
+<area shape="rect" id="node4" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title="llvm::cl::OptionValueBase\l\&lt; DataType, false \&gt;" alt="" coords="484,71,667,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1cl_1_1OptionValue.html" title="llvm::cl::OptionValue\l\&lt; DataType \&gt;" alt="" coords="500,143,651,184"/>
+<area shape="rect" id="node8" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title="llvm::cl::OptionValue\l\&lt; cl::boolOrDefault \&gt;" alt="" coords="496,215,655,256"/>
+<area shape="rect" id="node10" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title="llvm::cl::OptionValue\l\&lt; std::string \&gt;" alt="" coords="500,280,651,321"/>
+</map>

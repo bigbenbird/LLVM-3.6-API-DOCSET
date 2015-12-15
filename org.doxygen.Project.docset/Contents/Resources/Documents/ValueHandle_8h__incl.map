@@ -1,0 +1,14 @@
+<map id="ValueHandle.h" name="ValueHandle.h">
+<area shape="rect" id="node2" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="5,229,191,256"/>
+<area shape="rect" id="node8" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="347,229,524,256"/>
+<area shape="rect" id="node13" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="795,80,910,107"/>
+<area shape="rect" id="node3" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="276,304,453,345"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="610,393,797,420"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="916,393,1091,420"/>
+<area shape="rect" id="node14" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="215,229,322,256"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1147,155,1332,181"/>
+<area shape="rect" id="node17" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="625,155,729,181"/>
+<area shape="rect" id="node18" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="736,229,969,256"/>
+<area shape="rect" id="node19" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="772,311,939,338"/>
+<area shape="rect" id="node15" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="73,311,200,338"/>
+</map>

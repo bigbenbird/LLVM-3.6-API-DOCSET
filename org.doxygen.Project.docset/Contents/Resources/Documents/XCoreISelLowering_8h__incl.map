@@ -1,0 +1,38 @@
+<map id="XCoreISelLowering.h" name="XCoreISelLowering.h">
+<area shape="rect" id="node2" href="$XCore_8h.html" title="XCore.h" alt="" coords="587,162,658,189"/>
+<area shape="rect" id="node18" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="1665,80,1879,107"/>
+<area shape="rect" id="node44" href="$TargetLowering_8h.html" title="llvm/Target/TargetLowering.h" alt="" coords="2824,80,3027,107"/>
+<area shape="rect" id="node3" href="$XCoreMCTargetDesc_8h.html" title="MCTargetDesc/XCoreMCTarget\lDesc.h" alt="" coords="208,244,421,285"/>
+<area shape="rect" id="node7" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2501,251,2699,278"/>
+<area shape="rect" id="node8" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2317,333,2467,360"/>
+<area shape="rect" id="node14" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2543,333,2636,360"/>
+<area shape="rect" id="node16" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2113,333,2292,360"/>
+<area shape="rect" id="node17" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="2660,333,2855,360"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1875,408,2050,435"/>
+<area shape="rect" id="node19" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="1693,162,1851,189"/>
+<area shape="rect" id="node24" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="1462,162,1618,189"/>
+<area shape="rect" id="node27" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1795,251,1954,278"/>
+<area shape="rect" id="node29" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="1109,333,1224,360"/>
+<area shape="rect" id="node30" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="2256,162,2469,189"/>
+<area shape="rect" id="node31" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="939,162,1173,189"/>
+<area shape="rect" id="node37" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="1875,162,2131,189"/>
+<area shape="rect" id="node43" href="$RecyclingAllocator_8h.html" title="llvm/Support/RecyclingAllocator.h" alt="" coords="683,162,915,189"/>
+<area shape="rect" id="node20" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1700,333,1863,360"/>
+<area shape="rect" id="node25" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="1568,251,1720,278"/>
+<area shape="rect" id="node28" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="859,333,1034,360"/>
+<area shape="rect" id="node32" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="920,244,1123,285"/>
+<area shape="rect" id="node33" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="1401,251,1543,278"/>
+<area shape="rect" id="node34" href="$Metadata_8h.html" title="llvm/IR/Metadata.h" alt="" coords="2185,251,2325,278"/>
+<area shape="rect" id="node35" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="497,251,701,278"/>
+<area shape="rect" id="node36" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="725,251,896,278"/>
+<area shape="rect" id="node38" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="1887,333,2038,360"/>
+<area shape="rect" id="node39" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="3014,251,3167,278"/>
+<area shape="rect" id="node40" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3031,333,3174,360"/>
+<area shape="rect" id="node42" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="3224,333,3376,360"/>
+<area shape="rect" id="node45" href="$RuntimeLibcalls_8h.html" title="llvm/CodeGen/RuntimeLibcalls.h" alt="" coords="3474,162,3699,189"/>
+<area shape="rect" id="node46" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="3222,162,3349,189"/>
+<area shape="rect" id="node47" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="2963,162,3096,189"/>
+<area shape="rect" id="node48" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2696,162,2837,189"/>
+<area shape="rect" id="node49" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="1978,251,2161,278"/>
+<area shape="rect" id="node50" href="$TargetCallingConv_8h.html" title="llvm/Target/TargetCalling\lConv.h" alt="" coords="3724,155,3900,196"/>
+</map>

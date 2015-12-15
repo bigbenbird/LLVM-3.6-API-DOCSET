@@ -1,0 +1,20 @@
+<map id="DIBuilder.h" name="DIBuilder.h">
+<area shape="rect" id="node2" href="$DwarfUnit_8h.html" title="DwarfUnit.h" alt="" coords="306,80,402,107"/>
+<area shape="rect" id="node7" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="5,229,132,256"/>
+<area shape="rect" id="node8" href="$DwarfUnit_8cpp.html" title="DwarfUnit.cpp" alt="" coords="613,229,724,256"/>
+<area shape="rect" id="node10" href="$AutoUpgrade_8cpp.html" title="AutoUpgrade.cpp" alt="" coords="631,80,765,107"/>
+<area shape="rect" id="node11" href="$DebugInfo_8cpp.html" title="DebugInfo.cpp" alt="" coords="790,80,905,107"/>
+<area shape="rect" id="node12" href="$DIBuilder_8cpp.html" title="DIBuilder.cpp" alt="" coords="929,80,1035,107"/>
+<area shape="rect" id="node13" href="$AddressSanitizer_8cpp.html" title="AddressSanitizer.cpp" alt="" coords="1059,80,1215,107"/>
+<area shape="rect" id="node14" href="$DeadArgumentElimination_8cpp.html" title="DeadArgumentElimination.cpp" alt="" coords="1239,80,1456,107"/>
+<area shape="rect" id="node15" href="$ScalarReplAggregates_8cpp.html" title="ScalarReplAggregates.cpp" alt="" coords="1481,80,1670,107"/>
+<area shape="rect" id="node16" href="$SROA_8cpp.html" title="SROA.cpp" alt="" coords="1694,80,1779,107"/>
+<area shape="rect" id="node17" href="$AddDiscriminators_8cpp.html" title="AddDiscriminators.cpp" alt="" coords="1804,80,1971,107"/>
+<area shape="rect" id="node18" href="$Local_8cpp.html" title="Local.cpp" alt="" coords="1994,80,2077,107"/>
+<area shape="rect" id="node19" href="$PromoteMemoryToRegister_8cpp.html" title="PromoteMemoryToRegister.cpp" alt="" coords="2101,80,2319,107"/>
+<area shape="rect" id="node3" href="$DwarfCompileUnit_8h.html" title="DwarfCompileUnit.h" alt="" coords="356,155,504,181"/>
+<area shape="rect" id="node4" href="$DIE_8cpp.html" title="DIE.cpp" alt="" coords="156,229,227,256"/>
+<area shape="rect" id="node9" href="$DwarfFile_8cpp.html" title="DwarfFile.cpp" alt="" coords="227,155,332,181"/>
+<area shape="rect" id="node5" href="$DwarfAccelTable_8cpp.html" title="DwarfAccelTable.cpp" alt="" coords="251,229,401,256"/>
+<area shape="rect" id="node6" href="$DwarfCompileUnit_8cpp.html" title="DwarfCompileUnit.cpp" alt="" coords="426,229,589,256"/>
+</map>

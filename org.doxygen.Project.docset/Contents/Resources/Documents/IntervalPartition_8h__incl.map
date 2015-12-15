@@ -1,0 +1,33 @@
+<map id="IntervalPartition.h" name="IntervalPartition.h">
+<area shape="rect" id="node2" href="$Interval_8h.html" title="llvm/Analysis/Interval.h" alt="" coords="2937,80,3103,107"/>
+<area shape="rect" id="node5" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2529,80,2623,107"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2937,155,3103,181"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1289,692,1463,719"/>
+<area shape="rect" id="node9" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="2504,155,2648,181"/>
+<area shape="rect" id="node49" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="2858,304,3054,331"/>
+<area shape="rect" id="node10" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="2497,229,2655,256"/>
+<area shape="rect" id="node11" href="$PassInfo_8h.html" title="llvm/PassInfo.h" alt="" coords="2615,304,2731,331"/>
+<area shape="rect" id="node13" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="2331,229,2472,256"/>
+<area shape="rect" id="node46" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="207,229,371,256"/>
+<area shape="rect" id="node47" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="5,610,176,637"/>
+<area shape="rect" id="node14" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="835,304,941,331"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1147,453,1309,480"/>
+<area shape="rect" id="node33" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1713,528,1884,555"/>
+<area shape="rect" id="node34" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2189,304,2347,331"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2650,453,2801,480"/>
+<area shape="rect" id="node42" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="2306,379,2539,405"/>
+<area shape="rect" id="node44" href="$RWMutex_8h.html" title="llvm/Support/RWMutex.h" alt="" coords="3004,528,3180,555"/>
+<area shape="rect" id="node15" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="251,379,378,405"/>
+<area shape="rect" id="node18" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1135,528,1321,555"/>
+<area shape="rect" id="node19" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="862,603,1039,644"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2089,610,2276,637"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="847,528,1009,555"/>
+<area shape="rect" id="node25" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1397,528,1587,555"/>
+<area shape="rect" id="node26" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1267,610,1485,637"/>
+<area shape="rect" id="node36" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1581,379,1755,405"/>
+<area shape="rect" id="node37" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2076,453,2247,480"/>
+<area shape="rect" id="node41" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="505,453,674,480"/>
+<area shape="rect" id="node38" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="3095,610,3281,637"/>
+<area shape="rect" id="node43" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2458,528,2625,555"/>
+<area shape="rect" id="node45" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="2837,610,3019,637"/>
+</map>

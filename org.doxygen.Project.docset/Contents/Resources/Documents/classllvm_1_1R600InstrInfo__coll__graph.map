@@ -1,0 +1,6 @@
+<map id="llvm::R600InstrInfo" name="llvm::R600InstrInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUInstrInfo.html" title="llvm::AMDGPUInstrInfo" alt="" coords="60,171,225,197"/>
+<area shape="rect" id="node3" href="$classAMDGPUGenInstrInfo.html" title="AMDGPUGenInstrInfo" alt="" coords="5,81,163,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUSubtarget.html" title="llvm::AMDGPUSubtarget" alt="" coords="187,81,365,108"/>
+<area shape="rect" id="node5" href="$classAMDGPUGenSubtargetInfo.html" title="AMDGPUGenSubtargetInfo" alt="" coords="179,5,373,32"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="FoldingSet.h" name="FoldingSet.h">
+<area shape="rect" id="node2" href="$ImmutableList_8h.html" title="ImmutableList.h" alt="" coords="1129,80,1255,107"/>
+<area shape="rect" id="node3" href="$ImmutableSet_8h.html" title="ImmutableSet.h" alt="" coords="1279,80,1404,107"/>
+<area shape="rect" id="node5" href="$ScalarEvolution_8h.html" title="ScalarEvolution.h" alt="" coords="1429,80,1561,107"/>
+<area shape="rect" id="node27" href="$DIE_8h.html" title="DIE.h" alt="" coords="3385,80,3439,107"/>
+<area shape="rect" id="node29" href="$DwarfDebug_8h.html" title="DwarfDebug.h" alt="" coords="3091,229,3203,256"/>
+<area shape="rect" id="node35" href="$SelectionDAGNodes_8h.html" title="SelectionDAGNodes.h" alt="" coords="3197,80,3360,107"/>
+<area shape="rect" id="node36" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3595,80,3693,107"/>
+<area shape="rect" id="node37" href="$AttributeImpl_8h.html" title="This file defines various helper methods and classes used by LLVMContextImpl for creating and managin..." alt="" coords="3611,155,3728,181"/>
+<area shape="rect" id="node38" href="$LLVMContextImpl_8h.html" title="LLVMContextImpl.h" alt="" coords="3620,229,3764,256"/>
+<area shape="rect" id="node39" href="$Constants_8cpp.html" title="Constants.cpp" alt="" coords="3584,304,3699,331"/>
+<area shape="rect" id="node40" href="$Record_8h.html" title="Record.h" alt="" coords="3768,80,3845,107"/>
+<area shape="rect" id="node41" href="$Record_8cpp.html" title="Record.cpp" alt="" coords="3753,155,3845,181"/>
+<area shape="rect" id="node42" href="$DwarfFile_8h.html" title="DwarfFile.h" alt="" coords="3068,80,3159,107"/>
+<area shape="rect" id="node43" href="$MachineInstr_8cpp.html" title="MachineInstr.cpp" alt="" coords="3921,80,4050,107"/>
+<area shape="rect" id="node44" href="$APFloat_8cpp.html" title="APFloat.cpp" alt="" coords="4074,80,4171,107"/>
+<area shape="rect" id="node45" href="$APInt_8cpp.html" title="APInt.cpp" alt="" coords="4196,80,4279,107"/>
+<area shape="rect" id="node46" href="$APSInt_8cpp.html" title="APSInt.cpp" alt="" coords="4303,80,4393,107"/>
+<area shape="rect" id="node47" href="$FoldingSet_8cpp.html" title="FoldingSet.cpp" alt="" coords="4418,80,4534,107"/>
+<area shape="rect" id="node48" href="$ARMConstantPoolValue_8cpp.html" title="ARMConstantPoolValue.cpp" alt="" coords="4559,80,4756,107"/>
+<area shape="rect" id="node49" href="$SystemZConstantPoolValue_8cpp.html" title="SystemZConstantPoolValue.cpp" alt="" coords="4781,80,5009,107"/>
+<area shape="rect" id="node50" href="$MergeFunctions_8cpp.html" title="MergeFunctions.cpp" alt="" coords="5033,80,5183,107"/>
+<area shape="rect" id="node4" href="$ImmutableMap_8h.html" title="ImmutableMap.h" alt="" coords="311,155,441,181"/>
+<area shape="rect" id="node6" href="$ScalarEvolutionExpressions_8h.html" title="ScalarEvolutionExpressions.h" alt="" coords="668,155,876,181"/>
+<area shape="rect" id="node7" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="5,229,149,256"/>
+<area shape="rect" id="node8" href="$DependenceAnalysis_8cpp.html" title="DependenceAnalysis.cpp" alt="" coords="174,229,357,256"/>
+<area shape="rect" id="node9" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="381,229,528,256"/>
+<area shape="rect" id="node10" href="$AlignmentFromAssumptions_8cpp.html" title="AlignmentFromAssumptions.cpp" alt="" coords="552,229,781,256"/>
+<area shape="rect" id="node11" href="$LoopRerollPass_8cpp.html" title="LoopRerollPass.cpp" alt="" coords="806,229,949,256"/>
+<area shape="rect" id="node12" href="$BBVectorize_8cpp.html" title="BBVectorize.cpp" alt="" coords="973,229,1099,256"/>
+<area shape="rect" id="node13" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="1124,229,1263,256"/>
+<area shape="rect" id="node14" href="$SLPVectorizer_8cpp.html" title="SLPVectorizer.cpp" alt="" coords="1287,229,1423,256"/>
+<area shape="rect" id="node15" href="$LinkAllPasses_8h.html" title="LinkAllPasses.h" alt="" coords="1103,155,1222,181"/>
+<area shape="rect" id="node16" href="$MachineFunctionPass_8cpp.html" title="MachineFunctionPass.cpp" alt="" coords="1247,155,1431,181"/>
+<area shape="rect" id="node17" href="$LICM_8cpp.html" title="LICM.cpp" alt="" coords="1455,155,1534,181"/>
+<area shape="rect" id="node18" href="$LoopDeletion_8cpp.html" title="LoopDeletion.cpp" alt="" coords="1559,155,1692,181"/>
+<area shape="rect" id="node19" href="$LoopInstSimplify_8cpp.html" title="LoopInstSimplify.cpp" alt="" coords="1717,155,1867,181"/>
+<area shape="rect" id="node20" href="$LoopRotation_8cpp.html" title="LoopRotation.cpp" alt="" coords="1891,155,2023,181"/>
+<area shape="rect" id="node21" href="$LoopUnrollPass_8cpp.html" title="LoopUnrollPass.cpp" alt="" coords="2048,155,2195,181"/>
+<area shape="rect" id="node22" href="$LoopUnswitch_8cpp.html" title="LoopUnswitch.cpp" alt="" coords="2219,155,2357,181"/>
+<area shape="rect" id="node23" href="$LCSSA_8cpp.html" title="LCSSA.cpp" alt="" coords="2381,155,2473,181"/>
+<area shape="rect" id="node24" href="$LoopSimplify_8cpp.html" title="LoopSimplify.cpp" alt="" coords="2497,155,2625,181"/>
+<area shape="rect" id="node25" href="$LoopUnroll_8cpp.html" title="LoopUnroll.cpp" alt="" coords="2649,155,2767,181"/>
+<area shape="rect" id="node26" href="$LoopUnrollRuntime_8cpp.html" title="LoopUnrollRuntime.cpp" alt="" coords="2791,155,2961,181"/>
+<area shape="rect" id="node28" href="$DwarfAccelTable_8h.html" title="DwarfAccelTable.h" alt="" coords="3188,155,3324,181"/>
+<area shape="rect" id="node30" href="$DwarfUnit_8h.html" title="DwarfUnit.h" alt="" coords="3009,304,3105,331"/>
+<area shape="rect" id="node31" href="$DIE_8cpp.html" title="DIE.cpp" alt="" coords="3107,379,3178,405"/>
+<area shape="rect" id="node32" href="$DIEHash_8cpp.html" title="DIEHash.cpp" alt="" coords="3407,304,3510,331"/>
+<area shape="rect" id="node33" href="$DwarfAccelTable_8cpp.html" title="DwarfAccelTable.cpp" alt="" coords="3181,304,3331,331"/>
+<area shape="rect" id="node34" href="$DIEHash_8h.html" title="DIEHash.h" alt="" coords="3407,229,3495,256"/>
+</map>

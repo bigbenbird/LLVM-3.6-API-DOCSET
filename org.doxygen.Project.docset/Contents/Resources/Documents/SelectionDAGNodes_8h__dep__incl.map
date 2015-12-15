@@ -1,0 +1,51 @@
+<map id="SelectionDAGNodes.h" name="SelectionDAGNodes.h">
+<area shape="rect" id="node2" href="$SelectionDAG_8h.html" title="SelectionDAG.h" alt="" coords="2308,80,2431,107"/>
+<area shape="rect" id="node18" href="$StatepointLowering_8h.html" title="StatepointLowering.h" alt="" coords="5,155,163,181"/>
+<area shape="rect" id="node19" href="$SelectionDAGBuilder_8h.html" title="SelectionDAGBuilder.h" alt="" coords="1381,229,1547,256"/>
+<area shape="rect" id="node27" href="$ARMLoadStoreOptimizer_8cpp.html" title="ARMLoadStoreOptimizer.cpp" alt="" coords="5083,229,5287,256"/>
+<area shape="rect" id="node41" href="$TargetLowering_8h.html" title="TargetLowering.h" alt="" coords="4545,80,4674,107"/>
+<area shape="rect" id="node42" href="$ResourcePriorityQueue_8cpp.html" title="ResourcePriorityQueue.cpp" alt="" coords="5414,155,5607,181"/>
+<area shape="rect" id="node43" href="$TargetSelectionDAGInfo_8h.html" title="TargetSelectionDAGInfo.h" alt="" coords="5284,80,5468,107"/>
+<area shape="rect" id="node44" href="$ScheduleDAG_8cpp.html" title="ScheduleDAG.cpp" alt="" coords="5597,80,5734,107"/>
+<area shape="rect" id="node45" href="$ARMBaseInstrInfo_8cpp.html" title="ARMBaseInstrInfo.cpp" alt="" coords="5759,80,5919,107"/>
+<area shape="rect" id="node46" href="$HexagonCallingConvLower_8h.html" title="HexagonCallingConvLower.h" alt="" coords="5943,80,6145,107"/>
+<area shape="rect" id="node47" href="$Mips16ISelDAGToDAG_8cpp.html" title="Mips16ISelDAGToDAG.cpp" alt="" coords="6169,80,6357,107"/>
+<area shape="rect" id="node48" href="$MipsISelDAGToDAG_8cpp.html" title="MipsISelDAGToDAG.cpp" alt="" coords="6381,80,6553,107"/>
+<area shape="rect" id="node49" href="$MipsSEISelDAGToDAG_8cpp.html" title="MipsSEISelDAGToDAG.cpp" alt="" coords="6577,80,6767,107"/>
+<area shape="rect" id="node50" href="$PPCHazardRecognizers_8h.html" title="PPCHazardRecognizers.h" alt="" coords="6791,80,6972,107"/>
+<area shape="rect" id="node3" href="$SelectionDAGISel_8h.html" title="SelectionDAGISel.h" alt="" coords="1987,155,2133,181"/>
+<area shape="rect" id="node4" href="$SelectionDAGBuilder_8cpp.html" title="SelectionDAGBuilder.cpp" alt="" coords="2699,304,2879,331"/>
+<area shape="rect" id="node5" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="2180,304,2340,331"/>
+<area shape="rect" id="node6" href="$ARMISelDAGToDAG_8cpp.html" title="ARMISelDAGToDAG.cpp" alt="" coords="2091,229,2261,256"/>
+<area shape="rect" id="node7" href="$MSP430ISelDAGToDAG_8cpp.html" title="MSP430ISelDAGToDAG.cpp" alt="" coords="2285,229,2480,256"/>
+<area shape="rect" id="node8" href="$PPCISelDAGToDAG_8cpp.html" title="PPCISelDAGToDAG.cpp" alt="" coords="1571,229,1739,256"/>
+<area shape="rect" id="node9" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="1763,229,1965,256"/>
+<area shape="rect" id="node10" href="$CodeGen_2Analysis_8cpp.html" title="Analysis.cpp" alt="" coords="4720,155,4821,181"/>
+<area shape="rect" id="node11" href="$DAGCombiner_8cpp.html" title="DAGCombiner.cpp" alt="" coords="2645,155,2784,181"/>
+<area shape="rect" id="node12" href="$InstrEmitter_8h.html" title="InstrEmitter.h" alt="" coords="2361,155,2469,181"/>
+<area shape="rect" id="node13" href="$ScheduleDAGSDNodes_8cpp.html" title="ScheduleDAGSDNodes.cpp" alt="" coords="2555,229,2752,256"/>
+<area shape="rect" id="node14" href="$LegalizeDAG_8cpp.html" title="LegalizeDAG.cpp" alt="" coords="2808,155,2939,181"/>
+<area shape="rect" id="node15" href="$LegalizeTypes_8h.html" title="LegalizeTypes.h" alt="" coords="2963,155,3085,181"/>
+<area shape="rect" id="node16" href="$LegalizeVectorOps_8cpp.html" title="LegalizeVectorOps.cpp" alt="" coords="3109,155,3275,181"/>
+<area shape="rect" id="node17" href="$SelectionDAG_8cpp.html" title="SelectionDAG.cpp" alt="" coords="4947,155,5085,181"/>
+<area shape="rect" id="node20" href="$StatepointLowering_8cpp.html" title="StatepointLowering.cpp" alt="" coords="1318,304,1490,331"/>
+<area shape="rect" id="node21" href="$SelectionDAGDumper_8cpp.html" title="SelectionDAGDumper.cpp" alt="" coords="289,155,477,181"/>
+<area shape="rect" id="node22" href="$SelectionDAGPrinter_8cpp.html" title="SelectionDAGPrinter.cpp" alt="" coords="1368,155,1547,181"/>
+<area shape="rect" id="node23" href="$TargetLowering_8cpp.html" title="TargetLowering.cpp" alt="" coords="3300,155,3444,181"/>
+<area shape="rect" id="node24" href="$AArch64ISelLowering_8h.html" title="AArch64ISelLowering.h" alt="" coords="3469,155,3635,181"/>
+<area shape="rect" id="node25" href="$ARMISelLowering_8h.html" title="ARMISelLowering.h" alt="" coords="3989,155,4131,181"/>
+<area shape="rect" id="node26" href="$ARMISelLowering_8cpp.html" title="ARMISelLowering.cpp" alt="" coords="3737,229,3893,256"/>
+<area shape="rect" id="node28" href="$ARMSelectionDAGInfo_8cpp.html" title="ARMSelectionDAGInfo.cpp" alt="" coords="1622,155,1810,181"/>
+<area shape="rect" id="node29" href="$MipsISelLowering_8h.html" title="MipsISelLowering.h" alt="" coords="3659,155,3802,181"/>
+<area shape="rect" id="node30" href="$MSP430ISelLowering_8h.html" title="MSP430ISelLowering.h" alt="" coords="4155,155,4320,181"/>
+<area shape="rect" id="node31" href="$NVPTXISelLowering_8h.html" title="NVPTXISelLowering.h" alt="" coords="4344,155,4499,181"/>
+<area shape="rect" id="node32" href="$PPCISelLowering_8h.html" title="PPCISelLowering.h" alt="" coords="3827,155,3965,181"/>
+<area shape="rect" id="node33" href="$PPCISelLowering_8cpp.html" title="PPCISelLowering.cpp" alt="" coords="3069,229,3222,256"/>
+<area shape="rect" id="node34" href="$R600MachineFunctionInfo_8h.html" title="R600MachineFunctionInfo.h" alt="" coords="501,155,696,181"/>
+<area shape="rect" id="node35" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="243,229,429,256"/>
+<area shape="rect" id="node36" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="613,229,773,256"/>
+<area shape="rect" id="node37" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="771,155,911,181"/>
+<area shape="rect" id="node38" href="$SparcISelLowering_8cpp.html" title="SparcISelLowering.cpp" alt="" coords="936,155,1101,181"/>
+<area shape="rect" id="node39" href="$SystemZISelLowering_8h.html" title="SystemZISelLowering.h" alt="" coords="4523,155,4695,181"/>
+<area shape="rect" id="node40" href="$SystemZSelectionDAGInfo_8cpp.html" title="SystemZSelectionDAGInfo.cpp" alt="" coords="1125,155,1344,181"/>
+</map>

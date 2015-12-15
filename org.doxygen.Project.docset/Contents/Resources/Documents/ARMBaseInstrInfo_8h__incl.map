@@ -1,0 +1,33 @@
+<map id="ARMBaseInstrInfo.h" name="ARMBaseInstrInfo.h">
+<area shape="rect" id="node2" href="$ARMBaseInfo_8h.html" title="MCTargetDesc/ARMBaseInfo.h" alt="" coords="193,266,405,293"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1864,348,2027,375"/>
+<area shape="rect" id="node29" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="680,266,832,293"/>
+<area shape="rect" id="node37" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="678,80,874,121"/>
+<area shape="rect" id="node45" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="444,87,623,114"/>
+<area shape="rect" id="node47" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="1467,87,1664,114"/>
+<area shape="rect" id="node3" href="$ARMMCTargetDesc_8h.html" title="ARMMCTargetDesc.h" alt="" coords="195,348,349,375"/>
+<area shape="rect" id="node9" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="373,348,579,375"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1650,423,1801,449"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2501,587,2675,613"/>
+<area shape="rect" id="node18" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1338,423,1523,449"/>
+<area shape="rect" id="node19" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1287,497,1465,539"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1540,505,1727,531"/>
+<area shape="rect" id="node22" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3431,423,3593,449"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2381,423,2571,449"/>
+<area shape="rect" id="node25" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2381,505,2598,531"/>
+<area shape="rect" id="node30" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="604,348,732,375"/>
+<area shape="rect" id="node31" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2135,423,2305,449"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2765,348,2936,375"/>
+<area shape="rect" id="node33" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1026,423,1211,449"/>
+<area shape="rect" id="node38" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1158,177,1391,203"/>
+<area shape="rect" id="node44" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="797,169,993,211"/>
+<area shape="rect" id="node39" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3191,423,3305,449"/>
+<area shape="rect" id="node40" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1024,259,1227,300"/>
+<area shape="rect" id="node41" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="857,266,999,293"/>
+<area shape="rect" id="node42" href="$Metadata_8h.html" title="llvm/IR/Metadata.h" alt="" coords="1251,266,1391,293"/>
+<area shape="rect" id="node43" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2946,266,3121,293"/>
+<area shape="rect" id="node46" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="387,177,555,203"/>
+<area shape="rect" id="node48" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="1677,169,1907,211"/>
+<area shape="rect" id="node49" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="2823,177,2982,203"/>
+<area shape="rect" id="node50" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="1467,169,1653,211"/>
+</map>

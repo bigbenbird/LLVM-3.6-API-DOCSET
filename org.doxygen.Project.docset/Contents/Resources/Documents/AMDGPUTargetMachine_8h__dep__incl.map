@@ -1,0 +1,11 @@
+<map id="AMDGPUTargetMachine.h" name="AMDGPUTargetMachine.h">
+<area shape="rect" id="node2" href="$AMDGPUInstrInfo_8cpp.html" title="Implementation of the TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="189,80,375,107"/>
+<area shape="rect" id="node4" href="$AMDGPURegisterInfo_8cpp.html" title="Parent TargetRegisterInfo class common to all hw codegen targets. " alt="" coords="399,80,581,107"/>
+<area shape="rect" id="node5" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="605,80,804,107"/>
+<area shape="rect" id="node6" href="$AMDGPUTargetTransformInfo_8cpp.html" title="AMDGPUTargetTransformInfo.cpp" alt="" coords="829,80,1061,107"/>
+<area shape="rect" id="node7" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="1085,80,1217,107"/>
+<area shape="rect" id="node8" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class. " alt="" coords="1242,80,1397,107"/>
+<area shape="rect" id="node9" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="1421,80,1533,107"/>
+<area shape="rect" id="node10" href="$AMDGPUTargetInfo_8cpp.html" title="AMDGPUTargetInfo.cpp" alt="" coords="1557,80,1727,107"/>
+</map>

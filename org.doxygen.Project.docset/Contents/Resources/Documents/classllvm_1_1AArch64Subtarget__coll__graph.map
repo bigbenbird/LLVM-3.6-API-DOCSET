@@ -1,0 +1,16 @@
+<map id="llvm::AArch64Subtarget" name="llvm::AArch64Subtarget">
+<area shape="rect" id="node2" href="$classAArch64GenSubtargetInfo.html" title="AArch64GenSubtargetInfo" alt="" coords="845,29,1035,56"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AArch64TargetLowering.html" title="llvm::AArch64TargetLowering" alt="" coords="837,131,1043,157"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetLowering.html" title="llvm::TargetLowering" alt="" coords="601,143,752,169"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetLoweringBase.html" title="llvm::TargetLoweringBase" alt="" coords="341,144,524,171"/>
+<area shape="rect" id="node6" href="$classbool.html" title="bool" alt="" coords="21,112,70,139"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="5,263,85,289"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="875,232,1005,259"/>
+<area shape="rect" id="node10" href="$classllvm_1_1AArch64SelectionDAGInfo.html" title="llvm::AArch64SelectionDAGInfo" alt="" coords="829,283,1051,309"/>
+<area shape="rect" id="node11" href="$classllvm_1_1TargetSelectionDAGInfo.html" title="llvm::TargetSelectionDAGInfo" alt="" coords="573,283,780,309"/>
+<area shape="rect" id="node13" href="$classllvm_1_1AArch64FrameLowering.html" title="llvm::AArch64FrameLowering" alt="" coords="837,384,1043,411"/>
+<area shape="rect" id="node14" href="$classllvm_1_1TargetFrameLowering.html" title="llvm::TargetFrameLowering" alt="" coords="581,384,772,411"/>
+<area shape="rect" id="node15" href="$classllvm_1_1Triple.html" title="llvm::Triple" alt="" coords="896,435,984,461"/>
+<area shape="rect" id="node16" href="$classllvm_1_1AArch64InstrInfo.html" title="llvm::AArch64InstrInfo" alt="" coords="859,485,1021,512"/>
+<area shape="rect" id="node17" href="$classAArch64GenInstrInfo.html" title="AArch64GenInstrInfo" alt="" coords="600,485,753,512"/>
+</map>

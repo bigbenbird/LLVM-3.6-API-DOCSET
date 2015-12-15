@@ -1,0 +1,13 @@
+<map id="DFAPacketizer.h" name="DFAPacketizer.h">
+<area shape="rect" id="node2" href="$ResourcePriorityQueue_8h.html" title="ResourcePriorityQueue.h" alt="" coords="217,80,395,107"/>
+<area shape="rect" id="node8" href="$DFAPacketizer_8cpp.html" title="DFAPacketizer.cpp" alt="" coords="419,80,558,107"/>
+<area shape="rect" id="node9" href="$HexagonInstrInfo_8cpp.html" title="HexagonInstrInfo.cpp" alt="" coords="582,80,739,107"/>
+<area shape="rect" id="node10" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="763,80,963,107"/>
+<area shape="rect" id="node11" href="$R600OptimizeVectorRegisters_8cpp.html" title="R600OptimizeVectorRegisters.cpp" alt="" coords="987,80,1225,107"/>
+<area shape="rect" id="node12" href="$R600Packetizer_8cpp.html" title="R600Packetizer.cpp" alt="" coords="1249,80,1395,107"/>
+<area shape="rect" id="node3" href="$ResourcePriorityQueue_8cpp.html" title="ResourcePriorityQueue.cpp" alt="" coords="5,155,199,181"/>
+<area shape="rect" id="node4" href="$ScheduleDAGVLIW_8cpp.html" title="ScheduleDAGVLIW.cpp" alt="" coords="223,155,389,181"/>
+<area shape="rect" id="node5" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="413,155,620,181"/>
+<area shape="rect" id="node6" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="288,229,511,256"/>
+<area shape="rect" id="node7" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="535,229,733,256"/>
+</map>

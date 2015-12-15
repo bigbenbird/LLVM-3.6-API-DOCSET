@@ -1,0 +1,12 @@
+<map id="Mangler.h" name="Mangler.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="720,80,883,107"/>
+<area shape="rect" id="node22" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="926,80,1128,107"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1178,155,1364,181"/>
+<area shape="rect" id="node4" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1342,229,1520,271"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1131,237,1318,263"/>
+<area shape="rect" id="node9" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="24,237,187,263"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="188,319,362,345"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="330,155,521,181"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="364,237,581,263"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="952,155,1102,181"/>
+</map>

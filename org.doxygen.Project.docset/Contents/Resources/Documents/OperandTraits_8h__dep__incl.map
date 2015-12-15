@@ -1,0 +1,51 @@
+<map id="OperandTraits.h" name="OperandTraits.h">
+<area shape="rect" id="node2" href="$Constants_8h.html" title="Constants.h" alt="" coords="2898,80,2996,107"/>
+<area shape="rect" id="node12" href="$BitcodeReader_8cpp.html" title="BitcodeReader.cpp" alt="" coords="6025,229,6165,256"/>
+<area shape="rect" id="node47" href="$GlobalAlias_8h.html" title="GlobalAlias.h" alt="" coords="23,155,127,181"/>
+<area shape="rect" id="node48" href="$GlobalVariable_8h.html" title="GlobalVariable.h" alt="" coords="258,80,383,107"/>
+<area shape="rect" id="node49" href="$InstrTypes_8h.html" title="InstrTypes.h" alt="" coords="940,80,1037,107"/>
+<area shape="rect" id="node50" href="$BitcodeReader_8h.html" title="BitcodeReader.h" alt="" coords="6139,80,6264,107"/>
+<area shape="rect" id="node3" href="$CFGPrinter_8h.html" title="CFGPrinter.h" alt="" coords="5443,155,5544,181"/>
+<area shape="rect" id="node4" href="$TargetFolder_8h.html" title="TargetFolder.h" alt="" coords="788,155,898,181"/>
+<area shape="rect" id="node5" href="$SelectionDAGNodes_8h.html" title="SelectionDAGNodes.h" alt="" coords="5568,155,5731,181"/>
+<area shape="rect" id="node6" href="$ConstantFolder_8h.html" title="ConstantFolder.h" alt="" coords="923,155,1054,181"/>
+<area shape="rect" id="node7" href="$IntrinsicInst_8h.html" title="IntrinsicInst.h" alt="" coords="5856,155,5963,181"/>
+<area shape="rect" id="node8" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="827,229,992,256"/>
+<area shape="rect" id="node9" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="5563,229,5704,256"/>
+<area shape="rect" id="node10" href="$LazyValueInfo_8cpp.html" title="LazyValueInfo.cpp" alt="" coords="5784,304,5920,331"/>
+<area shape="rect" id="node11" href="$ValueTracking_8cpp.html" title="ValueTracking.cpp" alt="" coords="3458,304,3593,331"/>
+<area shape="rect" id="node13" href="$CodeGenPrepare_8cpp.html" title="CodeGenPrepare.cpp" alt="" coords="5945,304,6104,331"/>
+<area shape="rect" id="node14" href="$NoFolder_8h.html" title="NoFolder.h" alt="" coords="1547,155,1638,181"/>
+<area shape="rect" id="node15" href="$Operator_8h.html" title="Operator.h" alt="" coords="1331,155,1422,181"/>
+<area shape="rect" id="node16" href="$PatternMatch_8h.html" title="PatternMatch.h" alt="" coords="5830,229,5949,256"/>
+<area shape="rect" id="node17" href="$ConstantFolding_8cpp.html" title="ConstantFolding.cpp" alt="" coords="1596,229,1748,256"/>
+<area shape="rect" id="node18" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="544,229,691,256"/>
+<area shape="rect" id="node19" href="$LLParser_8cpp.html" title="LLParser.cpp" alt="" coords="1017,229,1120,256"/>
+<area shape="rect" id="node20" href="$BitcodeWriter_8cpp.html" title="BitcodeWriter.cpp" alt="" coords="1144,229,1276,256"/>
+<area shape="rect" id="node21" href="$ForwardControlFlowIntegrity_8cpp.html" title="A pass that instruments code with fast checks for indirect calls and hooks for a function to check vi..." alt="" coords="1300,229,1522,256"/>
+<area shape="rect" id="node22" href="$JumpInstrTables_8cpp.html" title="An implementation of jump&#45;instruction tables. " alt="" coords="1773,229,1921,256"/>
+<area shape="rect" id="node23" href="$AliasAnalysisEvaluator_8cpp.html" title="AliasAnalysisEvaluator.cpp" alt="" coords="1662,155,1853,181"/>
+<area shape="rect" id="node24" href="$AliasDebugger_8cpp.html" title="AliasDebugger.cpp" alt="" coords="1878,155,2019,181"/>
+<area shape="rect" id="node25" href="$BranchProbabilityInfo_8cpp.html" title="BranchProbabilityInfo.cpp" alt="" coords="2044,155,2226,181"/>
+<area shape="rect" id="node26" href="$CaptureTracking_8cpp.html" title="CaptureTracking.cpp" alt="" coords="2250,155,2401,181"/>
+<area shape="rect" id="node27" href="$CFLAliasAnalysis_8cpp.html" title="CFLAliasAnalysis.cpp" alt="" coords="2426,155,2580,181"/>
+<area shape="rect" id="node28" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="2604,155,2748,181"/>
+<area shape="rect" id="node29" href="$IVUsers_8cpp.html" title="IVUsers.cpp" alt="" coords="2772,155,2871,181"/>
+<area shape="rect" id="node30" href="$LoopInfo_8cpp.html" title="LoopInfo.cpp" alt="" coords="2896,155,2998,181"/>
+<area shape="rect" id="node31" href="$PHITransAddr_8cpp.html" title="PHITransAddr.cpp" alt="" coords="3022,155,3154,181"/>
+<area shape="rect" id="node32" href="$ScopedNoAliasAA_8cpp.html" title="ScopedNoAliasAA.cpp" alt="" coords="3179,155,3342,181"/>
+<area shape="rect" id="node33" href="$SparsePropagation_8cpp.html" title="SparsePropagation.cpp" alt="" coords="3366,155,3536,181"/>
+<area shape="rect" id="node34" href="$TypeBasedAliasAnalysis_8cpp.html" title="TypeBasedAliasAnalysis.cpp" alt="" coords="3561,155,3760,181"/>
+<area shape="rect" id="node35" href="$ValueEnumerator_8cpp.html" title="ValueEnumerator.cpp" alt="" coords="3784,155,3942,181"/>
+<area shape="rect" id="node36" href="$DebugLocEntry_8h.html" title="DebugLocEntry.h" alt="" coords="3966,155,4096,181"/>
+<area shape="rect" id="node37" href="$AsmPrinterInlineAsm_8cpp.html" title="AsmPrinterInlineAsm.cpp" alt="" coords="4120,155,4302,181"/>
+<area shape="rect" id="node38" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="4326,155,4453,181"/>
+<area shape="rect" id="node39" href="$DwarfUnit_8cpp.html" title="DwarfUnit.cpp" alt="" coords="653,155,764,181"/>
+<area shape="rect" id="node40" href="$GlobalMerge_8cpp.html" title="GlobalMerge.cpp" alt="" coords="304,155,433,181"/>
+<area shape="rect" id="node41" href="$IntrinsicLowering_8cpp.html" title="IntrinsicLowering.cpp" alt="" coords="4478,155,4632,181"/>
+<area shape="rect" id="node42" href="$LiveDebugVariables_8cpp.html" title="LiveDebugVariables.cpp" alt="" coords="4657,155,4832,181"/>
+<area shape="rect" id="node43" href="$LocalStackSlotAllocation_8cpp.html" title="LocalStackSlotAllocation.cpp" alt="" coords="4856,155,5062,181"/>
+<area shape="rect" id="node44" href="$MachineInstr_8cpp.html" title="MachineInstr.cpp" alt="" coords="5086,155,5216,181"/>
+<area shape="rect" id="node45" href="$MachineModuleInfo_8cpp.html" title="MachineModuleInfo.cpp" alt="" coords="458,155,628,181"/>
+<area shape="rect" id="node46" href="$ScheduleDAGPrinter_8cpp.html" title="ScheduleDAGPrinter.cpp" alt="" coords="5240,155,5419,181"/>
+</map>

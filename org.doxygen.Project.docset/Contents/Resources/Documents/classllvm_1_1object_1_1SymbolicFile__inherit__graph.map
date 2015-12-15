@@ -1,0 +1,9 @@
+<map id="llvm::object::SymbolicFile" name="llvm::object::SymbolicFile">
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1IRObjectFile.html" title="llvm::object::IRObjectFile" alt="" coords="425,5,600,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1ObjectFile.html" title="llvm::object::ObjectFile" alt="" coords="431,56,595,83"/>
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1Binary.html" title="llvm::object::Binary" alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node5" href="$classllvm_1_1object_1_1COFFObjectFile.html" title="llvm::object::COFFObjectFile" alt="" coords="659,5,856,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1object_1_1ELFObjectFileBase.html" title="llvm::object::ELFObjectFileBase" alt="" coords="648,56,867,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1object_1_1MachOObjectFile.html" title="llvm::object::MachOObjectFile" alt="" coords="653,107,861,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1object_1_1ELFObjectFile.html" title="llvm::object::ELFObjectFile\l\&lt; ELFT \&gt;" alt="" coords="915,49,1101,90"/>
+</map>

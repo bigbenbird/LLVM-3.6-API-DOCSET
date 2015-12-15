@@ -1,0 +1,12 @@
+<map id="llvm::InvokeInst" name="llvm::InvokeInst">
+<area shape="rect" id="node2" href="$classllvm_1_1TerminatorInst.html" title="llvm::TerminatorInst" alt="" coords="1117,113,1264,140"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="945,113,1068,140"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="746,87,833,113"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="392,36,483,63"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="39,36,119,63"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users. " alt="" coords="397,87,478,113"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction \&gt;" alt="" coords="683,145,896,172"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Instruction \&gt;" alt="" coords="364,138,511,179"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,169,152,210"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="341,204,533,231"/>
+</map>

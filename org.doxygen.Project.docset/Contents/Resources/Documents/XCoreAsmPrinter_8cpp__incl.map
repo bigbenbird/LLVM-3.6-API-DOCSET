@@ -1,0 +1,45 @@
+<map id="XCoreAsmPrinter.cpp" name="XCoreAsmPrinter.cpp">
+<area shape="rect" id="node2" href="$XCore_8h.html" title="XCore.h" alt="" coords="1078,348,1149,375"/>
+<area shape="rect" id="node10" href="$XCoreInstPrinter_8h.html" title="This file contains the declaration of the XCoreInstPrinter class, which is used to print XCore MCInst..." alt="" coords="2662,87,2866,114"/>
+<area shape="rect" id="node13" href="$XCoreInstrInfo_8h.html" title="XCoreInstrInfo.h" alt="" coords="269,266,392,293"/>
+<area shape="rect" id="node16" href="$XCoreMCInstLower_8h.html" title="XCoreMCInstLower.h" alt="" coords="2399,177,2550,203"/>
+<area shape="rect" id="node19" href="$XCoreSubtarget_8h.html" title="XCoreSubtarget.h" alt="" coords="1261,177,1395,203"/>
+<area shape="rect" id="node23" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2770,266,2923,293"/>
+<area shape="rect" id="node25" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2953,348,3116,375"/>
+<area shape="rect" id="node27" href="$XCoreTargetMachine_8h.html" title="XCoreTargetMachine.h" alt="" coords="1399,87,1561,114"/>
+<area shape="rect" id="node28" href="$XCoreTargetStreamer_8h.html" title="XCoreTargetStreamer.h" alt="" coords="3639,177,3809,203"/>
+<area shape="rect" id="node29" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="3553,266,3721,293"/>
+<area shape="rect" id="node30" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="517,266,685,293"/>
+<area shape="rect" id="node31" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2097,348,2269,375"/>
+<area shape="rect" id="node32" href="$AsmPrinter_8h.html" title="llvm/CodeGen/AsmPrinter.h" alt="" coords="3157,87,3355,114"/>
+<area shape="rect" id="node33" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3292,169,3513,211"/>
+<area shape="rect" id="node34" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2293,348,2499,375"/>
+<area shape="rect" id="node35" href="$MachineConstantPool_8h.html" title="llvm/CodeGen/MachineConstant\lPool.h" alt="" coords="3741,80,3968,121"/>
+<area shape="rect" id="node36" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1671,177,1878,203"/>
+<area shape="rect" id="node37" href="$DebugInfo_8h.html" title="llvm/IR/DebugInfo.h" alt="" coords="1723,266,1867,293"/>
+<area shape="rect" id="node38" href="$MachineJumpTableInfo_8h.html" title="llvm/CodeGen/MachineJump\lTableInfo.h" alt="" coords="3992,80,4192,121"/>
+<area shape="rect" id="node39" href="$MachineModuleInfo_8h.html" title="llvm/CodeGen/MachineModule\lInfo.h" alt="" coords="1942,259,2157,300"/>
+<area shape="rect" id="node40" href="$Constants_8h.html" title="llvm/IR/Constants.h" alt="" coords="2676,177,2820,203"/>
+<area shape="rect" id="node41" href="$Mangler_8h.html" title="llvm/IR/Mangler.h" alt="" coords="2194,177,2323,203"/>
+<area shape="rect" id="node42" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2575,348,2777,375"/>
+<area shape="rect" id="node43" href="$Module_8h.html" title="llvm/IR/Module.h" alt="" coords="3041,177,3167,203"/>
+<area shape="rect" id="node44" href="$MCAsmInfo_8h.html" title="llvm/MC/MCAsmInfo.h" alt="" coords="4216,87,4376,114"/>
+<area shape="rect" id="node45" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="3430,87,3565,114"/>
+<area shape="rect" id="node46" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="1568,266,1699,293"/>
+<area shape="rect" id="node47" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="1670,348,1826,375"/>
+<area shape="rect" id="node48" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3706,512,3913,539"/>
+<area shape="rect" id="node49" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="2942,80,3133,121"/>
+<area shape="rect" id="node3" href="$XCoreMCTargetDesc_8h.html" title="MCTargetDesc/XCoreMCTarget\lDesc.h" alt="" coords="543,423,756,464"/>
+<area shape="rect" id="node6" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1285,430,1483,457"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1598,512,1749,539"/>
+<area shape="rect" id="node11" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="2845,177,3017,203"/>
+<area shape="rect" id="node14" href="$XCoreRegisterInfo_8h.html" title="XCoreRegisterInfo.h" alt="" coords="43,348,189,375"/>
+<area shape="rect" id="node15" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="213,348,411,375"/>
+<area shape="rect" id="node17" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="2512,266,2747,293"/>
+<area shape="rect" id="node18" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2410,430,2585,457"/>
+<area shape="rect" id="node20" href="$XCoreFrameLowering_8h.html" title="XCoreFrameLowering.h" alt="" coords="1275,348,1442,375"/>
+<area shape="rect" id="node21" href="$XCoreISelLowering_8h.html" title="XCoreISelLowering.h" alt="" coords="1139,266,1290,293"/>
+<area shape="rect" id="node22" href="$XCoreSelectionDAGInfo_8h.html" title="XCoreSelectionDAGInfo.h" alt="" coords="710,266,893,293"/>
+<area shape="rect" id="node26" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="917,259,1115,300"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1901,348,2072,375"/>
+</map>

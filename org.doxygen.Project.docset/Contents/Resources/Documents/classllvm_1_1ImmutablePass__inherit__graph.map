@@ -1,0 +1,13 @@
+<map id="llvm::ImmutablePass" name="llvm::ImmutablePass">
+<area shape="rect" id="node4" href="$classllvm_1_1AssumptionCacheTracker.html" title="An immutable pass that tracks lazily created AssumptionCache objects. " alt="" coords="533,5,750,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DataLayoutPass.html" title="llvm::DataLayoutPass" alt="" coords="562,56,721,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1GCModuleInfo.html" title="llvm::GCModuleInfo" alt="" coords="569,107,713,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1JumpInstrTableInfo.html" title="llvm::JumpInstrTableInfo" alt="" coords="556,157,727,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MachineBranchProbabilityInfo.html" title="llvm::MachineBranchProbabilityInfo" alt="" coords="520,208,763,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MachineModuleInfo.html" title="llvm::MachineModuleInfo" alt="" coords="552,259,731,285"/>
+<area shape="rect" id="node10" href="$classllvm_1_1objcarc_1_1ObjCARCAliasAnalysis.html" title="This is a simple alias analysis implementation that uses knowledge of ARC constructs to answer querie..." alt="" coords="544,310,739,351"/>
+<area shape="rect" id="node11" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="561,376,722,403"/>
+<area shape="rect" id="node12" href="$classllvm_1_1TargetPassConfig.html" title="llvm::TargetPassConfig" alt="" coords="559,427,723,453"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="139,208,269,235"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="5,208,91,235"/>
+</map>

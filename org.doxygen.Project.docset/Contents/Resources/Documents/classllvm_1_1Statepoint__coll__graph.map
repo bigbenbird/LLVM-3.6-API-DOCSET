@@ -1,0 +1,4 @@
+<map id="llvm::Statepoint" name="llvm::Statepoint">
+<area shape="rect" id="node2" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; Instruction, Value,\l CallSite \&gt;" alt="" coords="15,139,170,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; InstructionTy, ValueTy,\l CallSiteTy \&gt;" alt="" coords="5,5,180,61"/>
+</map>

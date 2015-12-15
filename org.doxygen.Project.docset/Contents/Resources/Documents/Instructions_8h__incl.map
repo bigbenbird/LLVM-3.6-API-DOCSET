@@ -1,0 +1,33 @@
+<map id="Instructions.h" name="Instructions.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1078,229,1225,256"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="550,304,721,331"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="2637,379,2823,405"/>
+<area shape="rect" id="node26" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1445,80,1588,107"/>
+<area shape="rect" id="node34" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="2205,80,2357,107"/>
+<area shape="rect" id="node35" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2199,155,2362,181"/>
+<area shape="rect" id="node42" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2152,304,2359,331"/>
+<area shape="rect" id="node43" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="2483,80,2625,107"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1087,304,1215,331"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="673,379,830,405"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="809,543,984,569"/>
+<area shape="rect" id="node15" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="30,379,193,405"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="972,379,1163,405"/>
+<area shape="rect" id="node23" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1766,461,1953,487"/>
+<area shape="rect" id="node17" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1036,461,1253,487"/>
+<area shape="rect" id="node27" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="1251,155,1412,181"/>
+<area shape="rect" id="node31" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2129,453,2307,495"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1828,379,1979,405"/>
+<area shape="rect" id="node30" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="548,229,723,256"/>
+<area shape="rect" id="node36" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1810,229,1917,256"/>
+<area shape="rect" id="node37" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1751,304,1858,331"/>
+<area shape="rect" id="node38" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1883,304,2025,331"/>
+<area shape="rect" id="node39" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1238,379,1409,405"/>
+<area shape="rect" id="node40" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1392,304,1625,331"/>
+<area shape="rect" id="node41" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1585,379,1752,405"/>
+<area shape="rect" id="node44" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2435,229,2561,256"/>
+<area shape="rect" id="node45" href="$Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="2751,155,2898,181"/>
+<area shape="rect" id="node50" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="2548,155,2715,181"/>
+<area shape="rect" id="node46" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="2770,229,2925,256"/>
+<area shape="rect" id="node47" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3235,304,3377,331"/>
+<area shape="rect" id="node48" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="2637,229,2745,256"/>
+</map>

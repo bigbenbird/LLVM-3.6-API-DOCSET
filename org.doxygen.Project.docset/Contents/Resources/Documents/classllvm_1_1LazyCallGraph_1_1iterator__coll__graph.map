@@ -1,0 +1,6 @@
+<map id="llvm::LazyCallGraph::iterator" name="llvm::LazyCallGraph::iterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; iterator, NodeVectorImpl\lT::iterator, std::forward_iterator\l_tag, Node \&gt;" alt="" coords="1336,170,1568,241"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; iterator, std\l::forward_iterator_tag,\l Node, typename std::iterator\l_traits\&lt; NodeVectorImplT::iterator\l \&gt;::difference_type, Node *, Node &amp; \&gt;" alt="" coords="834,46,1102,146"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="284,115,528,186"/>
+<area shape="rect" id="node8" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="825,170,1111,241"/>
+</map>

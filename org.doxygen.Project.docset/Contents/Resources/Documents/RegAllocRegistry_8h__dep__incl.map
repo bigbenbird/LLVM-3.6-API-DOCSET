@@ -1,0 +1,8 @@
+<map id="RegAllocRegistry.h" name="RegAllocRegistry.h">
+<area shape="rect" id="node2" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node3" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="123,80,259,107"/>
+<area shape="rect" id="node4" href="$RegAllocFast_8cpp.html" title="RegAllocFast.cpp" alt="" coords="283,80,411,107"/>
+<area shape="rect" id="node5" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="435,80,581,107"/>
+<area shape="rect" id="node6" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="606,80,741,107"/>
+<area shape="rect" id="node7" href="$AArch64TargetMachine_8cpp.html" title="AArch64TargetMachine.cpp" alt="" coords="765,80,960,107"/>
+</map>

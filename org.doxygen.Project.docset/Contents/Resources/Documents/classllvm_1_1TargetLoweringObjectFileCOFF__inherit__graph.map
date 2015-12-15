@@ -1,0 +1,5 @@
+<map id="llvm::TargetLoweringObjectFileCOFF" name="llvm::TargetLoweringObjectFileCOFF">
+<area shape="rect" id="node4" href="$classllvm_1_1X86WindowsTargetObjectFile.html" title="This implementation is used for Windows targets on x86 and x86&#45;64. " alt="" coords="5,244,240,271"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="17,80,229,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="43,5,203,32"/>
+</map>

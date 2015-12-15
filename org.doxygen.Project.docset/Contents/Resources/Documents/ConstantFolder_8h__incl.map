@@ -1,0 +1,34 @@
+<map id="ConstantFolder.h" name="ConstantFolder.h">
+<area shape="rect" id="node2" href="$Constants_8h.html" title="llvm/IR/Constants.h" alt="" coords="1512,80,1656,107"/>
+<area shape="rect" id="node44" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="1997,80,2139,107"/>
+<area shape="rect" id="node3" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1390,304,1533,331"/>
+<area shape="rect" id="node4" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1386,379,1513,405"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="589,453,736,480"/>
+<area shape="rect" id="node31" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="1515,155,1653,181"/>
+<area shape="rect" id="node40" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1872,155,2035,181"/>
+<area shape="rect" id="node43" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="1677,155,1843,181"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1311,752,1486,779"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1011,603,1202,629"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="479,528,607,555"/>
+<area shape="rect" id="node7" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="149,603,307,629"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="769,528,940,555"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1226,603,1411,629"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="567,677,729,704"/>
+<area shape="rect" id="node26" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="749,603,936,629"/>
+<area shape="rect" id="node20" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1290,677,1507,704"/>
+<area shape="rect" id="node32" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="1557,304,1665,331"/>
+<area shape="rect" id="node33" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="382,603,522,629"/>
+<area shape="rect" id="node34" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1748,379,1863,405"/>
+<area shape="rect" id="node38" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2191,528,2398,555"/>
+<area shape="rect" id="node35" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="2151,453,2257,480"/>
+<area shape="rect" id="node36" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1893,453,2126,480"/>
+<area shape="rect" id="node37" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1926,528,2093,555"/>
+<area shape="rect" id="node39" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1986,603,2137,629"/>
+<area shape="rect" id="node41" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1900,229,2007,256"/>
+<area shape="rect" id="node42" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1487,603,1657,629"/>
+<area shape="rect" id="node45" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2627,453,2754,480"/>
+<area shape="rect" id="node46" href="$Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="2225,229,2372,256"/>
+<area shape="rect" id="node47" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="2535,304,2689,331"/>
+<area shape="rect" id="node48" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="2485,379,2627,405"/>
+<area shape="rect" id="node49" href="$TrackingMDRef_8h.html" title="llvm/IR/TrackingMDRef.h" alt="" coords="2434,453,2603,480"/>
+</map>

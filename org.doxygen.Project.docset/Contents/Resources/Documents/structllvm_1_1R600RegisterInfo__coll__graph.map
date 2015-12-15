@@ -1,0 +1,8 @@
+<map id="llvm::R600RegisterInfo" name="llvm::R600RegisterInfo">
+<area shape="rect" id="node2" href="$structllvm_1_1AMDGPURegisterInfo.html" title="llvm::AMDGPURegisterInfo" alt="" coords="180,185,368,212"/>
+<area shape="rect" id="node3" href="$classAMDGPUGenRegisterInfo.html" title="AMDGPUGenRegisterInfo" alt="" coords="5,81,185,108"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUSubtarget.html" title="llvm::AMDGPUSubtarget" alt="" coords="309,81,487,108"/>
+<area shape="rect" id="node6" href="$classAMDGPUGenSubtargetInfo.html" title="AMDGPUGenSubtargetInfo" alt="" coords="301,5,495,32"/>
+<area shape="rect" id="node7" href="$structllvm_1_1RegClassWeight.html" title="llvm::RegClassWeight" alt="" coords="446,185,601,212"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="511,81,591,108"/>
+</map>

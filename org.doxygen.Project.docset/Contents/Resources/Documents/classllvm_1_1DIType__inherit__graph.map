@@ -1,0 +1,8 @@
+<map id="llvm::DIType" name="llvm::DIType">
+<area shape="rect" id="node4" href="$classllvm_1_1DIBasicType.html" title="A basic type, like &#39;int&#39; or &#39;float&#39;. " alt="" coords="5,229,136,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DIDerivedType.html" title="A simple derived type. " alt="" coords="160,229,307,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="A base class for various scopes. " alt="" coords="97,80,207,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info. " alt="" coords="85,5,219,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DICompositeType.html" title="Types that refer to multiple other types. " alt="" coords="150,304,317,331"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DISubroutineType.html" title="llvm::DISubroutineType" alt="" coords="150,379,317,405"/>
+</map>

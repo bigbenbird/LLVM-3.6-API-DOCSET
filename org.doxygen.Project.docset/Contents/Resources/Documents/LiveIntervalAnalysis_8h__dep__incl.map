@@ -1,0 +1,36 @@
+<map id="LiveIntervalAnalysis.h" name="LiveIntervalAnalysis.h">
+<area shape="rect" id="node2" href="$CalcSpillWeights_8cpp.html" title="CalcSpillWeights.cpp" alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="181,80,301,107"/>
+<area shape="rect" id="node4" href="$InterferenceCache_8cpp.html" title="InterferenceCache.cpp" alt="" coords="325,80,492,107"/>
+<area shape="rect" id="node5" href="$LiveDebugVariables_8cpp.html" title="LiveDebugVariables.cpp" alt="" coords="516,80,691,107"/>
+<area shape="rect" id="node6" href="$LiveInterval_8cpp.html" title="LiveInterval.cpp" alt="" coords="715,80,836,107"/>
+<area shape="rect" id="node7" href="$LiveIntervalAnalysis_8cpp.html" title="LiveIntervalAnalysis.cpp" alt="" coords="861,80,1034,107"/>
+<area shape="rect" id="node8" href="$LiveRangeEdit_8cpp.html" title="LiveRangeEdit.cpp" alt="" coords="1058,80,1197,107"/>
+<area shape="rect" id="node9" href="$LiveRegMatrix_8cpp.html" title="LiveRegMatrix.cpp" alt="" coords="1221,80,1357,107"/>
+<area shape="rect" id="node10" href="$LiveStackAnalysis_8cpp.html" title="LiveStackAnalysis.cpp" alt="" coords="1381,80,1543,107"/>
+<area shape="rect" id="node11" href="$MachineBasicBlock_8cpp.html" title="MachineBasicBlock.cpp" alt="" coords="1567,80,1738,107"/>
+<area shape="rect" id="node12" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="1762,80,1927,107"/>
+<area shape="rect" id="node13" href="$MachineVerifier_8cpp.html" title="MachineVerifier.cpp" alt="" coords="1952,80,2097,107"/>
+<area shape="rect" id="node14" href="$PHIElimination_8cpp.html" title="PHIElimination.cpp" alt="" coords="2121,80,2261,107"/>
+<area shape="rect" id="node15" href="$RegAllocBase_8cpp.html" title="RegAllocBase.cpp" alt="" coords="2285,80,2420,107"/>
+<area shape="rect" id="node16" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="2445,80,2581,107"/>
+<area shape="rect" id="node17" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="2605,80,2751,107"/>
+<area shape="rect" id="node18" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="2776,80,2911,107"/>
+<area shape="rect" id="node19" href="$RegisterCoalescer_8cpp.html" title="RegisterCoalescer.cpp" alt="" coords="2935,80,3098,107"/>
+<area shape="rect" id="node20" href="$RegisterPressure_8cpp.html" title="RegisterPressure.cpp" alt="" coords="3123,80,3279,107"/>
+<area shape="rect" id="node21" href="$ScheduleDAGInstrs_8cpp.html" title="ScheduleDAGInstrs.cpp" alt="" coords="3303,80,3475,107"/>
+<area shape="rect" id="node22" href="$SplitKit_8cpp.html" title="SplitKit.cpp" alt="" coords="3499,80,3593,107"/>
+<area shape="rect" id="node23" href="$StackSlotColoring_8cpp.html" title="StackSlotColoring.cpp" alt="" coords="3617,80,3779,107"/>
+<area shape="rect" id="node24" href="$TwoAddressInstructionPass_8cpp.html" title="TwoAddressInstructionPass.cpp" alt="" coords="3803,80,4022,107"/>
+<area shape="rect" id="node25" href="$VirtRegMap_8cpp.html" title="VirtRegMap.cpp" alt="" coords="4047,80,4168,107"/>
+<area shape="rect" id="node26" href="$AArch64ConditionOptimizer_8cpp.html" title="AArch64ConditionOptimizer.cpp" alt="" coords="4193,80,4417,107"/>
+<area shape="rect" id="node27" href="$AArch64PBQPRegAlloc_8cpp.html" title="AArch64PBQPRegAlloc.cpp" alt="" coords="4441,80,4632,107"/>
+<area shape="rect" id="node28" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="4656,80,4863,107"/>
+<area shape="rect" id="node31" href="$PPCInstrInfo_8cpp.html" title="PPCInstrInfo.cpp" alt="" coords="4887,80,5013,107"/>
+<area shape="rect" id="node32" href="$SIFixSGPRLiveRanges_8cpp.html" title="SIFixSGPRLiveRanges.cpp" alt="" coords="5037,80,5221,107"/>
+<area shape="rect" id="node33" href="$SIFoldOperands_8cpp.html" title="SIFoldOperands.cpp" alt="" coords="5245,80,5394,107"/>
+<area shape="rect" id="node34" href="$SILoadStoreOptimizer_8cpp.html" title="SILoadStoreOptimizer.cpp" alt="" coords="5419,80,5607,107"/>
+<area shape="rect" id="node35" href="$SILowerI1Copies_8cpp.html" title="SILowerI1Copies.cpp" alt="" coords="5631,80,5783,107"/>
+<area shape="rect" id="node29" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="4531,155,4753,181"/>
+<area shape="rect" id="node30" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="4777,155,4976,181"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="InstIterator.h" name="InstIterator.h">
+<area shape="rect" id="node2" href="$ConstantsScanner_8h.html" title="ConstantsScanner.h" alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$AliasAnalysisEvaluator_8cpp.html" title="AliasAnalysisEvaluator.cpp" alt="" coords="180,80,371,107"/>
+<area shape="rect" id="node4" href="$AliasSetTracker_8cpp.html" title="AliasSetTracker.cpp" alt="" coords="395,80,540,107"/>
+<area shape="rect" id="node5" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="565,80,709,107"/>
+<area shape="rect" id="node6" href="$DependenceAnalysis_8cpp.html" title="DependenceAnalysis.cpp" alt="" coords="733,80,916,107"/>
+<area shape="rect" id="node7" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="941,80,1082,107"/>
+<area shape="rect" id="node8" href="$MemDepPrinter_8cpp.html" title="MemDepPrinter.cpp" alt="" coords="1105,80,1253,107"/>
+<area shape="rect" id="node9" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="1278,80,1425,107"/>
+<area shape="rect" id="node10" href="$AtomicExpandPass_8cpp.html" title="AtomicExpandPass.cpp" alt="" coords="1449,80,1619,107"/>
+<area shape="rect" id="node11" href="$Function_8cpp.html" title="Function.cpp" alt="" coords="1644,80,1747,107"/>
+<area shape="rect" id="node12" href="$Verifier_8cpp.html" title="Verifier.cpp" alt="" coords="1771,80,1863,107"/>
+<area shape="rect" id="node13" href="$MipsConstantIslandPass_8cpp.html" title="MipsConstantIslandPass.cpp" alt="" coords="1887,80,2090,107"/>
+<area shape="rect" id="node14" href="$NVPTXLowerAggrCopies_8cpp.html" title="NVPTXLowerAggrCopies.cpp" alt="" coords="2115,80,2316,107"/>
+<area shape="rect" id="node15" href="$NVPTXUtilities_8cpp.html" title="NVPTXUtilities.cpp" alt="" coords="2341,80,2479,107"/>
+<area shape="rect" id="node16" href="$BoundsChecking_8cpp.html" title="BoundsChecking.cpp" alt="" coords="2503,80,2658,107"/>
+<area shape="rect" id="node17" href="$GCOVProfiling_8cpp.html" title="GCOVProfiling.cpp" alt="" coords="2683,80,2820,107"/>
+<area shape="rect" id="node18" href="$FunctionAttrs_8cpp.html" title="FunctionAttrs.cpp" alt="" coords="2845,80,2978,107"/>
+<area shape="rect" id="node19" href="$lib_2Transforms_2ObjCARC_2ObjCARC_8h.html" title="ObjCARC.h" alt="" coords="3003,80,3092,107"/>
+<area shape="rect" id="node27" href="$ObjCARCExpand_8cpp.html" title="ObjCARCExpand.cpp" alt="" coords="3688,155,3839,181"/>
+<area shape="rect" id="node30" href="$ProvenanceAnalysisEvaluator_8cpp.html" title="ProvenanceAnalysisEvaluator.cpp" alt="" coords="3167,80,3402,107"/>
+<area shape="rect" id="node31" href="$ADCE_8cpp.html" title="ADCE.cpp" alt="" coords="3426,80,3511,107"/>
+<area shape="rect" id="node32" href="$ConstantProp_8cpp.html" title="ConstantProp.cpp" alt="" coords="3535,80,3671,107"/>
+<area shape="rect" id="node33" href="$DCE_8cpp.html" title="DCE.cpp" alt="" coords="3696,80,3772,107"/>
+<area shape="rect" id="node34" href="$SampleProfile_8cpp.html" title="SampleProfile.cpp" alt="" coords="3796,80,3933,107"/>
+<area shape="rect" id="node20" href="$ARCRuntimeEntryPoints_8h.html" title="ARCRuntimeEntryPoints.h" alt="" coords="2363,155,2545,181"/>
+<area shape="rect" id="node21" href="$ObjCARCContract_8cpp.html" title="ObjCARCContract.cpp" alt="" coords="2289,229,2448,256"/>
+<area shape="rect" id="node22" href="$ObjCARCOpts_8cpp.html" title="ObjCARCOpts.cpp" alt="" coords="2493,229,2628,256"/>
+<area shape="rect" id="node23" href="$DependencyAnalysis_8cpp.html" title="DependencyAnalysis.cpp" alt="" coords="2621,155,2802,181"/>
+<area shape="rect" id="node24" href="$ObjCARC_8cpp.html" title="ObjCARC.cpp" alt="" coords="2826,155,2930,181"/>
+<area shape="rect" id="node25" href="$ObjCARCAliasAnalysis_8cpp.html" title="ObjCARCAliasAnalysis.cpp" alt="" coords="2954,155,3141,181"/>
+<area shape="rect" id="node26" href="$ObjCARCAPElim_8cpp.html" title="ObjCARCAPElim.cpp" alt="" coords="3165,155,3313,181"/>
+<area shape="rect" id="node28" href="$ObjCARCUtil_8cpp.html" title="ObjCARCUtil.cpp" alt="" coords="3338,155,3463,181"/>
+<area shape="rect" id="node29" href="$ProvenanceAnalysis_8cpp.html" title="ProvenanceAnalysis.cpp" alt="" coords="3487,155,3663,181"/>
+</map>

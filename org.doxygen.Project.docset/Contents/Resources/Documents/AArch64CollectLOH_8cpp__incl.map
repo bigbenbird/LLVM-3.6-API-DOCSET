@@ -1,0 +1,43 @@
+<map id="AArch64CollectLOH.cpp" name="AArch64CollectLOH.cpp">
+<area shape="rect" id="node2" href="$AArch64_8h.html" title="AArch64.h" alt="" coords="813,251,901,278"/>
+<area shape="rect" id="node9" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1463,430,1670,457"/>
+<area shape="rect" id="node11" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1745,430,1943,457"/>
+<area shape="rect" id="node13" href="$AArch64InstrInfo_8h.html" title="AArch64InstrInfo.h" alt="" coords="592,162,731,189"/>
+<area shape="rect" id="node16" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="1391,251,1588,278"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2423,341,2585,367"/>
+<area shape="rect" id="node24" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="452,423,655,464"/>
+<area shape="rect" id="node25" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="338,512,545,539"/>
+<area shape="rect" id="node26" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="1466,333,1651,375"/>
+<area shape="rect" id="node27" href="$AArch64MachineFunctionInfo_8h.html" title="AArch64MachineFunctionInfo.h" alt="" coords="2046,162,2263,189"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2976,341,3147,367"/>
+<area shape="rect" id="node32" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1731,341,1933,367"/>
+<area shape="rect" id="node33" href="$AArch64Subtarget_8h.html" title="AArch64Subtarget.h" alt="" coords="991,80,1143,107"/>
+<area shape="rect" id="node39" href="$AArch64AddressingModes_8h.html" title="MCTargetDesc/AArch64Addressing\lModes.h" alt="" coords="2725,155,2968,196"/>
+<area shape="rect" id="node42" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3222,341,3373,367"/>
+<area shape="rect" id="node43" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="2542,251,2703,278"/>
+<area shape="rect" id="node44" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="3607,341,3763,367"/>
+<area shape="rect" id="node45" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="2592,80,2739,107"/>
+<area shape="rect" id="node46" href="$MachineDominators_8h.html" title="llvm/CodeGen/MachineDominators.h" alt="" coords="211,80,466,107"/>
+<area shape="rect" id="node47" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="93,155,315,196"/>
+<area shape="rect" id="node48" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="593,244,789,285"/>
+<area shape="rect" id="node49" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3098,251,3310,278"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="1854,80,2015,107"/>
+<area shape="rect" id="node3" href="$AArch64MCTargetDesc_8h.html" title="MCTargetDesc/AArch64MCTarget\lDesc.h" alt="" coords="777,423,1007,464"/>
+<area shape="rect" id="node8" href="$AArch64BaseInfo_8h.html" title="Utils/AArch64BaseInfo.h" alt="" coords="805,341,979,367"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2450,512,2625,539"/>
+<area shape="rect" id="node14" href="$AArch64RegisterInfo_8h.html" title="AArch64RegisterInfo.h" alt="" coords="976,251,1139,278"/>
+<area shape="rect" id="node15" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="1157,333,1387,375"/>
+<area shape="rect" id="node23" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="495,341,729,367"/>
+<area shape="rect" id="node18" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1266,587,1451,613"/>
+<area shape="rect" id="node19" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2516,430,2679,457"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2703,430,2894,457"/>
+<area shape="rect" id="node28" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2068,430,2239,457"/>
+<area shape="rect" id="node31" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="1971,244,2186,285"/>
+<area shape="rect" id="node34" href="$AArch64FrameLowering_8h.html" title="AArch64FrameLowering.h" alt="" coords="1301,162,1485,189"/>
+<area shape="rect" id="node35" href="$AArch64ISelLowering_8h.html" title="AArch64ISelLowering.h" alt="" coords="1510,162,1677,189"/>
+<area shape="rect" id="node36" href="$AArch64SelectionDAGInfo_8h.html" title="AArch64SelectionDAGInfo.h" alt="" coords="855,162,1054,189"/>
+<area shape="rect" id="node37" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2313,251,2466,278"/>
+<area shape="rect" id="node38" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="1078,155,1277,196"/>
+<area shape="rect" id="node40" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="2830,251,2973,278"/>
+<area shape="rect" id="node41" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="2825,341,2951,367"/>
+</map>

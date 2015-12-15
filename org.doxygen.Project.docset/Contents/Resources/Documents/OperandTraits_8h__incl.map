@@ -1,0 +1,17 @@
+<map id="OperandTraits.h" name="OperandTraits.h">
+<area shape="rect" id="node2" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="384,80,492,107"/>
+<area shape="rect" id="node3" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="283,229,423,256"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="5,229,191,256"/>
+<area shape="rect" id="node8" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="442,155,557,181"/>
+<area shape="rect" id="node23" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1016,304,1223,331"/>
+<area shape="rect" id="node9" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="846,304,953,331"/>
+<area shape="rect" id="node12" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="447,229,551,256"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="448,461,623,487"/>
+<area shape="rect" id="node19" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="537,304,771,331"/>
+<area shape="rect" id="node20" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="487,379,653,405"/>
+<area shape="rect" id="node10" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="931,379,1057,405"/>
+<area shape="rect" id="node13" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="729,379,907,405"/>
+<area shape="rect" id="node16" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="647,453,824,495"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="237,461,423,487"/>
+<area shape="rect" id="node24" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1081,379,1232,405"/>
+</map>

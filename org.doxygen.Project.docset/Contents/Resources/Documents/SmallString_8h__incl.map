@@ -1,0 +1,10 @@
+<map id="SmallString.h" name="SmallString.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="760,80,930,107"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1215,155,1366,181"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="195,155,380,181"/>
+<area shape="rect" id="node5" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="25,229,188,256"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="294,304,468,331"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="616,155,807,181"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="405,155,592,181"/>
+<area shape="rect" id="node10" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="603,229,820,256"/>
+</map>

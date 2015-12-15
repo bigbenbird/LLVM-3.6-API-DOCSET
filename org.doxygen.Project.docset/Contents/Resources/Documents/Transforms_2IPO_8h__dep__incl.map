@@ -1,0 +1,27 @@
+<map id="IPO.h" name="IPO.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="LinkAllPasses.h" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="149,80,317,107"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="341,80,540,107"/>
+<area shape="rect" id="node5" href="$ArgumentPromotion_8cpp.html" title="ArgumentPromotion.cpp" alt="" coords="565,80,743,107"/>
+<area shape="rect" id="node6" href="$BarrierNoopPass_8cpp.html" title="BarrierNoopPass.cpp" alt="" coords="767,80,922,107"/>
+<area shape="rect" id="node7" href="$ConstantMerge_8cpp.html" title="ConstantMerge.cpp" alt="" coords="946,80,1093,107"/>
+<area shape="rect" id="node8" href="$DeadArgumentElimination_8cpp.html" title="DeadArgumentElimination.cpp" alt="" coords="1117,80,1335,107"/>
+<area shape="rect" id="node9" href="$ExtractGV_8cpp.html" title="ExtractGV.cpp" alt="" coords="1359,80,1469,107"/>
+<area shape="rect" id="node10" href="$FunctionAttrs_8cpp.html" title="FunctionAttrs.cpp" alt="" coords="1494,80,1627,107"/>
+<area shape="rect" id="node11" href="$GlobalDCE_8cpp.html" title="GlobalDCE.cpp" alt="" coords="1652,80,1768,107"/>
+<area shape="rect" id="node12" href="$GlobalOpt_8cpp.html" title="GlobalOpt.cpp" alt="" coords="1793,80,1905,107"/>
+<area shape="rect" id="node13" href="$InlineAlways_8cpp.html" title="InlineAlways.cpp" alt="" coords="1929,80,2054,107"/>
+<area shape="rect" id="node14" href="$InlineSimple_8cpp.html" title="InlineSimple.cpp" alt="" coords="2079,80,2205,107"/>
+<area shape="rect" id="node15" href="$Internalize_8cpp.html" title="Internalize.cpp" alt="" coords="2230,80,2345,107"/>
+<area shape="rect" id="node16" href="$IPConstantPropagation_8cpp.html" title="IPConstantPropagation.cpp" alt="" coords="2369,80,2563,107"/>
+<area shape="rect" id="node17" href="$IPO_8cpp.html" title="IPO.cpp" alt="" coords="2587,80,2657,107"/>
+<area shape="rect" id="node18" href="$LoopExtractor_8cpp.html" title="LoopExtractor.cpp" alt="" coords="2681,80,2819,107"/>
+<area shape="rect" id="node19" href="$MergeFunctions_8cpp.html" title="MergeFunctions.cpp" alt="" coords="2843,80,2993,107"/>
+<area shape="rect" id="node20" href="$PartialInlining_8cpp.html" title="PartialInlining.cpp" alt="" coords="3017,80,3149,107"/>
+<area shape="rect" id="node21" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="3173,80,3351,107"/>
+<area shape="rect" id="node22" href="$PruneEH_8cpp.html" title="PruneEH.cpp" alt="" coords="3375,80,3479,107"/>
+<area shape="rect" id="node23" href="$StripDeadPrototypes_8cpp.html" title="StripDeadPrototypes.cpp" alt="" coords="3504,80,3687,107"/>
+<area shape="rect" id="node24" href="$StripSymbols_8cpp.html" title="StripSymbols.cpp" alt="" coords="3711,80,3845,107"/>
+<area shape="rect" id="node25" href="$SCCP_8cpp.html" title="SCCP.cpp" alt="" coords="3870,80,3953,107"/>
+<area shape="rect" id="node26" href="$MetaRenamer_8cpp.html" title="MetaRenamer.cpp" alt="" coords="3977,80,4115,107"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="DIE.h" name="DIE.h">
+<area shape="rect" id="node2" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="1596,80,1757,107"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="670,229,841,256"/>
+<area shape="rect" id="node27" href="$Dwarf_8h.html" title="llvm/Support/Dwarf.h" alt="" coords="1789,379,1943,405"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1387,304,1537,331"/>
+<area shape="rect" id="node24" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="591,155,765,181"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1177,304,1363,331"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="27,304,190,331"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="473,453,648,480"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="505,304,696,331"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="966,304,1153,331"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="599,379,816,405"/>
+<area shape="rect" id="node25" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="1664,304,1833,331"/>
+</map>

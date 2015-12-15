@@ -1,0 +1,51 @@
+<map id="None.h" name="None.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="ArrayRef.h" alt="" coords="2683,80,2769,107"/>
+<area shape="rect" id="node7" href="$CFLAliasAnalysis_8cpp.html" title="CFLAliasAnalysis.cpp" alt="" coords="4910,304,5065,331"/>
+<area shape="rect" id="node49" href="$Optional_8h.html" title="Optional.h" alt="" coords="4891,80,4977,107"/>
+<area shape="rect" id="node50" href="$SmallSet_8h.html" title="SmallSet.h" alt="" coords="1307,80,1399,107"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4506,155,4573,181"/>
+<area shape="rect" id="node4" href="$Constants_8h.html" title="Constants.h" alt="" coords="4490,229,4589,256"/>
+<area shape="rect" id="node5" href="$TargetFolder_8h.html" title="TargetFolder.h" alt="" coords="4581,304,4692,331"/>
+<area shape="rect" id="node6" href="$NoFolder_8h.html" title="NoFolder.h" alt="" coords="3925,304,4015,331"/>
+<area shape="rect" id="node8" href="$edit__distance_8h.html" title="edit_distance.h" alt="" coords="4008,155,4127,181"/>
+<area shape="rect" id="node9" href="$TinyPtrVector_8h.html" title="TinyPtrVector.h" alt="" coords="4202,155,4319,181"/>
+<area shape="rect" id="node10" href="$VariadicFunction_8h.html" title="VariadicFunction.h" alt="" coords="4344,155,4481,181"/>
+<area shape="rect" id="node11" href="$AssumptionCache_8h.html" title="AssumptionCache.h" alt="" coords="5,304,156,331"/>
+<area shape="rect" id="node12" href="$ValueTracking_8h.html" title="ValueTracking.h" alt="" coords="4597,155,4717,181"/>
+<area shape="rect" id="node13" href="$CodeGen_2Analysis_8h.html" title="Analysis.h" alt="" coords="3748,304,3835,331"/>
+<area shape="rect" id="node14" href="$EdgeBundles_8h.html" title="EdgeBundles.h" alt="" coords="118,155,235,181"/>
+<area shape="rect" id="node15" href="$LexicalScopes_8h.html" title="LexicalScopes.h" alt="" coords="905,229,1029,256"/>
+<area shape="rect" id="node16" href="$LiveRangeEdit_8h.html" title="LiveRangeEdit.h" alt="" coords="259,155,382,181"/>
+<area shape="rect" id="node17" href="$MachineInstr_8h.html" title="MachineInstr.h" alt="" coords="406,155,521,181"/>
+<area shape="rect" id="node18" href="$MachineTraceMetrics_8h.html" title="MachineTraceMetrics.h" alt="" coords="545,155,712,181"/>
+<area shape="rect" id="node19" href="$RegisterClassInfo_8h.html" title="RegisterClassInfo.h" alt="" coords="736,155,879,181"/>
+<area shape="rect" id="node20" href="$DWARFFormValue_8h.html" title="DWARFFormValue.h" alt="" coords="4791,155,4938,181"/>
+<area shape="rect" id="node21" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3784,155,3881,181"/>
+<area shape="rect" id="node22" href="$Instructions_8h.html" title="Instructions.h" alt="" coords="3784,229,3892,256"/>
+<area shape="rect" id="node23" href="$IRBuilder_8h.html" title="IRBuilder.h" alt="" coords="3385,304,3473,331"/>
+<area shape="rect" id="node24" href="$DiagnosticInfo_8h.html" title="DiagnosticInfo.h" alt="" coords="1124,155,1248,181"/>
+<area shape="rect" id="node25" href="$Linker_2Linker_8h.html" title="Linker.h" alt="" coords="1151,229,1221,256"/>
+<area shape="rect" id="node26" href="$LTOCodeGenerator_8h.html" title="LTOCodeGenerator.h" alt="" coords="1059,304,1212,331"/>
+<area shape="rect" id="node27" href="$DIBuilder_8h.html" title="DIBuilder.h" alt="" coords="1323,155,1414,181"/>
+<area shape="rect" id="node28" href="$Instruction_8h.html" title="Instruction.h" alt="" coords="1438,155,1539,181"/>
+<area shape="rect" id="node29" href="$Intrinsics_8h.html" title="Intrinsics.h" alt="" coords="1563,155,1654,181"/>
+<area shape="rect" id="node30" href="$LegacyPassManagers_8h.html" title="LegacyPassManagers.h" alt="" coords="1678,155,1849,181"/>
+<area shape="rect" id="node31" href="$Metadata_8h.html" title="Metadata.h" alt="" coords="903,155,997,181"/>
+<area shape="rect" id="node32" href="$UseListOrder_8h.html" title="UseListOrder.h" alt="" coords="1924,155,2040,181"/>
+<area shape="rect" id="node33" href="$MCAsmBackend_8h.html" title="MCAsmBackend.h" alt="" coords="1853,229,1991,256"/>
+<area shape="rect" id="node34" href="$MCDisassembler_8h.html" title="MCDisassembler.h" alt="" coords="2177,155,2317,181"/>
+<area shape="rect" id="node35" href="$MCDwarf_8h.html" title="MCDwarf.h" alt="" coords="2064,155,2153,181"/>
+<area shape="rect" id="node36" href="$MCStreamer_8h.html" title="MCStreamer.h" alt="" coords="2111,229,2226,256"/>
+<area shape="rect" id="node37" href="$MCAsmParser_8h.html" title="MCAsmParser.h" alt="" coords="2443,155,2566,181"/>
+<area shape="rect" id="node38" href="$SubtargetFeature_8h.html" title="SubtargetFeature.h" alt="" coords="2590,155,2737,181"/>
+<area shape="rect" id="node39" href="$Object_2ELF_8h.html" title="ELF.h" alt="" coords="2761,155,2816,181"/>
+<area shape="rect" id="node40" href="$Object_2MachO_8h.html" title="MachO.h" alt="" coords="2841,155,2918,181"/>
+<area shape="rect" id="node41" href="$CoverageMapping_8h.html" title="CoverageMapping.h" alt="" coords="2942,155,3091,181"/>
+<area shape="rect" id="node42" href="$CoverageMappingReader_8h.html" title="CoverageMappingReader.h" alt="" coords="2509,229,2701,256"/>
+<area shape="rect" id="node43" href="$CoverageMappingWriter_8h.html" title="CoverageMappingWriter.h" alt="" coords="2941,229,3125,256"/>
+<area shape="rect" id="node44" href="$InstrProfReader_8h.html" title="InstrProfReader.h" alt="" coords="3217,155,3347,181"/>
+<area shape="rect" id="node45" href="$InstrProfWriter_8h.html" title="InstrProfWriter.h" alt="" coords="3371,155,3494,181"/>
+<area shape="rect" id="node46" href="$ARMWinEH_8h.html" title="ARMWinEH.h" alt="" coords="3519,155,3621,181"/>
+<area shape="rect" id="node47" href="$MD5_8h.html" title="MD5.h" alt="" coords="3645,155,3708,181"/>
+<area shape="rect" id="node48" href="$Process_8h.html" title="Process.h" alt="" coords="4963,155,5047,181"/>
+</map>

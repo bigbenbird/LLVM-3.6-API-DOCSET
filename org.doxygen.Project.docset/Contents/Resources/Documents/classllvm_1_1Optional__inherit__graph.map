@@ -1,0 +1,11 @@
+<map id="llvm::Optional&lt; T &gt;" name="llvm::Optional&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliaryFunctionDefinition \&gt;" alt="" coords="413,30,624,71"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::COFFYAML::PEHeader \&gt;" alt="" coords="427,95,610,137"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliarybfAndefSymbol \&gt;" alt="" coords="421,161,616,202"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::DataDirectory \&gt;" alt="" coords="440,226,597,267"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliaryWeakExternal \&gt;" alt="" coords="427,291,610,333"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::pair\&lt; std::string,\l int \&gt; \&gt;" alt="" coords="447,356,591,412"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliaryCLRToken \&gt;" alt="" coords="440,435,597,477"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::error_code \&gt;" alt="" coords="447,501,591,542"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliarySectionDefinition \&gt;" alt="" coords="415,566,622,607"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::coverage::CountedRegion" name="llvm::coverage::CountedRegion">
+<area shape="rect" id="node2" href="$structllvm_1_1coverage_1_1CounterMappingRegion.html" title="A Counter mapping region associates a source range with a specific counter. " alt="" coords="94,319,322,360"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="121,184,170,211"/>
+<area shape="rect" id="node5" href="$structllvm_1_1coverage_1_1Counter.html" title="A Counter is an abstract value that describes how to compute the execution count for a region of code..." alt="" coords="413,184,587,211"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="299,5,379,32"/>
+</map>

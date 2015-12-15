@@ -1,0 +1,7 @@
+<map id="MCSectionCOFF.h" name="MCSectionCOFF.h">
+<area shape="rect" id="node2" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="371,155,521,181"/>
+<area shape="rect" id="node9" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="516,80,672,107"/>
+<area shape="rect" id="node13" href="$Support_2COFF_8h.html" title="llvm/Support/COFF.h" alt="" coords="183,155,333,181"/>
+<area shape="rect" id="node10" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="546,155,709,181"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="744,155,919,181"/>
+</map>

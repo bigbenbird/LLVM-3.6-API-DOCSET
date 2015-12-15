@@ -1,0 +1,10 @@
+<map id="llvm::COFFYAML::Symbol" name="llvm::COFFYAML::Symbol">
+<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliarybfAndefSymbol \&gt;" alt="" coords="421,10,616,51"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,148,152,175"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliaryCLRToken \&gt;" alt="" coords="440,75,597,117"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliarySectionDefinition \&gt;" alt="" coords="415,141,622,182"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliaryWeakExternal \&gt;" alt="" coords="427,206,610,247"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; COFF\l::AuxiliaryFunctionDefinition \&gt;" alt="" coords="413,271,624,313"/>
+<area shape="rect" id="node9" href="$classllvm_1_1StringRef.html" title="llvm::StringRef" alt="" coords="462,440,575,467"/>
+<area shape="rect" id="node12" href="$structllvm_1_1COFF_1_1symbol.html" title="llvm::COFF::symbol" alt="" coords="447,541,590,568"/>
+</map>

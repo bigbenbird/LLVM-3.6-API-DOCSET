@@ -1,0 +1,4 @@
+<map id="llvm::coverage::RawCoverageFilenamesReader" name="llvm::coverage::RawCoverageFilenamesReader">
+<area shape="rect" id="node2" href="$classllvm_1_1coverage_1_1RawCoverageReader.html" title="Base class for the raw coverage mapping and filenames data readers. " alt="" coords="5,184,215,225"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="llvm::StringRef" alt="" coords="53,95,167,121"/>
+</map>

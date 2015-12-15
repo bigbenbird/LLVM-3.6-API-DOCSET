@@ -1,0 +1,9 @@
+<map id="llvm::iterator_adaptor_base&lt; DerivedT, WrappedIteratorT, IteratorCategoryT, T, DifferenceTypeT, PointerT, ReferenceT, WrappedTraitsT &gt;" name="llvm::iterator_adaptor_base&lt; DerivedT, WrappedIteratorT, IteratorCategoryT, T, DifferenceTypeT, PointerT, ReferenceT, WrappedTraitsT &gt;">
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; value_op_iterator,\l op_iterator, std::random\l_access_iterator_tag, Value\l *, ptrdiff_t, Value *, Value * \&gt;" alt="" coords="1141,5,1354,91"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; iterator, NodeVectorImpl\lT::iterator, std::forward_iterator\l_tag, Node \&gt;" alt="" coords="1131,115,1363,186"/>
+<area shape="rect" id="node8" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; pointee_iterator\l\&lt; WrappedIteratorT \&gt;, WrappedIterator\lT, std::iterator_traits\&lt; WrappedIterator\lT \&gt;::iterator_category, T \&gt;" alt="" coords="1112,211,1383,296"/>
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="272,114,516,185"/>
+<area shape="rect" id="node5" href="$structllvm_1_1User_1_1value__op__iterator.html" title="Iterator for directly iterating over the operand Values. " alt="" coords="1445,27,1595,69"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LazyCallGraph_1_1iterator.html" title="A lazy iterator used for both the entry nodes and child nodes. " alt="" coords="1447,130,1593,171"/>
+<area shape="rect" id="node9" href="$structllvm_1_1pointee__iterator.html" title="An iterator type that allows iterating over the pointees via some other iterator. ..." alt="" coords="1432,233,1608,274"/>
+</map>

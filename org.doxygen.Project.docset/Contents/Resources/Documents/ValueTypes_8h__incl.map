@@ -1,0 +1,9 @@
+<map id="ValueTypes.h" name="ValueTypes.h">
+<area shape="rect" id="node2" href="$MachineValueType_8h.html" title="llvm/CodeGen/MachineValue\lType.h" alt="" coords="565,80,767,121"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="463,169,648,196"/>
+<area shape="rect" id="node5" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="672,169,879,196"/>
+<area shape="rect" id="node14" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="248,169,439,196"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="677,244,828,271"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="7,319,181,345"/>
+<area shape="rect" id="node15" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="315,244,532,271"/>
+</map>

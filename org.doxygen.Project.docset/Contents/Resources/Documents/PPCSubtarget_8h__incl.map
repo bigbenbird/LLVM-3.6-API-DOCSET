@@ -1,0 +1,37 @@
+<map id="PPCSubtarget.h" name="PPCSubtarget.h">
+<area shape="rect" id="node2" href="$PPCFrameLowering_8h.html" title="PPCFrameLowering.h" alt="" coords="760,177,915,203"/>
+<area shape="rect" id="node28" href="$PPCISelLowering_8h.html" title="PPCISelLowering.h" alt="" coords="1066,87,1204,114"/>
+<area shape="rect" id="node29" href="$PPCInstrInfo_8h.html" title="PPCInstrInfo.h" alt="" coords="625,177,736,203"/>
+<area shape="rect" id="node39" href="$PPCSelectionDAGInfo_8h.html" title="PPCSelectionDAGInfo.h" alt="" coords="3198,87,3368,114"/>
+<area shape="rect" id="node41" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2725,87,2852,114"/>
+<area shape="rect" id="node43" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2460,266,2613,293"/>
+<area shape="rect" id="node46" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="2637,266,2836,293"/>
+<area shape="rect" id="node48" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="2088,80,2286,121"/>
+<area shape="rect" id="node3" href="$PPC_8h.html" title="PPC.h" alt="" coords="923,348,982,375"/>
+<area shape="rect" id="node10" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="555,348,712,375"/>
+<area shape="rect" id="node18" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="40,266,283,293"/>
+<area shape="rect" id="node21" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1694,266,1893,293"/>
+<area shape="rect" id="node4" href="$PPCMCTargetDesc_8h.html" title="MCTargetDesc/PPCMCTarget\lDesc.h" alt="" coords="961,423,1162,464"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1286,430,1461,457"/>
+<area shape="rect" id="node19" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="270,423,472,464"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1862,348,2013,375"/>
+<area shape="rect" id="node25" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1694,348,1787,375"/>
+<area shape="rect" id="node26" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1491,348,1670,375"/>
+<area shape="rect" id="node27" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="2139,348,2334,375"/>
+<area shape="rect" id="node30" href="$PPCRegisterInfo_8h.html" title="PPCRegisterInfo.h" alt="" coords="680,266,814,293"/>
+<area shape="rect" id="node34" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="1040,169,1230,211"/>
+<area shape="rect" id="node37" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="1664,177,1878,203"/>
+<area shape="rect" id="node38" href="$TargetLowering_8h.html" title="llvm/Target/TargetLowering.h" alt="" coords="1254,177,1456,203"/>
+<area shape="rect" id="node32" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="358,266,555,293"/>
+<area shape="rect" id="node31" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="736,348,899,375"/>
+<area shape="rect" id="node33" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="246,348,480,375"/>
+<area shape="rect" id="node35" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1144,348,1315,375"/>
+<area shape="rect" id="node36" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="1462,259,1670,300"/>
+<area shape="rect" id="node40" href="$TargetSelectionDAGInfo_8h.html" title="llvm/Target/TargetSelection\lDAGInfo.h" alt="" coords="3193,169,3386,211"/>
+<area shape="rect" id="node42" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2860,266,2986,293"/>
+<area shape="rect" id="node44" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2459,348,2622,375"/>
+<area shape="rect" id="node45" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="2578,430,2684,457"/>
+<area shape="rect" id="node47" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="2697,348,2864,375"/>
+<area shape="rect" id="node49" href="$PBQPRAConstraint_8h.html" title="llvm/CodeGen/PBQPRAConstraint.h" alt="" coords="1092,266,1336,293"/>
+<area shape="rect" id="node50" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2324,177,2519,203"/>
+</map>

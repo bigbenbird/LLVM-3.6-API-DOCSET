@@ -1,0 +1,7 @@
+<map id="llvm::coverage::CoverageMappingRecord" name="llvm::coverage::CoverageMappingRecord">
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::StringRef \&gt;" alt="" coords="426,57,577,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="5,129,152,156"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::coverage::CounterExpression \&gt;" alt="" coords="385,122,617,163"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::coverage::CounterMappingRegion \&gt;" alt="" coords="372,187,631,229"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="llvm::StringRef" alt="" coords="445,253,558,280"/>
+</map>

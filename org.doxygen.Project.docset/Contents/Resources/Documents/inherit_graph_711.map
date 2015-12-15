@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; ValueIsLoadPair,\l NonLocalPointerInfo, DenseMapInfo\l\&lt; ValueIsLoadPair \&gt;, detail::DenseMapPair\l\&lt; ValueIsLoadPair, NonLocalPointerInfo\l \&gt; \&gt;, ValueIsLoadPair, NonLocalPointerInfo,\l DenseMapInfo\&lt; ValueIsLoadPair \&gt;, detail::\lDenseMapPair\&lt; ValueIsLoadPair, NonLocalPointerInfo \&gt; \&gt;" alt="" coords="5,5,397,135"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueIsLoad\lPair, NonLocalPointerInfo \&gt;" alt="" coords="445,49,660,91"/>
+</map>

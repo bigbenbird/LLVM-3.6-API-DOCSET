@@ -1,0 +1,4 @@
+<map id="llvm::ImmutableStatepoint" name="llvm::ImmutableStatepoint">
+<area shape="rect" id="node2" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; const Instruction,\l const Value, ImmutableCallSite \&gt;" alt="" coords="5,153,245,209"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; InstructionTy, ValueTy,\l CallSiteTy \&gt;" alt="" coords="38,5,213,61"/>
+</map>

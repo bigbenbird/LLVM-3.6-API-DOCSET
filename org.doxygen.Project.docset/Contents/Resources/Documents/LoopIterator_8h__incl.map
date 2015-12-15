@@ -1,0 +1,34 @@
+<map id="LoopIterator.h" name="LoopIterator.h">
+<area shape="rect" id="node2" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="1031,155,1235,181"/>
+<area shape="rect" id="node16" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1522,80,1697,107"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="862,229,1029,256"/>
+<area shape="rect" id="node4" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1045,603,1216,629"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1346,767,1521,793"/>
+<area shape="rect" id="node8" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="937,677,1114,719"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1996,528,2159,555"/>
+<area shape="rect" id="node27" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="1856,155,2013,181"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1571,528,1741,555"/>
+<area shape="rect" id="node32" href="$IR_2CFG_8h.html" title="llvm/IR/CFG.h" alt="" coords="771,155,877,181"/>
+<area shape="rect" id="node41" href="$Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="192,379,339,405"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1436,379,1529,405"/>
+<area shape="rect" id="node18" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2050,603,2235,629"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2100,685,2287,711"/>
+<area shape="rect" id="node21" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2361,685,2524,711"/>
+<area shape="rect" id="node22" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1733,603,1923,629"/>
+<area shape="rect" id="node23" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1706,685,1923,711"/>
+<area shape="rect" id="node29" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="398,603,583,629"/>
+<area shape="rect" id="node33" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="655,229,787,256"/>
+<area shape="rect" id="node47" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="102,304,245,331"/>
+<area shape="rect" id="node34" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="441,304,583,331"/>
+<area shape="rect" id="node38" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="785,379,927,405"/>
+<area shape="rect" id="node40" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="269,304,416,331"/>
+<area shape="rect" id="node45" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="709,304,861,331"/>
+<area shape="rect" id="node46" href="$GlobalObject_8h.html" title="llvm/IR/GlobalObject.h" alt="" coords="885,304,1045,331"/>
+<area shape="rect" id="node35" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="453,379,579,405"/>
+<area shape="rect" id="node37" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="328,453,483,480"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="944,453,1091,480"/>
+<area shape="rect" id="node42" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="187,528,330,555"/>
+<area shape="rect" id="node43" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="421,528,529,555"/>
+<area shape="rect" id="node49" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1216,453,1360,480"/>
+<area shape="rect" id="node50" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="1385,453,1581,480"/>
+</map>

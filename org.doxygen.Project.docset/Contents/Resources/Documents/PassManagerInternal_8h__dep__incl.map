@@ -1,0 +1,12 @@
+<map id="PassManagerInternal.h" name="PassManagerInternal.h">
+<area shape="rect" id="node2" href="$IR_2PassManager_8h.html" title="PassManager.h" alt="" coords="433,80,551,107"/>
+<area shape="rect" id="node3" href="$CGSCCPassManager_8h.html" title="CGSCCPassManager.h" alt="" coords="13,229,177,256"/>
+<area shape="rect" id="node5" href="$LazyCallGraph_8h.html" title="LazyCallGraph.h" alt="" coords="127,155,252,181"/>
+<area shape="rect" id="node6" href="$LazyCallGraph_8cpp.html" title="LazyCallGraph.cpp" alt="" coords="213,229,353,256"/>
+<area shape="rect" id="node7" href="$BitcodeWriterPass_8cpp.html" title="BitcodeWriterPass.cpp" alt="" coords="327,155,489,181"/>
+<area shape="rect" id="node8" href="$Dominators_8cpp.html" title="Dominators.cpp" alt="" coords="514,155,638,181"/>
+<area shape="rect" id="node9" href="$IRPrintingPasses_8cpp.html" title="IRPrintingPasses.cpp" alt="" coords="663,155,815,181"/>
+<area shape="rect" id="node10" href="$PassManager_8cpp.html" title="PassManager.cpp" alt="" coords="839,155,972,181"/>
+<area shape="rect" id="node11" href="$Verifier_8cpp.html" title="Verifier.cpp" alt="" coords="997,155,1089,181"/>
+<area shape="rect" id="node4" href="$CGSCCPassManager_8cpp.html" title="CGSCCPassManager.cpp" alt="" coords="5,304,184,331"/>
+</map>

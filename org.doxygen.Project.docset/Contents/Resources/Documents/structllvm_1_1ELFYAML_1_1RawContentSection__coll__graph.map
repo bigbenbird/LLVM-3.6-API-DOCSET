@@ -1,0 +1,5 @@
+<map id="llvm::ELFYAML::RawContentSection" name="llvm::ELFYAML::RawContentSection">
+<area shape="rect" id="node2" href="$structllvm_1_1ELFYAML_1_1Section.html" title="llvm::ELFYAML::Section" alt="" coords="206,199,373,225"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="llvm::StringRef" alt="" coords="330,95,443,121"/>
+<area shape="rect" id="node9" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob. " alt="" coords="553,199,708,225"/>
+</map>

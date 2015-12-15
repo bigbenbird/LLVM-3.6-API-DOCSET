@@ -1,0 +1,8 @@
+<map id="llvm::PointerUnion&lt; PT1, PT2 &gt;" name="llvm::PointerUnion&lt; PT1, PT2 &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; InnerUnion1, InnerUnion2 \&gt;" alt="" coords="389,5,604,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::MCSymbol *,\l std::vector\&lt; llvm::MCSymbol\l * \&gt; * \&gt;" alt="" coords="391,71,602,141"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; InnerUnion, PT3 \&gt;" alt="" coords="421,165,573,207"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; EltTy, llvm::SmallVector * \&gt;" alt="" coords="391,231,602,272"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const llvm::Value\l *, const llvm::PseudoSource\lValue * \&gt;" alt="" coords="393,296,600,367"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const Value *, const\l PseudoSourceValue * \&gt;" alt="" coords="407,391,586,447"/>
+</map>

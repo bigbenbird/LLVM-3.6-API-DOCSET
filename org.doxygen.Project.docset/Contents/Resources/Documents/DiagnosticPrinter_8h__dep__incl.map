@@ -1,0 +1,12 @@
+<map id="DiagnosticPrinter.h" name="DiagnosticPrinter.h">
+<area shape="rect" id="node2" href="$BitcodeReader_8cpp.html" title="BitcodeReader.cpp" alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node3" href="$BitReader_8cpp.html" title="BitReader.cpp" alt="" coords="170,80,279,107"/>
+<area shape="rect" id="node4" href="$Core_8cpp.html" title="Core.cpp" alt="" coords="304,80,383,107"/>
+<area shape="rect" id="node5" href="$DiagnosticInfo_8cpp.html" title="DiagnosticInfo.cpp" alt="" coords="407,80,546,107"/>
+<area shape="rect" id="node6" href="$DiagnosticPrinter_8cpp.html" title="DiagnosticPrinter.cpp" alt="" coords="570,80,727,107"/>
+<area shape="rect" id="node7" href="$LLVMContext_8cpp.html" title="LLVMContext.cpp" alt="" coords="752,80,884,107"/>
+<area shape="rect" id="node8" href="$LinkModules_8cpp.html" title="LinkModules.cpp" alt="" coords="908,80,1035,107"/>
+<area shape="rect" id="node9" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="1059,80,1227,107"/>
+<area shape="rect" id="node10" href="$LTOModule_8cpp.html" title="LTOModule.cpp" alt="" coords="1251,80,1369,107"/>
+<area shape="rect" id="node11" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="1393,80,1579,107"/>
+</map>

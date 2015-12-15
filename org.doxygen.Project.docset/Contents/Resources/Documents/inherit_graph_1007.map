@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly. " alt="" coords="209,5,387,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data_3_01std_1_1pair_3_01T_00_01U_01_4_01_4.html" title="llvm::hashing::detail\l::is_hashable_data\&lt; std\l::pair\&lt; T, U \&gt; \&gt;" alt="" coords="210,70,386,126"/>
+<area shape="rect" id="node4" href="$structllvm_1_1yaml_1_1has__SequenceTraits.html" title="llvm::yaml::has_Sequence\lTraits\&lt; T \&gt;" alt="" coords="203,149,393,191"/>
+<area shape="rect" id="node5" href="$structllvm_1_1yaml_1_1missingTraits.html" title="llvm::yaml::missingTraits\&lt; T \&gt;" alt="" coords="191,215,405,242"/>
+<area shape="rect" id="node6" href="$structllvm_1_1yaml_1_1unvalidatedMappingTraits.html" title="llvm::yaml::unvalidatedMapping\lTraits\&lt; T \&gt;" alt="" coords="187,267,409,308"/>
+<area shape="rect" id="node7" href="$structllvm_1_1yaml_1_1validatedMappingTraits.html" title="llvm::yaml::validatedMapping\lTraits\&lt; T \&gt;" alt="" coords="195,332,401,373"/>
+</map>

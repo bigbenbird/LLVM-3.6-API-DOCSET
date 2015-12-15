@@ -1,0 +1,12 @@
+<map id="llvm::MapVector&lt; KeyT, ValueT, MapType, VectorType &gt;" name="llvm::MapVector&lt; KeyT, ValueT, MapType, VectorType &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l GCOVFunction *, GCOVCoverage \&gt;" alt="" coords="508,33,759,74"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; KeyT,\l ValueT, SmallDenseMap\l\&lt; KeyT, unsigned, N \&gt;,\l SmallVector\&lt; std::pair\l\&lt; KeyT, ValueT \&gt;, N \&gt; \&gt;" alt="" coords="543,99,723,184"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l MCSection *, MCLineEntryCollection \&gt;" alt="" coords="499,209,768,250"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l MDNode *, InstrRanges \&gt;" alt="" coords="538,274,729,315"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l llvm::MCSection *, std\l::pair\&lt; llvm::MCSymbol *,\l llvm::MCSymbol * \&gt; \&gt;" alt="" coords="540,339,727,410"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; uint64\l_t, uint64_t \&gt;" alt="" coords="544,434,723,475"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l llvm::MDNode *, llvm\l::DwarfCompileUnit * \&gt;" alt="" coords="546,499,721,555"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l MCSymbol *, uint64_t \&gt;" alt="" coords="543,578,723,619"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l MCSection *, ConstantPool \&gt;" alt="" coords="527,643,740,685"/>
+<area shape="rect" id="node4" href="$structllvm_1_1SmallMapVector.html" title="A MapVector that performs no allocations if smaller than a certain size. " alt="" coords="817,121,977,162"/>
+</map>

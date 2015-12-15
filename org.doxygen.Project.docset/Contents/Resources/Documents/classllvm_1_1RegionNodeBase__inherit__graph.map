@@ -1,0 +1,13 @@
+<map id="llvm::RegionNodeBase&lt; Tr &gt;" name="llvm::RegionNodeBase&lt; Tr &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1RegionBase.html" title="A single entry single exit Region. " alt="" coords="509,123,679,150"/>
+<area shape="rect" id="node7" href="$classllvm_1_1RegionBase.html" title="RegionBase\&lt; RegionTraits\l\&lt; Function \&gt; \&gt;" alt="" coords="779,172,965,213"/>
+<area shape="rect" id="node8" href="$classllvm_1_1RegionBase.html" title="RegionBase\&lt; RegionTraits\l\&lt; MachineFunction \&gt; \&gt;" alt="" coords="779,5,965,47"/>
+<area shape="rect" id="node9" href="$classllvm_1_1RegionNodeBase.html" title="llvm::RegionNodeBase\l\&lt; RegionTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="463,225,725,267"/>
+<area shape="rect" id="node11" href="$classllvm_1_1RegionNodeBase.html" title="llvm::RegionNodeBase\l\&lt; RegionTraits\&lt; Function \&gt; \&gt;" alt="" coords="489,291,699,332"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegionBase.html" title="llvm::RegionBase\&lt; Region\lTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="1019,51,1225,92"/>
+<area shape="rect" id="node5" href="$classllvm_1_1RegionBase.html" title="llvm::RegionBase\&lt; Region\lTraits\&lt; Function \&gt; \&gt;" alt="" coords="1029,116,1215,157"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineRegion.html" title="llvm::MachineRegion" alt="" coords="1275,23,1425,50"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Region.html" title="llvm::Region" alt="" coords="1301,158,1399,185"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MachineRegionNode.html" title="llvm::MachineRegionNode" alt="" coords="1029,233,1215,259"/>
+<area shape="rect" id="node12" href="$classllvm_1_1RegionNode.html" title="llvm::RegionNode" alt="" coords="1056,298,1188,325"/>
+</map>

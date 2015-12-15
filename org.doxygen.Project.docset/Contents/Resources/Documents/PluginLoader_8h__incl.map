@@ -1,0 +1,16 @@
+<map id="PluginLoader.h" name="PluginLoader.h">
+<area shape="rect" id="node2" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1602,80,1814,107"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="661,304,832,331"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="922,528,1097,555"/>
+<area shape="rect" id="node22" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1333,155,1491,181"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1842,229,1969,256"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="389,379,574,405"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="553,453,716,480"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1063,379,1254,405"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="649,379,836,405"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1134,453,1351,480"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1570,379,1721,405"/>
+<area shape="rect" id="node25" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1325,229,1499,256"/>
+<area shape="rect" id="node26" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="1898,379,2067,405"/>
+<area shape="rect" id="node29" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1898,304,2105,331"/>
+</map>

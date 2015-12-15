@@ -1,0 +1,18 @@
+<map id="ImmutableMap.h" name="ImmutableMap.h">
+<area shape="rect" id="node2" href="$ImmutableSet_8h.html" title="llvm/ADT/ImmutableSet.h" alt="" coords="1731,80,1917,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="697,304,860,331"/>
+<area shape="rect" id="node23" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="1538,155,1699,181"/>
+<area shape="rect" id="node30" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1406,229,1581,256"/>
+<area shape="rect" id="node33" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2217,229,2423,256"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="333,379,518,405"/>
+<area shape="rect" id="node5" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="195,453,373,495"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="765,461,952,487"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1048,379,1211,405"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1786,543,1961,569"/>
+<area shape="rect" id="node14" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1619,379,1810,405"/>
+<area shape="rect" id="node15" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1691,461,1909,487"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1471,304,1641,331"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2301,304,2451,331"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1341,461,1526,487"/>
+<area shape="rect" id="node31" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="967,304,1137,331"/>
+</map>

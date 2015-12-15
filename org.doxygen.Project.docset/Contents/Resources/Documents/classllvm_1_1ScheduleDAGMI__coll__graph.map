@@ -1,0 +1,40 @@
+<map id="llvm::ScheduleDAGMI" name="llvm::ScheduleDAGMI">
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGInstrs.html" title="llvm::ScheduleDAGInstrs" alt="" coords="1777,1101,1955,1127"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="1377,773,1521,799"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="865,783,1028,810"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SUnit.html" title="SUnit &#45; Scheduling unit. This is a node in the scheduling DAG. " alt="" coords="901,434,992,461"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDep, 4 \&gt;" alt="" coords="446,108,590,149"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::SDep \&gt;" alt="" coords="31,108,191,149"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="39,5,183,47"/>
+<area shape="rect" id="node9" href="$structllvm_1_1MCSchedClassDesc.html" title="llvm::MCSchedClassDesc" alt="" coords="427,745,609,771"/>
+<area shape="rect" id="node22" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="437,1078,599,1105"/>
+<area shape="rect" id="node33" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="451,1027,585,1054"/>
+<area shape="rect" id="node46" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="877,1765,1016,1791"/>
+<area shape="rect" id="node49" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="437,1803,599,1830"/>
+<area shape="rect" id="node11" href="$classbool.html" title="bool" alt="" coords="87,814,136,841"/>
+<area shape="rect" id="node12" href="$classunsigned.html" title="unsigned" alt="" coords="71,459,151,486"/>
+<area shape="rect" id="node14" href="$classllvm_1_1TargetRegisterClass.html" title="llvm::TargetRegisterClass" alt="" coords="428,383,608,410"/>
+<area shape="rect" id="node17" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="633,805,781,831"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; MCPhysReg \&gt;" alt="" coords="5,278,217,305"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MachineRegisterInfo.html" title="llvm::MachineRegisterInfo" alt="" coords="855,682,1038,709"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetRegisterInfo.html" title="llvm::TargetRegisterInfo" alt="" coords="862,733,1031,759"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TargetInstrInfo.html" title="llvm::TargetInstrInfo" alt="" coords="873,834,1020,861"/>
+<area shape="rect" id="node23" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="16,1045,207,1071"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineInstr *, llvm\l::SUnit * \&gt;" alt="" coords="1367,1282,1532,1338"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::MachineInstr\l *, llvm::SUnit *, DenseMapInfo\l\&lt; llvm::MachineInstr * \&gt;, detail\l::DenseMapPair\&lt; llvm::MachineInstr\l *, llvm::SUnit * \&gt; \&gt;, llvm::MachineInstr\l *, llvm::SUnit *, DenseMapInfo\&lt; llvm::\lMachineInstr * \&gt;, detail::DenseMapPair\&lt;\l llvm::MachineInstr *, llvm::SUnit * \&gt; \&gt;" alt="" coords="805,1129,1088,1273"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="845,1296,1048,1337"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MachineFrameInfo.html" title="Abstract Stack Frame Information. " alt="" coords="1363,1181,1535,1207"/>
+<area shape="rect" id="node31" href="$classllvm_1_1SparseSet.html" title="llvm::SparseSet\&lt; VReg2SUnit,\l VirtReg2IndexFunctor \&gt;" alt="" coords="1341,1361,1558,1403"/>
+<area shape="rect" id="node32" href="$classllvm_1_1SparseSet.html" title="llvm::SparseSet\&lt; ValueT,\l KeyFunctorT, SparseT \&gt;" alt="" coords="855,1361,1039,1403"/>
+<area shape="rect" id="node34" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; PhysRegSUOper, llvm\l::identity\&lt; unsigned \&gt;\l, uint16_t \&gt;" alt="" coords="1362,1427,1537,1497"/>
+<area shape="rect" id="node36" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; ValueT, KeyFunctorT,\l SparseT \&gt;" alt="" coords="863,1490,1030,1546"/>
+<area shape="rect" id="node41" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; VReg2SUnit, VirtReg2Index\lFunctor \&gt;" alt="" coords="1346,1522,1553,1578"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1361,1611,1538,1638"/>
+<area shape="rect" id="node38" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock \&gt;" alt="" coords="855,1633,1039,1675"/>
+<area shape="rect" id="node39" href="$classllvm_1_1MachineInstr.html" title="llvm::MachineInstr" alt="" coords="1381,1679,1518,1706"/>
+<area shape="rect" id="node40" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lInstr \&gt;" alt="" coords="855,1699,1039,1740"/>
+<area shape="rect" id="node42" href="$classllvm_1_1TargetSchedModel.html" title="Provide an instruction scheduling machine model to CodeGen passes. " alt="" coords="1363,614,1536,641"/>
+<area shape="rect" id="node43" href="$classllvm_1_1BitVector.html" title="llvm::BitVector" alt="" coords="1392,722,1507,749"/>
+<area shape="rect" id="node45" href="$classllvm_1_1ScheduleDAGTopologicalSort.html" title="llvm::ScheduleDAGTopologicalSort" alt="" coords="1746,1218,1986,1245"/>
+<area shape="rect" id="node48" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="453,1702,583,1729"/>
+</map>

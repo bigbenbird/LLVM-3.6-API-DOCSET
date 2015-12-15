@@ -1,0 +1,13 @@
+<map id="IntrinsicLowering.h" name="IntrinsicLowering.h">
+<area shape="rect" id="node2" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="583,80,717,107"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="450,155,597,181"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="74,229,202,256"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="226,229,383,256"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="591,229,762,256"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="921,453,1096,480"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="649,304,835,331"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="530,379,693,405"/>
+<area shape="rect" id="node17" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1121,304,1312,331"/>
+<area shape="rect" id="node24" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="859,304,1046,331"/>
+<area shape="rect" id="node18" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1104,379,1321,405"/>
+</map>

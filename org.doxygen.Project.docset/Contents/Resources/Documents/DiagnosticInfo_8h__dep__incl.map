@@ -1,0 +1,31 @@
+<map id="DiagnosticInfo.h" name="DiagnosticInfo.h">
+<area shape="rect" id="node2" href="$ReaderWriter_8h.html" title="ReaderWriter.h" alt="" coords="768,80,881,107"/>
+<area shape="rect" id="node8" href="$Core_8cpp.html" title="Core.cpp" alt="" coords="1239,155,1317,181"/>
+<area shape="rect" id="node10" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="1297,229,1465,256"/>
+<area shape="rect" id="node13" href="$Linker_2Linker_8h.html" title="Linker.h" alt="" coords="1508,80,1579,107"/>
+<area shape="rect" id="node15" href="$LinkModules_8cpp.html" title="LinkModules.cpp" alt="" coords="1621,155,1748,181"/>
+<area shape="rect" id="node16" href="$SampleProfReader_8h.html" title="SampleProfReader.h" alt="" coords="1700,80,1851,107"/>
+<area shape="rect" id="node18" href="$SampleProfile_8cpp.html" title="SampleProfile.cpp" alt="" coords="1963,155,2100,181"/>
+<area shape="rect" id="node19" href="$PrologEpilogInserter_8cpp.html" title="PrologEpilogInserter.cpp" alt="" coords="1927,80,2101,107"/>
+<area shape="rect" id="node20" href="$AutoUpgrade_8cpp.html" title="AutoUpgrade.cpp" alt="" coords="2125,80,2260,107"/>
+<area shape="rect" id="node21" href="$DiagnosticInfo_8cpp.html" title="DiagnosticInfo.cpp" alt="" coords="2285,80,2423,107"/>
+<area shape="rect" id="node22" href="$LLVMContext_8cpp.html" title="LLVMContext.cpp" alt="" coords="2448,80,2580,107"/>
+<area shape="rect" id="node23" href="$LLVMContextImpl_8cpp.html" title="LLVMContextImpl.cpp" alt="" coords="2604,80,2763,107"/>
+<area shape="rect" id="node24" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="2787,80,2974,107"/>
+<area shape="rect" id="node25" href="$Inliner_8cpp.html" title="Inliner.cpp" alt="" coords="2999,80,3085,107"/>
+<area shape="rect" id="node26" href="$LoopUnrollPass_8cpp.html" title="LoopUnrollPass.cpp" alt="" coords="3110,80,3257,107"/>
+<area shape="rect" id="node27" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="3281,80,3480,107"/>
+<area shape="rect" id="node28" href="$LoopUnroll_8cpp.html" title="LoopUnroll.cpp" alt="" coords="3503,80,3621,107"/>
+<area shape="rect" id="node29" href="$SimplifyLibCalls_8cpp.html" title="SimplifyLibCalls.cpp" alt="" coords="3645,80,3791,107"/>
+<area shape="rect" id="node30" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="3815,80,3954,107"/>
+<area shape="rect" id="node3" href="$BitcodeReader_8cpp.html" title="BitcodeReader.cpp" alt="" coords="5,155,145,181"/>
+<area shape="rect" id="node4" href="$BitReader_8cpp.html" title="BitReader.cpp" alt="" coords="170,155,279,181"/>
+<area shape="rect" id="node5" href="$BitcodeWriter_8cpp.html" title="BitcodeWriter.cpp" alt="" coords="304,155,436,181"/>
+<area shape="rect" id="node6" href="$BitcodeWriterPass_8cpp.html" title="BitcodeWriterPass.cpp" alt="" coords="461,155,623,181"/>
+<area shape="rect" id="node7" href="$BitWriter_8cpp.html" title="BitWriter.cpp" alt="" coords="647,155,749,181"/>
+<area shape="rect" id="node9" href="$IRReader_8cpp.html" title="IRReader.cpp" alt="" coords="773,155,876,181"/>
+<area shape="rect" id="node11" href="$LTOModule_8cpp.html" title="LTOModule.cpp" alt="" coords="951,155,1069,181"/>
+<area shape="rect" id="node12" href="$IRObjectFile_8cpp.html" title="IRObjectFile.cpp" alt="" coords="1093,155,1215,181"/>
+<area shape="rect" id="node14" href="$LTOCodeGenerator_8h.html" title="LTOCodeGenerator.h" alt="" coords="1444,155,1597,181"/>
+<area shape="rect" id="node17" href="$SampleProfReader_8cpp.html" title="SampleProfReader.cpp" alt="" coords="1772,155,1939,181"/>
+</map>

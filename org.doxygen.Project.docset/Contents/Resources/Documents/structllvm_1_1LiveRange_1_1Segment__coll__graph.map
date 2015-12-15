@@ -1,0 +1,5 @@
+<map id="llvm::LiveRange::Segment" name="llvm::LiveRange::Segment">
+<area shape="rect" id="node2" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes. " alt="" coords="6,5,121,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1VNInfo.html" title="llvm::VNInfo" alt="" coords="118,96,217,123"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="145,5,225,32"/>
+</map>

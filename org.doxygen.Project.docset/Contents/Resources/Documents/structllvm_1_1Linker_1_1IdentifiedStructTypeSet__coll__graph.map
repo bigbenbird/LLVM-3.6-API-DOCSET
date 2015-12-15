@@ -1,0 +1,5 @@
+<map id="llvm::Linker::IdentifiedStructTypeSet" name="llvm::Linker::IdentifiedStructTypeSet">
+<area shape="rect" id="node2" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; StructType\l *, StructTypeKeyInfo \&gt;" alt="" coords="5,124,207,165"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseSet.html" title="DenseSet &#45; This implements a dense probed hash&#45;table based set. " alt="" coords="139,5,319,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; StructType * \&gt;" alt="" coords="231,131,458,158"/>
+</map>

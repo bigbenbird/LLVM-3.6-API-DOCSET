@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1FoldingSetImpl.html" title="llvm::FoldingSetImpl" alt="" coords="5,293,156,320"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; ListTy \&gt;" alt="" coords="207,5,393,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeImpl \&gt;" alt="" coords="218,57,382,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetImpl \&gt;" alt="" coords="218,122,382,163"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetNode \&gt;" alt="" coords="218,187,382,229"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::DIEAbbrev \&gt;" alt="" coords="218,253,382,294"/>
+<area shape="rect" id="node7" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SCEV \&gt;" alt="" coords="218,318,382,359"/>
+<area shape="rect" id="node8" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SDNode \&gt;" alt="" coords="218,383,382,425"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SDVTListNode \&gt;" alt="" coords="218,449,382,490"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ContextualFoldingSet.html" title="llvm::ContextualFoldingSet\l\&lt; T, Ctx \&gt;" alt="" coords="204,514,396,555"/>
+<area shape="rect" id="node11" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; T \&gt;" alt="" coords="220,580,380,607"/>
+</map>

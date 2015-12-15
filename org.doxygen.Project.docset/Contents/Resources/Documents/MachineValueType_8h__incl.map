@@ -1,0 +1,8 @@
+<map id="MachineValueType.h" name="MachineValueType.h">
+<area shape="rect" id="node2" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="5,80,191,107"/>
+<area shape="rect" id="node4" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="215,80,421,107"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="455,80,645,107"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="217,155,368,181"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="603,229,777,256"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="596,155,813,181"/>
+</map>

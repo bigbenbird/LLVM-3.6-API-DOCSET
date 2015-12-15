@@ -1,0 +1,19 @@
+<map id="CallGraph.h" name="CallGraph.h">
+<area shape="rect" id="node2" href="$CallGraphSCCPass_8h.html" title="CallGraphSCCPass.h" alt="" coords="584,80,736,107"/>
+<area shape="rect" id="node5" href="$InlineAlways_8cpp.html" title="InlineAlways.cpp" alt="" coords="410,229,536,256"/>
+<area shape="rect" id="node6" href="$Inliner_8cpp.html" title="Inliner.cpp" alt="" coords="299,229,386,256"/>
+<area shape="rect" id="node7" href="$InlineSimple_8cpp.html" title="InlineSimple.cpp" alt="" coords="918,229,1044,256"/>
+<area shape="rect" id="node10" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="92,155,259,181"/>
+<area shape="rect" id="node11" href="$ArgumentPromotion_8cpp.html" title="ArgumentPromotion.cpp" alt="" coords="284,155,462,181"/>
+<area shape="rect" id="node12" href="$FunctionAttrs_8cpp.html" title="FunctionAttrs.cpp" alt="" coords="732,155,865,181"/>
+<area shape="rect" id="node13" href="$PruneEH_8cpp.html" title="PruneEH.cpp" alt="" coords="889,155,993,181"/>
+<area shape="rect" id="node14" href="$CallGraph_8cpp.html" title="CallGraph.cpp" alt="" coords="938,80,1048,107"/>
+<area shape="rect" id="node15" href="$CallPrinter_8cpp.html" title="CallPrinter.cpp" alt="" coords="1072,80,1186,107"/>
+<area shape="rect" id="node16" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="1210,80,1352,107"/>
+<area shape="rect" id="node17" href="$Internalize_8cpp.html" title="Internalize.cpp" alt="" coords="1376,80,1490,107"/>
+<area shape="rect" id="node18" href="$InlineFunction_8cpp.html" title="InlineFunction.cpp" alt="" coords="1515,80,1650,107"/>
+<area shape="rect" id="node3" href="$InlineCost_8h.html" title="InlineCost.h" alt="" coords="612,155,708,181"/>
+<area shape="rect" id="node9" href="$InlinerPass_8h.html" title="InlinerPass.h" alt="" coords="486,155,588,181"/>
+<area shape="rect" id="node4" href="$InlineCost_8cpp.html" title="InlineCost.cpp" alt="" coords="783,229,894,256"/>
+<area shape="rect" id="node8" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="560,229,759,256"/>
+</map>

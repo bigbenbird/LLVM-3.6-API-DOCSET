@@ -1,0 +1,12 @@
+<map id="llvm::DiagnosticInfo" name="llvm::DiagnosticInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1BitcodeDiagnosticInfo.html" title="llvm::BitcodeDiagnosticInfo" alt="" coords="232,5,427,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoDebugMetadataVersion.html" title="llvm::DiagnosticInfoDebug\lMetadataVersion" alt="" coords="235,57,423,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DiagnosticInfoInlineAsm.html" title="llvm::DiagnosticInfoInlineAsm" alt="" coords="225,123,433,149"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks. " alt="" coords="200,173,459,200"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DiagnosticInfoSampleProfile.html" title="Diagnostic information for the sample profiler. " alt="" coords="232,225,427,266"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DiagnosticInfoStackSize.html" title="llvm::DiagnosticInfoStackSize" alt="" coords="225,291,434,317"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DiagnosticInfoOptimizationFailure.html" title="Diagnostic information for optimization failures. " alt="" coords="507,69,733,110"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DiagnosticInfoOptimizationRemark.html" title="Diagnostic information for applied optimization remarks. " alt="" coords="507,134,733,175"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DiagnosticInfoOptimizationRemarkAnalysis.html" title="Diagnostic information for optimization analysis remarks. " alt="" coords="507,199,733,241"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DiagnosticInfoOptimizationRemarkMissed.html" title="Diagnostic information for missed&#45;optimization remarks. " alt="" coords="507,265,733,306"/>
+</map>

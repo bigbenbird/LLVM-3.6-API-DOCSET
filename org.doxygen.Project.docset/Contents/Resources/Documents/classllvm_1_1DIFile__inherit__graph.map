@@ -1,0 +1,4 @@
+<map id="llvm::DIFile" name="llvm::DIFile">
+<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="A base class for various scopes. " alt="" coords="18,80,127,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info. " alt="" coords="5,5,140,32"/>
+</map>

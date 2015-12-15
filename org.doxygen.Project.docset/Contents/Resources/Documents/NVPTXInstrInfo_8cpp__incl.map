@@ -1,0 +1,40 @@
+<map id="NVPTXInstrInfo.cpp" name="NVPTXInstrInfo.cpp">
+<area shape="rect" id="node2" href="$NVPTX_8h.html" title="NVPTX.h" alt="" coords="805,319,881,345"/>
+<area shape="rect" id="node12" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="397,490,529,517"/>
+<area shape="rect" id="node27" href="$NVPTXInstrInfo_8h.html" title="NVPTXInstrInfo.h" alt="" coords="1349,237,1475,263"/>
+<area shape="rect" id="node34" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2123,490,2357,517"/>
+<area shape="rect" id="node38" href="$NVPTXTargetMachine_8h.html" title="NVPTXTargetMachine.h" alt="" coords="1615,80,1783,107"/>
+<area shape="rect" id="node44" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2847,579,3004,606"/>
+<area shape="rect" id="node46" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1871,393,2067,435"/>
+<area shape="rect" id="node48" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2092,393,2311,435"/>
+<area shape="rect" id="node3" href="$NVPTXBaseInfo_8h.html" title="MCTargetDesc/NVPTXBaseInfo.h" alt="" coords="579,401,805,427"/>
+<area shape="rect" id="node4" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1181,579,1339,606"/>
+<area shape="rect" id="node10" href="$Module_8h.html" title="llvm/IR/Module.h" alt="" coords="243,401,368,427"/>
+<area shape="rect" id="node16" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="256,661,371,688"/>
+<area shape="rect" id="node22" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="686,661,893,688"/>
+<area shape="rect" id="node23" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="930,401,1129,427"/>
+<area shape="rect" id="node5" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2202,661,2377,688"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="91,736,277,763"/>
+<area shape="rect" id="node21" href="$Metadata_8h.html" title="llvm/IR/Metadata.h" alt="" coords="243,579,383,606"/>
+<area shape="rect" id="node13" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="459,579,602,606"/>
+<area shape="rect" id="node14" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="519,661,662,688"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="702,736,877,763"/>
+<area shape="rect" id="node17" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="1415,579,1561,606"/>
+<area shape="rect" id="node20" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="829,579,981,606"/>
+<area shape="rect" id="node18" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="2063,661,2177,688"/>
+<area shape="rect" id="node28" href="$NVPTXRegisterInfo_8h.html" title="NVPTXRegisterInfo.h" alt="" coords="1450,319,1601,345"/>
+<area shape="rect" id="node33" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="1364,401,1561,427"/>
+<area shape="rect" id="node29" href="$ManagedStringPool_8h.html" title="ManagedStringPool.h" alt="" coords="1637,401,1795,427"/>
+<area shape="rect" id="node30" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="1421,483,1606,524"/>
+<area shape="rect" id="node31" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1687,572,1889,613"/>
+<area shape="rect" id="node35" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="1914,579,2057,606"/>
+<area shape="rect" id="node36" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="2327,579,2531,606"/>
+<area shape="rect" id="node37" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="2081,579,2252,606"/>
+<area shape="rect" id="node39" href="$NVPTXSubtarget_8h.html" title="NVPTXSubtarget.h" alt="" coords="1469,155,1609,181"/>
+<area shape="rect" id="node40" href="$TargetSelectionDAGInfo_8h.html" title="llvm/Target/TargetSelection\lDAGInfo.h" alt="" coords="1602,229,1795,271"/>
+<area shape="rect" id="node42" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="2381,490,2624,517"/>
+<area shape="rect" id="node41" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="1630,483,1829,524"/>
+<area shape="rect" id="node47" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="1903,483,2099,524"/>
+<area shape="rect" id="node49" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="1006,579,1157,606"/>
+<area shape="rect" id="node50" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="2699,490,2869,517"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="SchedulerRegistry.h" name="SchedulerRegistry.h">
+<area shape="rect" id="node2" href="$MachinePassRegistry_8h.html" title="llvm/CodeGen/MachinePass\lRegistry.h" alt="" coords="3070,80,3267,121"/>
+<area shape="rect" id="node41" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="3205,244,3404,271"/>
+<area shape="rect" id="node3" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="3083,169,3254,196"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1565,468,1777,495"/>
+<area shape="rect" id="node4" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2838,319,2931,345"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1748,916,1923,943"/>
+<area shape="rect" id="node8" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="2813,393,2957,420"/>
+<area shape="rect" id="node40" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="2463,543,2659,569"/>
+<area shape="rect" id="node9" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="2747,468,2905,495"/>
+<area shape="rect" id="node10" href="$PassInfo_8h.html" title="llvm/PassInfo.h" alt="" coords="2913,543,3029,569"/>
+<area shape="rect" id="node13" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="2581,468,2722,495"/>
+<area shape="rect" id="node38" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="5,468,169,495"/>
+<area shape="rect" id="node39" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="3047,841,3218,868"/>
+<area shape="rect" id="node14" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="3691,767,3798,793"/>
+<area shape="rect" id="node15" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2103,692,2266,719"/>
+<area shape="rect" id="node29" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1714,767,1885,793"/>
+<area shape="rect" id="node30" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1651,543,1809,569"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2697,692,2848,719"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2111,767,2274,793"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1448,767,1639,793"/>
+<area shape="rect" id="node24" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1135,767,1322,793"/>
+<area shape="rect" id="node19" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1580,841,1797,868"/>
+<area shape="rect" id="node32" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1699,617,1873,644"/>
+<area shape="rect" id="node33" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1465,692,1635,719"/>
+<area shape="rect" id="node37" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="1711,692,1880,719"/>
+<area shape="rect" id="node34" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="824,767,1009,793"/>
+<area shape="rect" id="node42" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3358,543,3537,569"/>
+<area shape="rect" id="node46" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="3410,617,3605,644"/>
+<area shape="rect" id="node43" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="3731,617,3899,644"/>
+<area shape="rect" id="node45" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2975,617,3181,644"/>
+<area shape="rect" id="node44" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="3782,692,3897,719"/>
+<area shape="rect" id="node47" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="3409,692,3605,719"/>
+<area shape="rect" id="node49" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2312,543,2439,569"/>
+</map>

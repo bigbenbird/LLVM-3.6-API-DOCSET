@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1yaml_1_1Node.html" title="Abstract base class for all Nodes. " alt="" coords="5,132,135,159"/>
+<area shape="rect" id="node2" href="$classllvm_1_1yaml_1_1AliasNode.html" title="Represents an alias to a Node with an anchor. " alt="" coords="200,5,359,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1yaml_1_1KeyValueNode.html" title="A key and value pair. While not technically a Node under the YAML representation graph, it is easier to treat them this way. " alt="" coords="186,56,373,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1yaml_1_1MappingNode.html" title="Represents a YAML map created from either a block map for a flow map. " alt="" coords="188,107,371,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1yaml_1_1NullNode.html" title="A null value. " alt="" coords="203,157,356,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1yaml_1_1ScalarNode.html" title="A scalar node is an opaque datum that can be presented as a series of zero or more Unicode scalar val..." alt="" coords="195,208,364,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1yaml_1_1SequenceNode.html" title="Represents a YAML sequence created from either a block sequence for a flow sequence. " alt="" coords="183,259,376,285"/>
+</map>

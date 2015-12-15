@@ -1,0 +1,7 @@
+<map id="llvm::MCSchedModel" name="llvm::MCSchedModel">
+<area shape="rect" id="node2" href="$structllvm_1_1MCProcResourceDesc.html" title="Define a kind of processor resource that will be modeled by the scheduler. " alt="" coords="368,287,563,313"/>
+<area shape="rect" id="node6" href="$structllvm_1_1MCSchedClassDesc.html" title="llvm::MCSchedClassDesc" alt="" coords="648,287,830,313"/>
+<area shape="rect" id="node8" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="208,287,344,313"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="78,5,158,32"/>
+<area shape="rect" id="node7" href="$classbool.html" title="bool" alt="" coords="884,5,933,32"/>
+</map>

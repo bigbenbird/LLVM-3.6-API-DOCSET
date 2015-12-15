@@ -1,0 +1,5 @@
+<map id="llvm::AssertingVH&lt; ValueTy &gt;" name="llvm::AssertingVH&lt; ValueTy &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::BasicBlock \&gt;" alt="" coords="5,185,152,227"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::Function \&gt;" alt="" coords="176,185,323,227"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles. " alt="" coords="80,5,248,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::RegistryParser&lt; T, U &gt;" name="llvm::RegistryParser&lt; T, U &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; const\l U::entry * \&gt;" alt="" coords="5,171,171,212"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1generic__parser__base.html" title="llvm::cl::generic_parser_base" alt="" coords="6,5,213,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; DataType \&gt;" alt="" coords="105,81,309,108"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Registry_1_1listener.html" title="llvm::Registry\&lt; T,\l U \&gt;::listener" alt="" coords="195,171,327,212"/>
+</map>

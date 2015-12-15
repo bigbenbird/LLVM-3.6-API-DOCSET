@@ -1,0 +1,8 @@
+<map id="llvm::PBQP::RegAlloc::GraphMetadata" name="llvm::PBQP::RegAlloc::GraphMetadata">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="5,247,168,273"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineBlockFrequencyInfo.html" title="llvm::MachineBlockFrequencyInfo" alt="" coords="351,247,582,273"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="183,157,374,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="193,247,327,273"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="209,81,348,108"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="236,5,321,32"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="UnicodeCharRanges.h" name="UnicodeCharRanges.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="774,80,920,107"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1069,393,1244,420"/>
+<area shape="rect" id="node26" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1118,229,1288,256"/>
+<area shape="rect" id="node28" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2089,80,2250,107"/>
+<area shape="rect" id="node29" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2082,155,2284,181"/>
+<area shape="rect" id="node33" href="$Mutex_8h.html" title="llvm/Support/Mutex.h" alt="" coords="1690,155,1849,181"/>
+<area shape="rect" id="node35" href="$MutexGuard_8h.html" title="llvm/Support/MutexGuard.h" alt="" coords="1774,80,1971,107"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="783,155,911,181"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="222,229,379,256"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="588,155,759,181"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="646,229,832,256"/>
+<area shape="rect" id="node15" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="426,311,588,338"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1313,229,1504,256"/>
+<area shape="rect" id="node23" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="856,229,1043,256"/>
+<area shape="rect" id="node17" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1194,311,1412,338"/>
+<area shape="rect" id="node27" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1488,304,1665,345"/>
+<area shape="rect" id="node30" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1998,229,2149,256"/>
+<area shape="rect" id="node34" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="1792,229,1974,256"/>
+</map>

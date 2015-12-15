@@ -1,0 +1,8 @@
+<map id="llvm::objcarc::ObjCARCAliasAnalysis" name="llvm::objcarc::ObjCARCAliasAnalysis">
+<area shape="rect" id="node2" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="5,157,160,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="171,247,333,273"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="17,81,148,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="40,5,125,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="312,336,451,363"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="521,247,652,273"/>
+</map>

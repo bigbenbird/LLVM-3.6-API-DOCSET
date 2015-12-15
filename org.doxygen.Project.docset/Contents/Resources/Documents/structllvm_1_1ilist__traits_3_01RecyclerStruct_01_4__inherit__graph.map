@@ -1,0 +1,10 @@
+<map id="llvm::ilist_traits&lt; RecyclerStruct &gt;" name="llvm::ilist_traits&lt; RecyclerStruct &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; RecyclerStruct \&gt;" alt="" coords="691,104,873,145"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; RecyclerStruct \&gt;" alt="" coords="335,5,517,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; NodeTy \&gt;" alt="" coords="13,29,153,71"/>
+<area shape="rect" id="node9" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; NodeTy \&gt;" alt="" coords="357,71,495,112"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ilist__sentinel__traits.html" title="llvm::ilist_sentinel\l_traits\&lt; RecyclerStruct \&gt;" alt="" coords="335,136,517,177"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ilist__sentinel__traits.html" title="llvm::ilist_sentinel\l_traits\&lt; NodeTy \&gt;" alt="" coords="14,107,153,148"/>
+<area shape="rect" id="node7" href="$structllvm_1_1ilist__node__traits.html" title="llvm::ilist_node_traits\l\&lt; RecyclerStruct \&gt;" alt="" coords="348,201,504,243"/>
+<area shape="rect" id="node8" href="$structllvm_1_1ilist__node__traits.html" title="llvm::ilist_node_traits\l\&lt; NodeTy \&gt;" alt="" coords="5,179,161,220"/>
+</map>

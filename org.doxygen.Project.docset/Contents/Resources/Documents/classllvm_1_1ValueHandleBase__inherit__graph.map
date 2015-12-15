@@ -1,0 +1,12 @@
+<map id="llvm::ValueHandleBase" name="llvm::ValueHandleBase">
+<area shape="rect" id="node2" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::BasicBlock \&gt;" alt="" coords="659,5,805,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::Function \&gt;" alt="" coords="659,79,805,120"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AssertingVH.html" title="Value handle that asserts if the Value is deleted. " alt="" coords="251,63,397,104"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction. " alt="" coords="260,179,388,206"/>
+<area shape="rect" id="node10" href="$classllvm_1_1TrackingVH.html" title="Value handle that tracks a Value across RAUW. " alt="" coords="223,230,425,257"/>
+<area shape="rect" id="node11" href="$classllvm_1_1WeakVH.html" title="Value handle that is nullable, but tries to track the Value. " alt="" coords="270,281,378,307"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IVStrideUse.html" title="llvm::IVStrideUse" alt="" coords="667,145,797,171"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MMIAddrLabelMapCallbackPtr.html" title="llvm::MMIAddrLabelMapCallbackPtr" alt="" coords="611,195,853,222"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SCEVUnknown.html" title="llvm::SCEVUnknown" alt="" coords="657,246,807,273"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ValueMapCallbackVH.html" title="llvm::ValueMapCallbackVH\l\&lt; KeyT, ValueT, Config \&gt;" alt="" coords="637,297,827,339"/>
+</map>

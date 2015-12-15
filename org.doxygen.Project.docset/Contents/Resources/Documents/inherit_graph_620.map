@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; FunctionCallback\lVH, std::unique_ptr\&lt; AssumptionCache\l \&gt;, FunctionCallbackVH::DMI, detail\l::DenseMapPair\&lt; FunctionCallbackVH,\l std::unique_ptr\&lt; AssumptionCache \&gt;\l \&gt; \&gt;, FunctionCallbackVH, std::unique\l_ptr\&lt; AssumptionCache \&gt;, FunctionCallbackVH\l::DMI, detail::DenseMapPair\&lt; FunctionCallbackVH,\l std::unique_ptr\&lt; AssumptionCache \&gt; \&gt; \&gt;" alt="" coords="5,5,345,164"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Function\lCallbackVH, std::unique\l_ptr\&lt; AssumptionCache \&gt;,\l FunctionCallbackVH::DMI \&gt;" alt="" coords="393,49,592,120"/>
+</map>

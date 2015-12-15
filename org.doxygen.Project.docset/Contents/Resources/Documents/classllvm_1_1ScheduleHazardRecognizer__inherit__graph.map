@@ -1,0 +1,6 @@
+<map id="llvm::ScheduleHazardRecognizer" name="llvm::ScheduleHazardRecognizer">
+<area shape="rect" id="node2" href="$classllvm_1_1PPCHazardRecognizer970.html" title="llvm::PPCHazardRecognizer970" alt="" coords="5,80,225,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title="llvm::ScoreboardHazardRecognizer" alt="" coords="250,80,495,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ARMHazardRecognizer.html" title="llvm::ARMHazardRecognizer" alt="" coords="151,162,349,189"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PPCDispatchGroupSBHazardRecognizer.html" title="llvm::PPCDispatchGroupSBHazard\lRecognizer" alt="" coords="374,155,614,196"/>
+</map>

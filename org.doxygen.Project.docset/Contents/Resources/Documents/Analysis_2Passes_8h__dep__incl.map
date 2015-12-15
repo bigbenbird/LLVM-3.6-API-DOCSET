@@ -1,0 +1,44 @@
+<map id="Passes.h" name="Passes.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="LinkAllPasses.h" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$AliasAnalysisCounter_8cpp.html" title="AliasAnalysisCounter.cpp" alt="" coords="149,80,330,107"/>
+<area shape="rect" id="node4" href="$AliasAnalysisEvaluator_8cpp.html" title="AliasAnalysisEvaluator.cpp" alt="" coords="355,80,545,107"/>
+<area shape="rect" id="node5" href="$AliasDebugger_8cpp.html" title="AliasDebugger.cpp" alt="" coords="570,80,711,107"/>
+<area shape="rect" id="node6" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="735,80,901,107"/>
+<area shape="rect" id="node7" href="$BlockFrequencyInfo_8cpp.html" title="BlockFrequencyInfo.cpp" alt="" coords="925,80,1095,107"/>
+<area shape="rect" id="node8" href="$CFLAliasAnalysis_8cpp.html" title="CFLAliasAnalysis.cpp" alt="" coords="1119,80,1274,107"/>
+<area shape="rect" id="node9" href="$CostModel_8cpp.html" title="CostModel.cpp" alt="" coords="1299,80,1415,107"/>
+<area shape="rect" id="node10" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="1439,80,1583,107"/>
+<area shape="rect" id="node11" href="$InstCount_8cpp.html" title="InstCount.cpp" alt="" coords="1608,80,1719,107"/>
+<area shape="rect" id="node12" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="1743,80,1885,107"/>
+<area shape="rect" id="node13" href="$JumpInstrTableInfo_8cpp.html" title="Information about jump&#45;instruction tables that have been created by JumpInstrTables pass..." alt="" coords="1909,80,2073,107"/>
+<area shape="rect" id="node14" href="$LibCallAliasAnalysis_8cpp.html" title="LibCallAliasAnalysis.cpp" alt="" coords="2097,80,2269,107"/>
+<area shape="rect" id="node15" href="$Lint_8cpp.html" title="Lint.cpp" alt="" coords="2294,80,2366,107"/>
+<area shape="rect" id="node16" href="$MemDepPrinter_8cpp.html" title="MemDepPrinter.cpp" alt="" coords="2391,80,2539,107"/>
+<area shape="rect" id="node17" href="$ModuleDebugInfoPrinter_8cpp.html" title="ModuleDebugInfoPrinter.cpp" alt="" coords="2563,80,2764,107"/>
+<area shape="rect" id="node18" href="$NoAliasAnalysis_8cpp.html" title="NoAliasAnalysis.cpp" alt="" coords="2789,80,2938,107"/>
+<area shape="rect" id="node19" href="$RegionPrinter_8cpp.html" title="RegionPrinter.cpp" alt="" coords="2963,80,3095,107"/>
+<area shape="rect" id="node20" href="$ScalarEvolutionAliasAnalysis_8cpp.html" title="ScalarEvolutionAliasAnalysis.cpp" alt="" coords="3119,80,3349,107"/>
+<area shape="rect" id="node21" href="$ScopedNoAliasAA_8cpp.html" title="ScopedNoAliasAA.cpp" alt="" coords="3373,80,3535,107"/>
+<area shape="rect" id="node22" href="$TypeBasedAliasAnalysis_8cpp.html" title="TypeBasedAliasAnalysis.cpp" alt="" coords="3560,80,3759,107"/>
+<area shape="rect" id="node23" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="3783,80,3957,107"/>
+<area shape="rect" id="node24" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="3982,80,4075,107"/>
+<area shape="rect" id="node25" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="4099,80,4267,107"/>
+<area shape="rect" id="node26" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="4292,80,4475,107"/>
+<area shape="rect" id="node27" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="4499,80,4697,107"/>
+<area shape="rect" id="node28" href="$R600TextureIntrinsicsReplacer_8cpp.html" title="R600TextureIntrinsicsReplacer.cpp" alt="" coords="4721,80,4957,107"/>
+<area shape="rect" id="node29" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="4981,80,5159,107"/>
+<area shape="rect" id="node30" href="$lib_2Transforms_2ObjCARC_2ObjCARC_8h.html" title="ObjCARC.h" alt="" coords="5183,80,5272,107"/>
+<area shape="rect" id="node41" href="$ProvenanceAnalysisEvaluator_8cpp.html" title="ProvenanceAnalysisEvaluator.cpp" alt="" coords="5297,80,5531,107"/>
+<area shape="rect" id="node42" href="$Scalar_8cpp.html" title="Scalar.cpp" alt="" coords="5555,80,5643,107"/>
+<area shape="rect" id="node43" href="$Vectorize_8cpp.html" title="Vectorize.cpp" alt="" coords="5668,80,5776,107"/>
+<area shape="rect" id="node31" href="$ARCRuntimeEntryPoints_8h.html" title="ARCRuntimeEntryPoints.h" alt="" coords="4627,155,4809,181"/>
+<area shape="rect" id="node32" href="$ObjCARCContract_8cpp.html" title="ObjCARCContract.cpp" alt="" coords="4531,229,4689,256"/>
+<area shape="rect" id="node33" href="$ObjCARCOpts_8cpp.html" title="ObjCARCOpts.cpp" alt="" coords="4757,229,4892,256"/>
+<area shape="rect" id="node34" href="$DependencyAnalysis_8cpp.html" title="DependencyAnalysis.cpp" alt="" coords="4885,155,5066,181"/>
+<area shape="rect" id="node35" href="$ObjCARC_8cpp.html" title="ObjCARC.cpp" alt="" coords="5090,155,5194,181"/>
+<area shape="rect" id="node36" href="$ObjCARCAliasAnalysis_8cpp.html" title="ObjCARCAliasAnalysis.cpp" alt="" coords="5218,155,5405,181"/>
+<area shape="rect" id="node37" href="$ObjCARCAPElim_8cpp.html" title="ObjCARCAPElim.cpp" alt="" coords="5429,155,5577,181"/>
+<area shape="rect" id="node38" href="$ObjCARCExpand_8cpp.html" title="ObjCARCExpand.cpp" alt="" coords="5601,155,5752,181"/>
+<area shape="rect" id="node39" href="$ObjCARCUtil_8cpp.html" title="ObjCARCUtil.cpp" alt="" coords="5777,155,5902,181"/>
+<area shape="rect" id="node40" href="$ProvenanceAnalysis_8cpp.html" title="ProvenanceAnalysis.cpp" alt="" coords="5926,155,6102,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::object::COFFObjectFile" name="llvm::object::COFFObjectFile">
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ObjectFile.html" title="llvm::object::ObjectFile" alt="" coords="22,247,186,273"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1SymbolicFile.html" title="llvm::object::SymbolicFile" alt="" coords="13,171,195,197"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1Binary.html" title="llvm::object::Binary" alt="" coords="33,95,175,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MemoryBufferRef.html" title="llvm::MemoryBufferRef" alt="" coords="21,5,187,32"/>
+</map>

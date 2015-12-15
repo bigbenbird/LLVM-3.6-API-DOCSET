@@ -1,0 +1,10 @@
+<map id="llvm::GlobalObject" name="llvm::GlobalObject">
+<area shape="rect" id="node2" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="231,483,361,509"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation. " alt="" coords="239,393,353,420"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="391,244,478,271"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="259,124,349,151"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="161,5,241,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users. " alt="" coords="394,124,475,151"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Module.html" title="The main container class for the LLVM Intermediate Representation. " alt="" coords="509,393,611,420"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Comdat.html" title="llvm::Comdat" alt="" coords="385,483,492,509"/>
+</map>

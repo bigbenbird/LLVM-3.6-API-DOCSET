@@ -1,0 +1,6 @@
+<map id="llvm::MipsSERegisterInfo" name="llvm::MipsSERegisterInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1MipsRegisterInfo.html" title="llvm::MipsRegisterInfo" alt="" coords="56,171,215,197"/>
+<area shape="rect" id="node3" href="$classMipsGenRegisterInfo.html" title="MipsGenRegisterInfo" alt="" coords="5,81,156,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MipsSubtarget.html" title="llvm::MipsSubtarget" alt="" coords="181,81,330,108"/>
+<area shape="rect" id="node5" href="$classMipsGenSubtargetInfo.html" title="MipsGenSubtargetInfo" alt="" coords="173,5,337,32"/>
+</map>

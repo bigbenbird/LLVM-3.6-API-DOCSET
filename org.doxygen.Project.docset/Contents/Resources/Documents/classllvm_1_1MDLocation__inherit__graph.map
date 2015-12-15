@@ -1,0 +1,5 @@
+<map id="llvm::MDLocation" name="llvm::MDLocation">
+<area shape="rect" id="node2" href="$classllvm_1_1UniquableMDNode.html" title="Uniquable metadata node. " alt="" coords="5,155,180,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Tuple of metadata. " alt="" coords="37,80,148,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="34,5,151,32"/>
+</map>

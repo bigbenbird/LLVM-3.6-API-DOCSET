@@ -1,0 +1,18 @@
+<map id="PPCFrameLowering.h" name="PPCFrameLowering.h">
+<area shape="rect" id="node2" href="$PPCSubtarget_8h.html" title="PPCSubtarget.h" alt="" coords="1256,80,1379,107"/>
+<area shape="rect" id="node14" href="$PPCFrameLowering_8cpp.html" title="PPCFrameLowering.cpp" alt="" coords="1408,155,1579,181"/>
+<area shape="rect" id="node16" href="$PPCRegisterInfo_8cpp.html" title="PPCRegisterInfo.cpp" alt="" coords="1603,155,1751,181"/>
+<area shape="rect" id="node3" href="$PPCAsmPrinter_8cpp.html" title="PPCAsmPrinter.cpp" alt="" coords="1675,229,1819,256"/>
+<area shape="rect" id="node4" href="$PPCTargetMachine_8h.html" title="PPCTargetMachine.h" alt="" coords="842,155,993,181"/>
+<area shape="rect" id="node6" href="$PPCFastISel_8cpp.html" title="PPCFastISel.cpp" alt="" coords="5,229,128,256"/>
+<area shape="rect" id="node15" href="$PPCMCInstLower_8cpp.html" title="PPCMCInstLower.cpp" alt="" coords="1017,155,1170,181"/>
+<area shape="rect" id="node17" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="1195,155,1333,181"/>
+<area shape="rect" id="node5" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="1144,229,1280,256"/>
+<area shape="rect" id="node7" href="$PPCHazardRecognizers_8cpp.html" title="PPCHazardRecognizers.cpp" alt="" coords="1305,229,1501,256"/>
+<area shape="rect" id="node8" href="$PPCInstrInfo_8cpp.html" title="PPCInstrInfo.cpp" alt="" coords="1525,229,1651,256"/>
+<area shape="rect" id="node9" href="$PPCISelDAGToDAG_8cpp.html" title="PPCISelDAGToDAG.cpp" alt="" coords="152,229,320,256"/>
+<area shape="rect" id="node10" href="$PPCISelLowering_8cpp.html" title="PPCISelLowering.cpp" alt="" coords="345,229,498,256"/>
+<area shape="rect" id="node11" href="$PPCSelectionDAGInfo_8cpp.html" title="PPCSelectionDAGInfo.cpp" alt="" coords="522,229,707,256"/>
+<area shape="rect" id="node12" href="$PPCTargetMachine_8cpp.html" title="PPCTargetMachine.cpp" alt="" coords="731,229,898,256"/>
+<area shape="rect" id="node13" href="$PPCTargetTransformInfo_8cpp.html" title="PPCTargetTransformInfo.cpp" alt="" coords="922,229,1121,256"/>
+</map>

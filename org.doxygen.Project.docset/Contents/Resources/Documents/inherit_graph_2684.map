@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1BitcodeError_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::BitcodeError \&gt;" alt="" coords="136,5,345,47"/>
+<area shape="rect" id="node3" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1errc_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::errc \&gt;" alt="" coords="163,71,318,112"/>
+<area shape="rect" id="node4" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1instrprof__error_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::instrprof\l_error \&gt;" alt="" coords="157,135,325,191"/>
+<area shape="rect" id="node5" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1object_1_1object__error_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::object\l::object_error \&gt;" alt="" coords="163,215,318,271"/>
+<area shape="rect" id="node6" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1sampleprof__error_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::sampleprof\l_error \&gt;" alt="" coords="147,295,334,351"/>
+</map>

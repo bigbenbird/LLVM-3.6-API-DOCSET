@@ -1,0 +1,32 @@
+<map id="COFF.h" name="COFF.h">
+<area shape="rect" id="node2" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="1033,386,1209,413"/>
+<area shape="rect" id="node14" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="1184,80,1355,107"/>
+<area shape="rect" id="node23" href="$ErrorOr_8h.html" title="llvm/Support/ErrorOr.h" alt="" coords="2123,386,2287,413"/>
+<area shape="rect" id="node44" href="$Support_2COFF_8h.html" title="llvm/Support/COFF.h" alt="" coords="2118,550,2269,577"/>
+<area shape="rect" id="node45" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2585,155,2748,181"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1387,468,1573,495"/>
+<area shape="rect" id="node9" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1083,468,1261,495"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="998,632,1173,659"/>
+<area shape="rect" id="node4" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1123,543,1301,584"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2468,550,2655,577"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2293,550,2443,577"/>
+<area shape="rect" id="node19" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="1307,155,1493,181"/>
+<area shape="rect" id="node26" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="463,304,651,331"/>
+<area shape="rect" id="node35" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="345,468,551,495"/>
+<area shape="rect" id="node41" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="1231,304,1439,331"/>
+<area shape="rect" id="node20" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="1327,229,1473,256"/>
+<area shape="rect" id="node21" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="1597,304,1736,331"/>
+<area shape="rect" id="node24" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2932,550,3095,577"/>
+<area shape="rect" id="node27" href="$IntrusiveRefCntPtr_8h.html" title="llvm/ADT/IntrusiveRefCnt\lPtr.h" alt="" coords="1459,379,1637,420"/>
+<area shape="rect" id="node31" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2413,386,2581,413"/>
+<area shape="rect" id="node34" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="678,386,805,413"/>
+<area shape="rect" id="node36" href="$TimeValue_8h.html" title="llvm/Support/TimeValue.h" alt="" coords="174,550,359,577"/>
+<area shape="rect" id="node28" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1841,468,2007,495"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2707,468,2877,495"/>
+<area shape="rect" id="node42" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="779,468,906,495"/>
+<area shape="rect" id="node43" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1763,386,1997,413"/>
+<area shape="rect" id="node46" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="2893,229,3043,256"/>
+<area shape="rect" id="node50" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1377,550,1594,577"/>
+<area shape="rect" id="node47" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2921,304,3079,331"/>
+<area shape="rect" id="node48" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2929,386,3103,413"/>
+</map>

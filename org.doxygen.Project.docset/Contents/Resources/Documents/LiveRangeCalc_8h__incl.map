@@ -1,0 +1,34 @@
+<map id="LiveRangeCalc.h" name="LiveRangeCalc.h">
+<area shape="rect" id="node2" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="123,468,274,495"/>
+<area shape="rect" id="node20" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="3213,468,3384,495"/>
+<area shape="rect" id="node26" href="$LiveInterval_8h.html" title="llvm/CodeGen/LiveInterval.h" alt="" coords="2603,80,2802,107"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1752,796,1927,823"/>
+<area shape="rect" id="node5" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1215,550,1422,577"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1763,632,1954,659"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1124,632,1275,659"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1804,714,2022,741"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3220,550,3377,577"/>
+<area shape="rect" id="node27" href="$IntEqClasses_8h.html" title="llvm/ADT/IntEqClasses.h" alt="" coords="2678,155,2852,181"/>
+<area shape="rect" id="node30" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2325,632,2488,659"/>
+<area shape="rect" id="node32" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="2310,155,2511,181"/>
+<area shape="rect" id="node39" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2468,468,2643,495"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2029,550,2200,577"/>
+<area shape="rect" id="node29" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1554,632,1739,659"/>
+<area shape="rect" id="node31" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="489,714,676,741"/>
+<area shape="rect" id="node33" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="892,550,1054,577"/>
+<area shape="rect" id="node37" href="$IntervalMap_8h.html" title="llvm/ADT/IntervalMap.h" alt="" coords="1892,237,2060,263"/>
+<area shape="rect" id="node38" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="234,632,411,659"/>
+<area shape="rect" id="node43" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="2908,550,3022,577"/>
+<area shape="rect" id="node44" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2368,319,2602,345"/>
+<area shape="rect" id="node49" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="2226,229,2448,271"/>
+<area shape="rect" id="node50" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="2779,229,2975,271"/>
+<area shape="rect" id="node34" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="711,632,896,659"/>
+<area shape="rect" id="node35" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="763,707,940,748"/>
+<area shape="rect" id="node41" href="$RecyclingAllocator_8h.html" title="llvm/Support/RecyclingAllocator.h" alt="" coords="1978,319,2210,345"/>
+<area shape="rect" id="node40" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="2651,632,2820,659"/>
+<area shape="rect" id="node42" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="2125,393,2296,420"/>
+<area shape="rect" id="node45" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3553,543,3756,584"/>
+<area shape="rect" id="node46" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="2523,393,2666,420"/>
+<area shape="rect" id="node47" href="$Metadata_8h.html" title="llvm/IR/Metadata.h" alt="" coords="1395,468,1535,495"/>
+<area shape="rect" id="node48" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="1896,393,2100,420"/>
+</map>

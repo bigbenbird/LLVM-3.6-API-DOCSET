@@ -1,0 +1,17 @@
+<map id="GCStrategy.h" name="GCStrategy.h">
+<area shape="rect" id="node2" href="$GCMetadataPrinter_8h.html" title="GCMetadataPrinter.h" alt="" coords="231,80,386,107"/>
+<area shape="rect" id="node7" href="$ErlangGC_8cpp.html" title="ErlangGC.cpp" alt="" coords="411,80,519,107"/>
+<area shape="rect" id="node8" href="$GCMetadata_8cpp.html" title="GCMetadata.cpp" alt="" coords="543,80,672,107"/>
+<area shape="rect" id="node9" href="$GCStrategy_8cpp.html" title="GCStrategy.cpp" alt="" coords="696,80,817,107"/>
+<area shape="rect" id="node10" href="$OcamlGC_8cpp.html" title="OcamlGC.cpp" alt="" coords="842,80,951,107"/>
+<area shape="rect" id="node11" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="975,80,1069,107"/>
+<area shape="rect" id="node12" href="$SelectionDAGBuilder_8cpp.html" title="SelectionDAGBuilder.cpp" alt="" coords="1093,80,1273,107"/>
+<area shape="rect" id="node13" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="1298,80,1458,107"/>
+<area shape="rect" id="node14" href="$StatepointLowering_8cpp.html" title="StatepointLowering.cpp" alt="" coords="1483,80,1655,107"/>
+<area shape="rect" id="node15" href="$ShadowStackGC_8cpp.html" title="ShadowStackGC.cpp" alt="" coords="1679,80,1834,107"/>
+<area shape="rect" id="node16" href="$StatepointExampleGC_8cpp.html" title="StatepointExampleGC.cpp" alt="" coords="1859,80,2049,107"/>
+<area shape="rect" id="node3" href="$AsmPrinter_8cpp.html" title="AsmPrinter.cpp" alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node4" href="$ErlangGCPrinter_8cpp.html" title="ErlangGCPrinter.cpp" alt="" coords="147,155,297,181"/>
+<area shape="rect" id="node5" href="$OcamlGCPrinter_8cpp.html" title="OcamlGCPrinter.cpp" alt="" coords="321,155,472,181"/>
+<area shape="rect" id="node6" href="$GCMetadataPrinter_8cpp.html" title="GCMetadataPrinter.cpp" alt="" coords="497,155,667,181"/>
+</map>

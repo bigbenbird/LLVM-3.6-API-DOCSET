@@ -1,0 +1,51 @@
+<map id="Options.h" name="Options.h">
+<area shape="rect" id="node2" href="$LLVMContext_8h.html" title="LLVMContext.h" alt="" coords="3675,80,3793,107"/>
+<area shape="rect" id="node50" href="$Options_8cpp.html" title="Options.cpp" alt="" coords="3817,80,3915,107"/>
+<area shape="rect" id="node3" href="$IRBuilder_8h.html" title="IRBuilder.h" alt="" coords="358,155,446,181"/>
+<area shape="rect" id="node4" href="$ForwardControlFlowIntegrity_8cpp.html" title="A pass that instruments code with fast checks for indirect calls and hooks for a function to check vi..." alt="" coords="5,229,228,256"/>
+<area shape="rect" id="node5" href="$SjLjEHPrepare_8cpp.html" title="SjLjEHPrepare.cpp" alt="" coords="253,229,391,256"/>
+<area shape="rect" id="node6" href="$AutoUpgrade_8cpp.html" title="AutoUpgrade.cpp" alt="" coords="416,229,551,256"/>
+<area shape="rect" id="node7" href="$Core_8cpp.html" title="Core.cpp" alt="" coords="575,229,653,256"/>
+<area shape="rect" id="node8" href="$TypeBuilder_8h.html" title="TypeBuilder.h" alt="" coords="572,155,677,181"/>
+<area shape="rect" id="node9" href="$LinkAllIR_8h.html" title="LinkAllIR.h" alt="" coords="702,155,787,181"/>
+<area shape="rect" id="node10" href="$SampleProfReader_8h.html" title="SampleProfReader.h" alt="" coords="812,155,963,181"/>
+<area shape="rect" id="node11" href="$AliasAnalysis_8cpp.html" title="AliasAnalysis.cpp" alt="" coords="987,155,1118,181"/>
+<area shape="rect" id="node12" href="$AliasSetTracker_8cpp.html" title="AliasSetTracker.cpp" alt="" coords="1143,155,1288,181"/>
+<area shape="rect" id="node13" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="1313,155,1478,181"/>
+<area shape="rect" id="node14" href="$BranchProbabilityInfo_8cpp.html" title="BranchProbabilityInfo.cpp" alt="" coords="1503,155,1685,181"/>
+<area shape="rect" id="node15" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="1710,155,1854,181"/>
+<area shape="rect" id="node16" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="1879,155,2045,181"/>
+<area shape="rect" id="node17" href="$Loads_8cpp.html" title="Loads.cpp" alt="" coords="2069,155,2156,181"/>
+<area shape="rect" id="node18" href="$LoopInfo_8cpp.html" title="LoopInfo.cpp" alt="" coords="2180,155,2283,181"/>
+<area shape="rect" id="node19" href="$LoopPass_8cpp.html" title="LoopPass.cpp" alt="" coords="2307,155,2417,181"/>
+<area shape="rect" id="node20" href="$MemDepPrinter_8cpp.html" title="MemDepPrinter.cpp" alt="" coords="2441,155,2589,181"/>
+<area shape="rect" id="node21" href="$MemoryDependenceAnalysis_8cpp.html" title="MemoryDependenceAnalysis.cpp" alt="" coords="2613,155,2847,181"/>
+<area shape="rect" id="node22" href="$NoAliasAnalysis_8cpp.html" title="NoAliasAnalysis.cpp" alt="" coords="2871,155,3021,181"/>
+<area shape="rect" id="node23" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="3045,155,3191,181"/>
+<area shape="rect" id="node24" href="$ScalarEvolutionExpander_8cpp.html" title="ScalarEvolutionExpander.cpp" alt="" coords="3216,155,3423,181"/>
+<area shape="rect" id="node25" href="$ScopedNoAliasAA_8cpp.html" title="ScopedNoAliasAA.cpp" alt="" coords="3447,155,3610,181"/>
+<area shape="rect" id="node26" href="$TypeBasedAliasAnalysis_8cpp.html" title="TypeBasedAliasAnalysis.cpp" alt="" coords="3635,155,3833,181"/>
+<area shape="rect" id="node27" href="$ValueTracking_8cpp.html" title="ValueTracking.cpp" alt="" coords="3857,155,3992,181"/>
+<area shape="rect" id="node28" href="$LLLexer_8cpp.html" title="LLLexer.cpp" alt="" coords="4016,155,4113,181"/>
+<area shape="rect" id="node29" href="$LLParser_8cpp.html" title="LLParser.cpp" alt="" coords="4137,155,4240,181"/>
+<area shape="rect" id="node30" href="$BitcodeReader_8cpp.html" title="BitcodeReader.cpp" alt="" coords="4264,155,4404,181"/>
+<area shape="rect" id="node31" href="$BitReader_8cpp.html" title="BitReader.cpp" alt="" coords="4429,155,4538,181"/>
+<area shape="rect" id="node32" href="$CodeGen_2Analysis_8cpp.html" title="Analysis.cpp" alt="" coords="4562,155,4663,181"/>
+<area shape="rect" id="node33" href="$AsmPrinterInlineAsm_8cpp.html" title="AsmPrinterInlineAsm.cpp" alt="" coords="4688,155,4871,181"/>
+<area shape="rect" id="node34" href="$JumpInstrTables_8cpp.html" title="An implementation of jump&#45;instruction tables. " alt="" coords="4895,155,5043,181"/>
+<area shape="rect" id="node35" href="$LocalStackSlotAllocation_8cpp.html" title="LocalStackSlotAllocation.cpp" alt="" coords="5067,155,5273,181"/>
+<area shape="rect" id="node36" href="$MachineInstr_8cpp.html" title="MachineInstr.cpp" alt="" coords="5297,155,5427,181"/>
+<area shape="rect" id="node37" href="$PrologEpilogInserter_8cpp.html" title="PrologEpilogInserter.cpp" alt="" coords="5451,155,5625,181"/>
+<area shape="rect" id="node38" href="$PseudoSourceValue_8cpp.html" title="PseudoSourceValue.cpp" alt="" coords="5650,155,5826,181"/>
+<area shape="rect" id="node39" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="5850,155,5997,181"/>
+<area shape="rect" id="node40" href="$DAGCombiner_8cpp.html" title="DAGCombiner.cpp" alt="" coords="6021,155,6159,181"/>
+<area shape="rect" id="node41" href="$FunctionLoweringInfo_8cpp.html" title="FunctionLoweringInfo.cpp" alt="" coords="6183,155,6365,181"/>
+<area shape="rect" id="node42" href="$LegalizeDAG_8cpp.html" title="LegalizeDAG.cpp" alt="" coords="6389,155,6519,181"/>
+<area shape="rect" id="node43" href="$SelectionDAGBuilder_8cpp.html" title="SelectionDAGBuilder.cpp" alt="" coords="6544,155,6724,181"/>
+<area shape="rect" id="node44" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="6749,155,6909,181"/>
+<area shape="rect" id="node45" href="$TargetLowering_8cpp.html" title="TargetLowering.cpp" alt="" coords="6933,155,7077,181"/>
+<area shape="rect" id="node46" href="$AsmWriter_8cpp.html" title="AsmWriter.cpp" alt="" coords="7101,155,7215,181"/>
+<area shape="rect" id="node47" href="$LLVMContextImpl_8h.html" title="LLVMContextImpl.h" alt="" coords="7239,155,7383,181"/>
+<area shape="rect" id="node48" href="$Function_8cpp.html" title="Function.cpp" alt="" coords="7315,229,7417,256"/>
+<area shape="rect" id="node49" href="$BasicBlock_8cpp.html" title="BasicBlock.cpp" alt="" coords="7458,155,7575,181"/>
+</map>

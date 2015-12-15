@@ -1,0 +1,8 @@
+<map id="llvm::cl::OptionValueCopy&lt; DataType &gt;" name="llvm::cl::OptionValueCopy&lt; DataType &gt;">
+<area shape="rect" id="node3" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title="llvm::cl::OptionValueBase\l\&lt; DataType, false \&gt;" alt="" coords="627,5,809,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title="llvm::cl::OptionValueCopy\l\&lt; std::string \&gt;" alt="" coords="627,71,809,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title="llvm::cl::OptionValueCopy\l\&lt; cl::boolOrDefault \&gt;" alt="" coords="627,136,809,177"/>
+<area shape="rect" id="node2" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title="llvm::cl::GenericOptionValue" alt="" coords="5,78,205,105"/>
+<area shape="rect" id="node5" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title="llvm::cl::OptionValue\l\&lt; std::string \&gt;" alt="" coords="863,71,1013,112"/>
+<area shape="rect" id="node7" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title="llvm::cl::OptionValue\l\&lt; cl::boolOrDefault \&gt;" alt="" coords="859,136,1017,177"/>
+</map>

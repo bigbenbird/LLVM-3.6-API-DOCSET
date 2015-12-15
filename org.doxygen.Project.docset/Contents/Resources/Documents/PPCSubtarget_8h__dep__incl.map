@@ -1,0 +1,17 @@
+<map id="PPCSubtarget.h" name="PPCSubtarget.h">
+<area shape="rect" id="node2" href="$PPCAsmPrinter_8cpp.html" title="PPCAsmPrinter.cpp" alt="" coords="5,155,149,181"/>
+<area shape="rect" id="node3" href="$PPCTargetMachine_8h.html" title="PPCTargetMachine.h" alt="" coords="630,80,781,107"/>
+<area shape="rect" id="node5" href="$PPCFastISel_8cpp.html" title="PPCFastISel.cpp" alt="" coords="173,155,296,181"/>
+<area shape="rect" id="node13" href="$PPCFrameLowering_8cpp.html" title="PPCFrameLowering.cpp" alt="" coords="805,80,976,107"/>
+<area shape="rect" id="node14" href="$PPCMCInstLower_8cpp.html" title="PPCMCInstLower.cpp" alt="" coords="1001,80,1154,107"/>
+<area shape="rect" id="node15" href="$PPCRegisterInfo_8cpp.html" title="PPCRegisterInfo.cpp" alt="" coords="1178,80,1326,107"/>
+<area shape="rect" id="node16" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="1351,80,1489,107"/>
+<area shape="rect" id="node4" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="733,155,869,181"/>
+<area shape="rect" id="node6" href="$PPCHazardRecognizers_8cpp.html" title="PPCHazardRecognizers.cpp" alt="" coords="894,155,1090,181"/>
+<area shape="rect" id="node7" href="$PPCInstrInfo_8cpp.html" title="PPCInstrInfo.cpp" alt="" coords="1115,155,1240,181"/>
+<area shape="rect" id="node8" href="$PPCISelDAGToDAG_8cpp.html" title="PPCISelDAGToDAG.cpp" alt="" coords="1264,155,1432,181"/>
+<area shape="rect" id="node9" href="$PPCISelLowering_8cpp.html" title="PPCISelLowering.cpp" alt="" coords="1457,155,1610,181"/>
+<area shape="rect" id="node10" href="$PPCSelectionDAGInfo_8cpp.html" title="PPCSelectionDAGInfo.cpp" alt="" coords="1634,155,1819,181"/>
+<area shape="rect" id="node11" href="$PPCTargetMachine_8cpp.html" title="PPCTargetMachine.cpp" alt="" coords="321,155,487,181"/>
+<area shape="rect" id="node12" href="$PPCTargetTransformInfo_8cpp.html" title="PPCTargetTransformInfo.cpp" alt="" coords="511,155,710,181"/>
+</map>

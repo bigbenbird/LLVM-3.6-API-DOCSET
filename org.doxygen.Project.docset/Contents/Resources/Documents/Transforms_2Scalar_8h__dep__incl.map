@@ -1,0 +1,51 @@
+<map id="Scalar.h" name="Scalar.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="LinkAllPasses.h" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$GlobalMerge_8cpp.html" title="GlobalMerge.cpp" alt="" coords="148,80,277,107"/>
+<area shape="rect" id="node4" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="301,80,476,107"/>
+<area shape="rect" id="node5" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="501,80,594,107"/>
+<area shape="rect" id="node6" href="$SjLjEHPrepare_8cpp.html" title="SjLjEHPrepare.cpp" alt="" coords="618,80,757,107"/>
+<area shape="rect" id="node7" href="$AArch64TargetMachine_8cpp.html" title="AArch64TargetMachine.cpp" alt="" coords="781,80,975,107"/>
+<area shape="rect" id="node8" href="$ARMTargetMachine_8cpp.html" title="ARMTargetMachine.cpp" alt="" coords="1000,80,1169,107"/>
+<area shape="rect" id="node9" href="$HexagonRemoveSZExtArgs_8cpp.html" title="HexagonRemoveSZExtArgs.cpp" alt="" coords="1193,80,1419,107"/>
+<area shape="rect" id="node10" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="1443,80,1641,107"/>
+<area shape="rect" id="node11" href="$MipsTargetMachine_8cpp.html" title="MipsTargetMachine.cpp" alt="" coords="1666,80,1837,107"/>
+<area shape="rect" id="node12" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="1861,80,2044,107"/>
+<area shape="rect" id="node13" href="$NVVMReflect_8cpp.html" title="NVVMReflect.cpp" alt="" coords="2069,80,2199,107"/>
+<area shape="rect" id="node14" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="2223,80,2359,107"/>
+<area shape="rect" id="node15" href="$PPCTargetMachine_8cpp.html" title="PPCTargetMachine.cpp" alt="" coords="2384,80,2551,107"/>
+<area shape="rect" id="node16" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="2575,80,2773,107"/>
+<area shape="rect" id="node17" href="$SystemZTargetMachine_8cpp.html" title="SystemZTargetMachine.cpp" alt="" coords="2797,80,2997,107"/>
+<area shape="rect" id="node18" href="$InstructionCombining_8cpp.html" title="InstructionCombining.cpp" alt="" coords="3021,80,3205,107"/>
+<area shape="rect" id="node19" href="$AddressSanitizer_8cpp.html" title="AddressSanitizer.cpp" alt="" coords="3229,80,3385,107"/>
+<area shape="rect" id="node20" href="$SanitizerCoverage_8cpp.html" title="SanitizerCoverage.cpp" alt="" coords="3409,80,3576,107"/>
+<area shape="rect" id="node21" href="$LoopExtractor_8cpp.html" title="LoopExtractor.cpp" alt="" coords="3600,80,3737,107"/>
+<area shape="rect" id="node22" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="3761,80,3939,107"/>
+<area shape="rect" id="node23" href="$ADCE_8cpp.html" title="ADCE.cpp" alt="" coords="3963,80,4049,107"/>
+<area shape="rect" id="node24" href="$AlignmentFromAssumptions_8cpp.html" title="AlignmentFromAssumptions.cpp" alt="" coords="4073,80,4302,107"/>
+<area shape="rect" id="node25" href="$ConstantHoisting_8cpp.html" title="ConstantHoisting.cpp" alt="" coords="4327,80,4485,107"/>
+<area shape="rect" id="node26" href="$ConstantProp_8cpp.html" title="ConstantProp.cpp" alt="" coords="4510,80,4646,107"/>
+<area shape="rect" id="node27" href="$CorrelatedValuePropagation_8cpp.html" title="CorrelatedValuePropagation.cpp" alt="" coords="4671,80,4899,107"/>
+<area shape="rect" id="node28" href="$DCE_8cpp.html" title="DCE.cpp" alt="" coords="4923,80,4999,107"/>
+<area shape="rect" id="node29" href="$DeadStoreElimination_8cpp.html" title="DeadStoreElimination.cpp" alt="" coords="5023,80,5211,107"/>
+<area shape="rect" id="node30" href="$EarlyCSE_8cpp.html" title="EarlyCSE.cpp" alt="" coords="5235,80,5342,107"/>
+<area shape="rect" id="node31" href="$FlattenCFGPass_8cpp.html" title="FlattenCFGPass.cpp" alt="" coords="5367,80,5515,107"/>
+<area shape="rect" id="node32" href="$GVN_8cpp.html" title="GVN.cpp" alt="" coords="5539,80,5617,107"/>
+<area shape="rect" id="node33" href="$IndVarSimplify_8cpp.html" title="IndVarSimplify.cpp" alt="" coords="5641,80,5779,107"/>
+<area shape="rect" id="node34" href="$JumpThreading_8cpp.html" title="JumpThreading.cpp" alt="" coords="5803,80,5947,107"/>
+<area shape="rect" id="node35" href="$LICM_8cpp.html" title="LICM.cpp" alt="" coords="5972,80,6051,107"/>
+<area shape="rect" id="node36" href="$LoadCombine_8cpp.html" title="LoadCombine.cpp" alt="" coords="6075,80,6212,107"/>
+<area shape="rect" id="node37" href="$LoopDeletion_8cpp.html" title="LoopDeletion.cpp" alt="" coords="6237,80,6370,107"/>
+<area shape="rect" id="node38" href="$LoopIdiomRecognize_8cpp.html" title="LoopIdiomRecognize.cpp" alt="" coords="6394,80,6573,107"/>
+<area shape="rect" id="node39" href="$LoopInstSimplify_8cpp.html" title="LoopInstSimplify.cpp" alt="" coords="6597,80,6748,107"/>
+<area shape="rect" id="node40" href="$LoopRerollPass_8cpp.html" title="LoopRerollPass.cpp" alt="" coords="6772,80,6915,107"/>
+<area shape="rect" id="node41" href="$LoopRotation_8cpp.html" title="LoopRotation.cpp" alt="" coords="6939,80,7071,107"/>
+<area shape="rect" id="node42" href="$LoopStrengthReduce_8cpp.html" title="LoopStrengthReduce.cpp" alt="" coords="7095,80,7277,107"/>
+<area shape="rect" id="node43" href="$LoopUnrollPass_8cpp.html" title="LoopUnrollPass.cpp" alt="" coords="7302,80,7449,107"/>
+<area shape="rect" id="node44" href="$LoopUnswitch_8cpp.html" title="LoopUnswitch.cpp" alt="" coords="7473,80,7611,107"/>
+<area shape="rect" id="node45" href="$LowerAtomic_8cpp.html" title="LowerAtomic.cpp" alt="" coords="7635,80,7766,107"/>
+<area shape="rect" id="node46" href="$MemCpyOptimizer_8cpp.html" title="MemCpyOptimizer.cpp" alt="" coords="7791,80,7957,107"/>
+<area shape="rect" id="node47" href="$MergedLoadStoreMotion_8cpp.html" title="This pass performs merges of loads and stores on both sides of a. " alt="" coords="7981,80,8188,107"/>
+<area shape="rect" id="node48" href="$PartiallyInlineLibCalls_8cpp.html" title="PartiallyInlineLibCalls.cpp" alt="" coords="8213,80,8391,107"/>
+<area shape="rect" id="node49" href="$Reassociate_8cpp.html" title="Reassociate.cpp" alt="" coords="8415,80,8541,107"/>
+<area shape="rect" id="node50" href="$Reg2Mem_8cpp.html" title="Reg2Mem.cpp" alt="" coords="8565,80,8677,107"/>
+</map>

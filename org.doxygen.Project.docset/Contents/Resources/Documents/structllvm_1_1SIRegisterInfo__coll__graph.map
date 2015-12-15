@@ -1,0 +1,6 @@
+<map id="llvm::SIRegisterInfo" name="llvm::SIRegisterInfo">
+<area shape="rect" id="node2" href="$structllvm_1_1AMDGPURegisterInfo.html" title="llvm::AMDGPURegisterInfo" alt="" coords="153,171,341,197"/>
+<area shape="rect" id="node3" href="$classAMDGPUGenRegisterInfo.html" title="AMDGPUGenRegisterInfo" alt="" coords="5,81,185,108"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUSubtarget.html" title="llvm::AMDGPUSubtarget" alt="" coords="309,81,487,108"/>
+<area shape="rect" id="node6" href="$classAMDGPUGenSubtargetInfo.html" title="AMDGPUGenSubtargetInfo" alt="" coords="301,5,495,32"/>
+</map>

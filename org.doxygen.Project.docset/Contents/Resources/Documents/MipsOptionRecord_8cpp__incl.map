@@ -1,0 +1,34 @@
+<map id="MipsOptionRecord.cpp" name="MipsOptionRecord.cpp">
+<area shape="rect" id="node2" href="$MipsOptionRecord_8h.html" title="MipsOptionRecord.h" alt="" coords="1751,155,1899,181"/>
+<area shape="rect" id="node39" href="$MipsELFStreamer_8h.html" title="MipsELFStreamer.h" alt="" coords="2438,80,2583,107"/>
+<area shape="rect" id="node43" href="$MCSectionELF_8h.html" title="llvm/MC/MCSectionELF.h" alt="" coords="672,393,848,420"/>
+<area shape="rect" id="node3" href="$MipsMCTargetDesc_8h.html" title="MCTargetDesc/MipsMCTarget\lDesc.h" alt="" coords="745,229,950,271"/>
+<area shape="rect" id="node8" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="1566,237,1724,263"/>
+<area shape="rect" id="node37" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="1951,468,2134,495"/>
+<area shape="rect" id="node9" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2060,617,2222,644"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="706,767,880,793"/>
+<area shape="rect" id="node19" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="1567,393,1723,420"/>
+<area shape="rect" id="node21" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1736,543,1904,569"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2548,617,2718,644"/>
+<area shape="rect" id="node28" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2158,468,2316,495"/>
+<area shape="rect" id="node29" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2243,543,2418,569"/>
+<area shape="rect" id="node30" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="1298,393,1440,420"/>
+<area shape="rect" id="node31" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1018,543,1221,569"/>
+<area shape="rect" id="node33" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="2125,319,2293,345"/>
+<area shape="rect" id="node35" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="1397,543,1560,569"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2229,692,2392,719"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1912,692,2103,719"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2416,692,2602,719"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1250,617,1400,644"/>
+<area shape="rect" id="node23" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="2960,692,3146,719"/>
+<area shape="rect" id="node34" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="2374,393,2545,420"/>
+<area shape="rect" id="node38" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="635,543,842,569"/>
+<area shape="rect" id="node40" href="$MCELFStreamer_8h.html" title="llvm/MC/MCELFStreamer.h" alt="" coords="2415,155,2606,181"/>
+<area shape="rect" id="node41" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2721,543,2892,569"/>
+<area shape="rect" id="node42" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="2335,237,2544,263"/>
+<area shape="rect" id="node44" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="531,468,658,495"/>
+<area shape="rect" id="node45" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="682,468,838,495"/>
+<area shape="rect" id="node46" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="251,543,407,569"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="914,468,1075,495"/>
+<area shape="rect" id="node48" href="$Support_2ELF_8h.html" title="llvm/Support/ELF.h" alt="" coords="88,543,226,569"/>
+</map>

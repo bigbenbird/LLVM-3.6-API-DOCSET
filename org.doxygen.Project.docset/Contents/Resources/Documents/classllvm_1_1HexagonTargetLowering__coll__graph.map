@@ -1,0 +1,12 @@
+<map id="llvm::HexagonTargetLowering" name="llvm::HexagonTargetLowering">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="llvm::TargetLowering" alt="" coords="1057,661,1208,688"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringBase.html" title="llvm::TargetLoweringBase" alt="" coords="740,297,923,324"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="10,723,59,749"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="759,1244,903,1271"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="286,1312,450,1339"/>
+<area shape="rect" id="node18" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="767,511,895,537"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="328,888,408,915"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1059,911,1207,937"/>
+<area shape="rect" id="node16" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="784,1592,879,1619"/>
+<area shape="rect" id="node17" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="752,859,911,885"/>
+</map>

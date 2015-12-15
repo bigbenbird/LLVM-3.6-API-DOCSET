@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1RegionNodeBase.html" title="A RegionNode represents a subregion or a BasicBlock that is part of a Region. " alt="" coords="5,57,169,98"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RegionBase.html" title="A single entry single exit Region. " alt="" coords="217,5,429,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegionBase.html" title="llvm::RegionBase\&lt; Region\lTraits\&lt; Function \&gt; \&gt;" alt="" coords="230,57,417,98"/>
+<area shape="rect" id="node5" href="$classllvm_1_1RegionBase.html" title="llvm::RegionBase\&lt; Region\lTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="220,122,427,163"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Region.html" title="llvm::Region" alt="" coords="503,64,602,91"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MachineRegion.html" title="llvm::MachineRegion" alt="" coords="477,129,628,156"/>
+</map>

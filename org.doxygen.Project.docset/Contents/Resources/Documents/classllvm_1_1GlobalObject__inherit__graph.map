@@ -1,0 +1,8 @@
+<map id="llvm::GlobalObject" name="llvm::GlobalObject">
+<area shape="rect" id="node6" href="$classllvm_1_1Function.html" title="llvm::Function" alt="" coords="5,379,115,405"/>
+<area shape="rect" id="node7" href="$classllvm_1_1GlobalVariable.html" title="llvm::GlobalVariable" alt="" coords="139,379,285,405"/>
+<area shape="rect" id="node2" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="71,229,201,256"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation. " alt="" coords="79,155,193,181"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="93,80,179,107"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="91,5,181,32"/>
+</map>

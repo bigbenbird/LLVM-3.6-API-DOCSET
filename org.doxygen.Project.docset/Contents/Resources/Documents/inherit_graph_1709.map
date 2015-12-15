@@ -1,0 +1,66 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1df__iterator__storage.html" title="llvm::df_iterator_storage\l\&lt; llvm::SmallPtrSet\&lt; typename\l GraphTraits\&lt; std::conditional\l\&lt; IsConst, const BlockT, BlockT\l \&gt;::type * \&gt;::NodeType *, 8 \&gt;, false \&gt;" alt="" coords="5,5,269,91"/>
+<area shape="rect" id="node2" href="$classllvm_1_1df__iterator.html" title="llvm::df_iterator\&lt;\l std::conditional\&lt; IsConst,\l const BlockT, BlockT \&gt;\l::type * \&gt;" alt="" coords="357,13,546,83"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegionBase_1_1block__iterator__wrapper.html" title="llvm::RegionBase\&lt; Region\lTr \&gt;::block_iterator_wrapper\l\&lt; IsConst \&gt;" alt="" coords="676,20,876,76"/>
+<area shape="rect" id="node4" href="$classllvm_1_1df__iterator__storage.html" title="llvm::df_iterator_storage\l\&lt; SetTy, ExtStorage \&gt;" alt="" coords="48,147,227,189"/>
+<area shape="rect" id="node5" href="$classllvm_1_1df__iterator.html" title="llvm::df_iterator\&lt;\l Inverse\&lt; T \&gt;, SetTy,\l External \&gt;" alt="" coords="374,172,529,228"/>
+<area shape="rect" id="node9" href="$classllvm_1_1df__iterator.html" title="llvm::df_iterator\&lt;\l T, SetTy, true \&gt;" alt="" coords="385,107,518,149"/>
+<area shape="rect" id="node6" href="$structllvm_1_1idf__iterator.html" title="llvm::idf_iterator\l\&lt; T, SetTy, true \&gt;" alt="" coords="709,242,843,283"/>
+<area shape="rect" id="node8" href="$structllvm_1_1idf__iterator.html" title="llvm::idf_iterator\l\&lt; T, SetTy, External \&gt;" alt="" coords="695,177,857,218"/>
+<area shape="rect" id="node7" href="$structllvm_1_1idf__ext__iterator.html" title="llvm::idf_ext_iterator\l\&lt; T, SetTy \&gt;" alt="" coords="979,242,1131,283"/>
+<area shape="rect" id="node10" href="$structllvm_1_1df__ext__iterator.html" title="llvm::df_ext_iterator\l\&lt; T, SetTy \&gt;" alt="" coords="701,107,851,149"/>
+<area shape="rect" id="node11" href="$classllvm_1_1df__iterator__storage.html" title="llvm::df_iterator_storage\l\&lt; SetType, ExtStorage \&gt;" alt="" coords="47,251,228,293"/>
+<area shape="rect" id="node12" href="$classllvm_1_1df__iterator.html" title="llvm::df_iterator\&lt;\l GraphT, SetType, ExtStorage, GT \&gt;" alt="" coords="327,251,576,293"/>
+<area shape="rect" id="node14" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; FunctionRecordIterator,\l std::forward_iterator_tag,\l FunctionRecord \&gt;" alt="" coords="340,1781,563,1851"/>
+<area shape="rect" id="node16" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; iterator, std\l::forward_iterator_tag,\l Node, typename std::iterator\l_traits\&lt; NodeVectorImplT::iterator\l \&gt;::difference_type, Node *, Node &amp; \&gt;" alt="" coords="317,1875,585,1975"/>
+<area shape="rect" id="node19" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; pointee_iterator\l\&lt; WrappedIteratorT \&gt;, std\l::iterator_traits\&lt; WrappedIterator\lT \&gt;::iterator_category, T, typename\l std::iterator_traits\&lt; WrappedIteratorT\l \&gt;::difference_type, T *, T &amp; \&gt;" alt="" coords="319,2000,584,2115"/>
+<area shape="rect" id="node22" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; postorder_scc\l_iterator, std::forward\l_iterator_tag, SCC \&gt;" alt="" coords="369,2139,534,2210"/>
+<area shape="rect" id="node24" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; scc_iterator\&lt;\l GraphT, GT \&gt;, std::forward\l_iterator_tag, const std::\lvector\&lt; GT::NodeType * \&gt;, ptrdiff_t \&gt;" alt="" coords="321,2235,582,2320"/>
+<area shape="rect" id="node26" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; value_op_iterator,\l std::random_access_iterator\l_tag, Value *, ptrdiff_t, Value\l *, Value * \&gt;" alt="" coords="347,2344,556,2429"/>
+<area shape="rect" id="node29" href="$classllvm_1_1AliasSet_1_1iterator.html" title="Define an iterator for alias sets... this is just a forward iterator. " alt="" coords="370,2453,533,2480"/>
+<area shape="rect" id="node30" href="$classllvm_1_1constant__iterator.html" title="llvm::constant_iterator" alt="" coords="368,2504,535,2531"/>
+<area shape="rect" id="node31" href="$classllvm_1_1coverage_1_1CoverageMappingIterator.html" title="A file format agnostic iterator over coverage mapping data. " alt="" coords="359,2555,543,2597"/>
+<area shape="rect" id="node32" href="$classllvm_1_1DIHeaderFieldIterator.html" title="llvm::DIHeaderFieldIterator" alt="" coords="356,2621,547,2648"/>
+<area shape="rect" id="node33" href="$classllvm_1_1EquivalenceClasses_1_1member__iterator.html" title="llvm::EquivalenceClasses\l\&lt; ElemTy \&gt;::member_iterator" alt="" coords="345,2673,558,2714"/>
+<area shape="rect" id="node34" href="$classllvm_1_1generic__gep__type__iterator.html" title="llvm::generic_gep_type\l_iterator\&lt; ItTy \&gt;" alt="" coords="367,2738,536,2779"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ilist__iterator.html" title="llvm::ilist_iterator\l\&lt; NodeTy \&gt;" alt="" coords="386,2803,517,2845"/>
+<area shape="rect" id="node36" href="$classllvm_1_1InstrProfIterator.html" title="A file format agnostic iterator over profiling data. " alt="" coords="373,317,529,344"/>
+<area shape="rect" id="node37" href="$classllvm_1_1IntervalMap_1_1const__iterator.html" title="llvm::IntervalMap\&lt;\l KeyT, ValT, N, Traits\l \&gt;::const_iterator" alt="" coords="377,368,525,424"/>
+<area shape="rect" id="node39" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="329,449,573,519"/>
+<area shape="rect" id="node41" href="$classllvm_1_1line__iterator.html" title="A forward iterator which reads text lines from a buffer. " alt="" coords="385,544,517,571"/>
+<area shape="rect" id="node42" href="$classllvm_1_1MachineBasicBlock_1_1bundle__iterator.html" title="llvm::MachineBasicBlock\l::bundle_iterator\&lt; Ty,\l IterTy \&gt;" alt="" coords="363,595,540,651"/>
+<area shape="rect" id="node43" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title="llvm::MachineRegisterInfo\l::defusechain_instr_iterator\l\&lt; Uses, Defs, SkipDebug, ByOperand,\l ByInstr, ByBundle \&gt;" alt="" coords="318,675,585,746"/>
+<area shape="rect" id="node44" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title="llvm::MachineRegisterInfo\l::defusechain_iterator\l\&lt; Uses, Defs, SkipDebug,\l ByOperand, ByInstr, ByBundle \&gt;" alt="" coords="335,770,567,841"/>
+<area shape="rect" id="node45" href="$classllvm_1_1po__iterator.html" title="llvm::po_iterator\&lt;\l GraphT, SetType, ExtStorage, GT \&gt;" alt="" coords="327,2869,576,2910"/>
+<area shape="rect" id="node46" href="$classllvm_1_1PredIterator.html" title="llvm::PredIterator\l\&lt; Ptr, USE_iterator \&gt;" alt="" coords="372,865,531,906"/>
+<area shape="rect" id="node47" href="$classllvm_1_1RNSuccIterator.html" title="Hierarchical RegionNode successor iterator. " alt="" coords="341,930,561,971"/>
+<area shape="rect" id="node48" href="$classllvm_1_1RNSuccIterator_3_01FlatIt_3_01NodeType_01_4_00_01BlockT_00_01RegionT_01_4.html" title="Flat RegionNode iterator. " alt="" coords="369,995,533,1051"/>
+<area shape="rect" id="node49" href="$classllvm_1_1SDNode_1_1use__iterator.html" title="llvm::SDNode::use_iterator" alt="" coords="354,1075,549,1101"/>
+<area shape="rect" id="node50" href="$classllvm_1_1SDNodeIterator.html" title="llvm::SDNodeIterator" alt="" coords="373,1125,529,1152"/>
+<area shape="rect" id="node51" href="$classllvm_1_1SparseMultiSet_1_1iterator__base.html" title="llvm::SparseMultiSet\l\&lt; ValueT, KeyFunctorT,\l SparseT \&gt;::iterator_base\l\&lt; SMSPtrTy \&gt;" alt="" coords="358,1177,545,1247"/>
+<area shape="rect" id="node52" href="$classllvm_1_1SuccIterator.html" title="llvm::SuccIterator\l\&lt; Term_, BB_ \&gt;" alt="" coords="384,1271,519,1313"/>
+<area shape="rect" id="node53" href="$classllvm_1_1SUnitIterator.html" title="llvm::SUnitIterator" alt="" coords="382,1337,521,1364"/>
+<area shape="rect" id="node54" href="$classllvm_1_1sys_1_1path_1_1const__iterator.html" title="Path iterator. " alt="" coords="373,1389,530,1430"/>
+<area shape="rect" id="node55" href="$classllvm_1_1sys_1_1path_1_1reverse__iterator.html" title="Reverse path iterator. " alt="" coords="366,1454,537,1495"/>
+<area shape="rect" id="node56" href="$classllvm_1_1ValueMapConstIterator.html" title="llvm::ValueMapConstIterator\l\&lt; DenseMapT, KeyT \&gt;" alt="" coords="350,1519,553,1561"/>
+<area shape="rect" id="node57" href="$classllvm_1_1ValueMapIterator.html" title="llvm::ValueMapIterator\l\&lt; DenseMapT, KeyT \&gt;" alt="" coords="369,1585,534,1626"/>
+<area shape="rect" id="node58" href="$classllvm_1_1yaml_1_1basic__collection__iterator.html" title="This is an iterator abstraction over YAML collections shared by both sequences and maps..." alt="" coords="354,1650,549,1691"/>
+<area shape="rect" id="node59" href="$classllvm_1_1po__iterator.html" title="llvm::po_iterator\&lt;\l Inverse\&lt; T \&gt;, SetType,\l External \&gt;" alt="" coords="366,2933,537,2989"/>
+<area shape="rect" id="node63" href="$classllvm_1_1po__iterator.html" title="llvm::po_iterator\&lt;\l T, SetType, true \&gt;" alt="" coords="381,3013,521,3054"/>
+<area shape="rect" id="node15" href="$classllvm_1_1coverage_1_1FunctionRecordIterator.html" title="Iterator over Functions, optionally filtered to a single file. " alt="" coords="688,1795,864,1837"/>
+<area shape="rect" id="node17" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; iterator, NodeVectorImpl\lT::iterator, std::forward_iterator\l_tag, Node \&gt;" alt="" coords="660,1890,892,1961"/>
+<area shape="rect" id="node18" href="$classllvm_1_1LazyCallGraph_1_1iterator.html" title="A lazy iterator used for both the entry nodes and child nodes. " alt="" coords="981,1905,1128,1946"/>
+<area shape="rect" id="node20" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; pointee_iterator\l\&lt; WrappedIteratorT \&gt;, WrappedIterator\lT, std::iterator_traits\&lt; WrappedIterator\lT \&gt;::iterator_category, T \&gt;" alt="" coords="641,2015,911,2100"/>
+<area shape="rect" id="node21" href="$structllvm_1_1pointee__iterator.html" title="An iterator type that allows iterating over the pointees via some other iterator. ..." alt="" coords="967,2037,1143,2078"/>
+<area shape="rect" id="node23" href="$classllvm_1_1LazyCallGraph_1_1postorder__scc__iterator.html" title="A post&#45;order depth&#45;first SCC iterator over the call graph. " alt="" coords="689,2154,863,2195"/>
+<area shape="rect" id="node25" href="$classllvm_1_1scc__iterator.html" title="Enumerate the SCCs of a directed graph in reverse topological order of the SCC DAG. " alt="" coords="711,2257,841,2298"/>
+<area shape="rect" id="node27" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; value_op_iterator,\l op_iterator, std::random\l_access_iterator_tag, Value\l *, ptrdiff_t, Value *, Value * \&gt;" alt="" coords="669,2344,883,2429"/>
+<area shape="rect" id="node28" href="$structllvm_1_1User_1_1value__op__iterator.html" title="Iterator for directly iterating over the operand Values. " alt="" coords="979,2366,1130,2407"/>
+<area shape="rect" id="node38" href="$classllvm_1_1IntervalMap_1_1iterator.html" title="llvm::IntervalMap\&lt;\l KeyT, ValT, N, Traits\l \&gt;::iterator" alt="" coords="702,368,850,424"/>
+<area shape="rect" id="node40" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="633,449,919,519"/>
+<area shape="rect" id="node60" href="$structllvm_1_1ipo__iterator.html" title="llvm::ipo_iterator\l\&lt; T, SetType, true \&gt;" alt="" coords="701,2878,851,2919"/>
+<area shape="rect" id="node62" href="$structllvm_1_1ipo__iterator.html" title="llvm::ipo_iterator\l\&lt; T, SetType, External \&gt;" alt="" coords="687,2943,865,2985"/>
+<area shape="rect" id="node61" href="$structllvm_1_1ipo__ext__iterator.html" title="llvm::ipo_ext_iterator\l\&lt; T, SetType \&gt;" alt="" coords="977,2878,1133,2919"/>
+<area shape="rect" id="node64" href="$structllvm_1_1po__ext__iterator.html" title="llvm::po_ext_iterator\l\&lt; T, SetType \&gt;" alt="" coords="699,3013,853,3054"/>
+<area shape="rect" id="node66" href="$classllvm_1_1po__iterator__storage.html" title="llvm::po_iterator_storage\l\&lt; SetType, ExtStorage \&gt;" alt="" coords="46,2941,229,2982"/>
+</map>

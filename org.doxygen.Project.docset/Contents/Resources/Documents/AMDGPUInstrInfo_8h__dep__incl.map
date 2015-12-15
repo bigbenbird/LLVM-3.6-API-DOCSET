@@ -1,0 +1,44 @@
+<map id="AMDGPUInstrInfo.h" name="AMDGPUInstrInfo.h">
+<area shape="rect" id="node2" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="3492,80,3648,107"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets. " alt="" coords="349,155,533,181"/>
+<area shape="rect" id="node5" href="$AMDGPUInstrInfo_8cpp.html" title="Implementation of the TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="5,229,164,256"/>
+<area shape="rect" id="node15" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="5719,229,5920,256"/>
+<area shape="rect" id="node19" href="$AMDILCFGStructurizer_8cpp.html" title="AMDILCFGStructurizer.cpp" alt="" coords="5763,155,5953,181"/>
+<area shape="rect" id="node38" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="5507,80,5625,107"/>
+<area shape="rect" id="node40" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="1431,80,1528,107"/>
+<area shape="rect" id="node3" href="$AMDGPUAsmPrinter_8cpp.html" title="AMDGPUAsmPrinter.cpp" alt="" coords="3481,155,3659,181"/>
+<area shape="rect" id="node10" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="2999,229,3131,256"/>
+<area shape="rect" id="node14" href="$AMDGPUIntrinsicInfo_8cpp.html" title="AMDGPU Implementation of the IntrinsicInfo class. " alt="" coords="3683,155,3862,181"/>
+<area shape="rect" id="node16" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="3046,155,3233,181"/>
+<area shape="rect" id="node17" href="$AMDGPUPromoteAlloca_8cpp.html" title="AMDGPUPromoteAlloca.cpp" alt="" coords="3257,155,3457,181"/>
+<area shape="rect" id="node18" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="3865,229,4035,256"/>
+<area shape="rect" id="node20" href="$R600ClauseMergePass_8cpp.html" title="R600ClauseMergePass.cpp" alt="" coords="4520,155,4713,181"/>
+<area shape="rect" id="node21" href="$R600ControlFlowFinalizer_8cpp.html" title="R600ControlFlowFinalizer.cpp" alt="" coords="4737,155,4941,181"/>
+<area shape="rect" id="node22" href="$R600EmitClauseMarkers_8cpp.html" title="R600EmitClauseMarkers.cpp" alt="" coords="4965,155,5169,181"/>
+<area shape="rect" id="node23" href="$R600ExpandSpecialInstrs_8cpp.html" title="R600ExpandSpecialInstrs.cpp" alt="" coords="5193,155,5403,181"/>
+<area shape="rect" id="node24" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="5427,155,5587,181"/>
+<area shape="rect" id="node25" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="5018,229,5215,256"/>
+<area shape="rect" id="node26" href="$R600OptimizeVectorRegisters_8cpp.html" title="R600OptimizeVectorRegisters.cpp" alt="" coords="4089,155,4326,181"/>
+<area shape="rect" id="node27" href="$R600Packetizer_8cpp.html" title="R600Packetizer.cpp" alt="" coords="4351,155,4496,181"/>
+<area shape="rect" id="node28" href="$SIFixSGPRCopies_8cpp.html" title="SIFixSGPRCopies.cpp" alt="" coords="1485,155,1639,181"/>
+<area shape="rect" id="node29" href="$SIFoldOperands_8cpp.html" title="SIFoldOperands.cpp" alt="" coords="2822,155,2971,181"/>
+<area shape="rect" id="node30" href="$SIInsertWaits_8cpp.html" title="Insert wait instructions for memory reads and writes. " alt="" coords="1330,155,1461,181"/>
+<area shape="rect" id="node31" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="1192,229,1332,256"/>
+<area shape="rect" id="node32" href="$SILowerControlFlow_8cpp.html" title="This pass lowers the pseudo control flow instructions to real machine instructions. " alt="" coords="1663,155,1834,181"/>
+<area shape="rect" id="node33" href="$SILowerI1Copies_8cpp.html" title="SILowerI1Copies.cpp" alt="" coords="1858,155,2010,181"/>
+<area shape="rect" id="node34" href="$SIMachineFunctionInfo_8cpp.html" title="SIMachineFunctionInfo.cpp" alt="" coords="2035,155,2225,181"/>
+<area shape="rect" id="node35" href="$SIPrepareScratchRegs_8cpp.html" title="SIPrepareScratchRegs.cpp" alt="" coords="2249,155,2440,181"/>
+<area shape="rect" id="node36" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="2464,155,2599,181"/>
+<area shape="rect" id="node37" href="$SIShrinkInstructions_8cpp.html" title="SIShrinkInstructions.cpp" alt="" coords="2623,155,2797,181"/>
+<area shape="rect" id="node6" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="981,229,1167,256"/>
+<area shape="rect" id="node7" href="$AMDGPURegisterInfo_8cpp.html" title="Parent TargetRegisterInfo class common to all hw codegen targets. " alt="" coords="775,229,957,256"/>
+<area shape="rect" id="node8" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="3155,229,3353,256"/>
+<area shape="rect" id="node9" href="$AMDGPUTargetTransformInfo_8cpp.html" title="AMDGPUTargetTransformInfo.cpp" alt="" coords="325,229,557,256"/>
+<area shape="rect" id="node11" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class. " alt="" coords="1845,229,1999,256"/>
+<area shape="rect" id="node12" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="189,229,301,256"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetInfo_8cpp.html" title="AMDGPUTargetInfo.cpp" alt="" coords="581,229,751,256"/>
+<area shape="rect" id="node39" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="6079,155,6261,181"/>
+<area shape="rect" id="node41" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="1130,155,1255,181"/>
+<area shape="rect" id="node42" href="$SIFixSGPRLiveRanges_8cpp.html" title="SIFixSGPRLiveRanges.cpp" alt="" coords="658,155,842,181"/>
+<area shape="rect" id="node43" href="$SILoadStoreOptimizer_8cpp.html" title="SILoadStoreOptimizer.cpp" alt="" coords="867,155,1055,181"/>
+</map>

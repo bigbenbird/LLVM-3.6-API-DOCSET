@@ -1,0 +1,12 @@
+<map id="ReaderWriter.h" name="ReaderWriter.h">
+<area shape="rect" id="node2" href="$BitcodeReader_8cpp.html" title="BitcodeReader.cpp" alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node3" href="$BitReader_8cpp.html" title="BitReader.cpp" alt="" coords="170,80,279,107"/>
+<area shape="rect" id="node4" href="$BitcodeWriter_8cpp.html" title="BitcodeWriter.cpp" alt="" coords="304,80,436,107"/>
+<area shape="rect" id="node5" href="$BitcodeWriterPass_8cpp.html" title="BitcodeWriterPass.cpp" alt="" coords="461,80,623,107"/>
+<area shape="rect" id="node6" href="$BitWriter_8cpp.html" title="BitWriter.cpp" alt="" coords="647,80,749,107"/>
+<area shape="rect" id="node7" href="$Core_8cpp.html" title="Core.cpp" alt="" coords="773,80,852,107"/>
+<area shape="rect" id="node8" href="$IRReader_8cpp.html" title="IRReader.cpp" alt="" coords="876,80,979,107"/>
+<area shape="rect" id="node9" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="1003,80,1171,107"/>
+<area shape="rect" id="node10" href="$LTOModule_8cpp.html" title="LTOModule.cpp" alt="" coords="1195,80,1313,107"/>
+<area shape="rect" id="node11" href="$IRObjectFile_8cpp.html" title="IRObjectFile.cpp" alt="" coords="1337,80,1459,107"/>
+</map>

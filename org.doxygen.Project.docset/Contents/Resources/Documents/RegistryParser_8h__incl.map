@@ -1,0 +1,18 @@
+<map id="RegistryParser.h" name="RegistryParser.h">
+<area shape="rect" id="node2" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="821,80,1033,107"/>
+<area shape="rect" id="node33" href="$Registry_8h.html" title="llvm/Support/Registry.h" alt="" coords="253,229,419,256"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1060,304,1231,331"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1315,528,1490,555"/>
+<area shape="rect" id="node22" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1334,155,1493,181"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2193,229,2319,256"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="726,379,911,405"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1129,453,1292,480"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1451,379,1642,405"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="987,379,1173,405"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1515,453,1733,480"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1870,379,2021,405"/>
+<area shape="rect" id="node25" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1453,229,1627,256"/>
+<area shape="rect" id="node26" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="2249,379,2418,405"/>
+<area shape="rect" id="node29" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2198,304,2405,331"/>
+<area shape="rect" id="node34" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="152,304,309,331"/>
+</map>

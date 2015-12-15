@@ -1,0 +1,26 @@
+<map id="MCLinkerOptimizationHint.h" name="MCLinkerOptimizationHint.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1472,453,1643,480"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="643,528,794,555"/>
+<area shape="rect" id="node23" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="1091,453,1264,480"/>
+<area shape="rect" id="node24" href="$MCMachObjectWriter_8h.html" title="llvm/MC/MCMachObjectWriter.h" alt="" coords="1399,80,1617,107"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="357,453,560,480"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="1282,610,1467,637"/>
+<area shape="rect" id="node5" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2852,528,3015,555"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2846,692,3021,719"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1718,528,1909,555"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2232,610,2419,637"/>
+<area shape="rect" id="node10" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1838,610,2055,637"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2136,453,2299,480"/>
+<area shape="rect" id="node30" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1389,304,1557,331"/>
+<area shape="rect" id="node31" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="1770,379,1905,405"/>
+<area shape="rect" id="node33" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="1561,379,1745,405"/>
+<area shape="rect" id="node36" href="$StringTableBuilder_8h.html" title="llvm/MC/StringTableBuilder.h" alt="" coords="1234,229,1435,256"/>
+<area shape="rect" id="node40" href="$Support_2MachO_8h.html" title="llvm/Support/MachO.h" alt="" coords="897,155,1060,181"/>
+<area shape="rect" id="node26" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2281,528,2466,555"/>
+<area shape="rect" id="node27" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1637,603,1814,644"/>
+<area shape="rect" id="node32" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3039,528,3206,555"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="747,304,906,331"/>
+<area shape="rect" id="node38" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="915,379,1090,405"/>
+<area shape="rect" id="node39" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="145,528,314,555"/>
+<area shape="rect" id="node41" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="667,229,816,256"/>
+</map>

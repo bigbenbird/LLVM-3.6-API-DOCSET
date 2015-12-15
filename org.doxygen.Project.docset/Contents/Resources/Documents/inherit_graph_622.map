@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; FunctionType\l *, std::vector\&lt; JumpPair\l \&gt;, DenseMapInfo\&lt; FunctionType\l * \&gt;, detail::DenseMapPair\&lt; FunctionType\l *, std::vector\&lt; JumpPair \&gt; \&gt; \&gt;, FunctionType\l *, std::vector\&lt; JumpPair \&gt;, DenseMapInfo\l\&lt; FunctionType * \&gt;, detail::DenseMapPair\&lt; FunctionType\l *, std::vector\&lt; JumpPair \&gt; \&gt; \&gt;" alt="" coords="5,5,388,149"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Function\lType *, std::vector\&lt; JumpPair \&gt; \&gt;" alt="" coords="436,57,673,98"/>
+</map>

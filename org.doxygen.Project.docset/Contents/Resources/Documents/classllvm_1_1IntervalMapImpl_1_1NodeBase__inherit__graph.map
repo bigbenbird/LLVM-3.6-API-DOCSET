@@ -1,0 +1,7 @@
+<map id="llvm::IntervalMapImpl::NodeBase&lt; T1, T2, N &gt;" name="llvm::IntervalMapImpl::NodeBase&lt; T1, T2, N &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title="llvm::IntervalMapImpl\l::NodeBase\&lt; NodeRef,\l KeyT, N \&gt;" alt="" coords="387,41,555,97"/>
+<area shape="rect" id="node5" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title="llvm::IntervalMapImpl\l::NodeBase\&lt; std::pair\l\&lt; KeyT, KeyT \&gt;, ValT, N \&gt;" alt="" coords="379,121,564,177"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title="llvm::IntervalMapImpl\l::BranchNode\&lt; KeyT, ValT,\l RootBranchCap, Traits \&gt;" alt="" coords="1071,5,1261,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title="llvm::IntervalMapImpl\l::BranchNode\&lt; typename,\l typename, unsigned, typename \&gt;" alt="" coords="613,41,859,97"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IntervalMapImpl_1_1LeafNode.html" title="llvm::IntervalMapImpl\l::LeafNode\&lt; typename,\l typename, unsigned, typename \&gt;" alt="" coords="613,121,859,177"/>
+</map>

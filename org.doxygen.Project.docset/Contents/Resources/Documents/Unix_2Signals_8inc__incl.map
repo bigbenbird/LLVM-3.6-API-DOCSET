@@ -1,0 +1,20 @@
+<map id="Signals.inc" name="Signals.inc">
+<area shape="rect" id="node2" href="$Unix_8h.html" title="Unix.h" alt="" coords="897,155,960,181"/>
+<area shape="rect" id="node19" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1783,155,1941,181"/>
+<area shape="rect" id="node26" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2587,155,2775,181"/>
+<area shape="rect" id="node38" href="$FileUtilities_8h.html" title="llvm/Support/FileUtilities.h" alt="" coords="2689,80,2875,107"/>
+<area shape="rect" id="node40" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="2951,80,3165,107"/>
+<area shape="rect" id="node41" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3314,155,3522,181"/>
+<area shape="rect" id="node42" href="$Mutex_8h.html" title="llvm/Support/Mutex.h" alt="" coords="3773,155,3932,181"/>
+<area shape="rect" id="node43" href="$Program_8h.html" title="llvm/Support/Program.h" alt="" coords="3189,80,3364,107"/>
+<area shape="rect" id="node44" href="$UniqueLock_8h.html" title="llvm/Support/UniqueLock.h" alt="" coords="3491,80,3684,107"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3546,155,3749,181"/>
+<area shape="rect" id="node4" href="$Errno_8h.html" title="llvm/Support/Errno.h" alt="" coords="788,319,941,345"/>
+<area shape="rect" id="node20" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3092,393,3267,420"/>
+<area shape="rect" id="node27" href="$IntrusiveRefCntPtr_8h.html" title="llvm/ADT/IntrusiveRefCnt\lPtr.h" alt="" coords="2005,229,2183,271"/>
+<area shape="rect" id="node28" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2993,237,3161,263"/>
+<area shape="rect" id="node29" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3185,237,3312,263"/>
+<area shape="rect" id="node31" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2624,319,2831,345"/>
+<area shape="rect" id="node32" href="$TimeValue_8h.html" title="llvm/Support/TimeValue.h" alt="" coords="2309,237,2495,263"/>
+<area shape="rect" id="node39" href="$Path_8h.html" title="llvm/Support/Path.h" alt="" coords="3082,155,3229,181"/>
+</map>

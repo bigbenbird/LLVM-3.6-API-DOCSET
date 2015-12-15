@@ -1,0 +1,6 @@
+<map id="llvm::InstCombiner" name="llvm::InstCombiner">
+<area shape="rect" id="node2" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="5,117,144,143"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="32,13,117,39"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l InstCombiner, Instruction * \&gt;" alt="" coords="169,109,381,151"/>
+<area shape="rect" id="node5" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="205,5,345,47"/>
+</map>

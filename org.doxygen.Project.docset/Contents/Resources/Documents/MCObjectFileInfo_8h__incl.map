@@ -1,0 +1,12 @@
+<map id="MCObjectFileInfo.h" name="MCObjectFileInfo.h">
+<area shape="rect" id="node2" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="244,80,371,107"/>
+<area shape="rect" id="node15" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="434,80,613,107"/>
+<area shape="rect" id="node3" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="233,155,360,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="193,304,344,331"/>
+<area shape="rect" id="node12" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="420,229,627,256"/>
+<area shape="rect" id="node13" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="471,304,645,331"/>
+<area shape="rect" id="node16" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="639,155,807,181"/>
+<area shape="rect" id="node17" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="670,304,777,331"/>
+<area shape="rect" id="node19" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="1034,229,1149,256"/>
+<area shape="rect" id="node18" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="613,379,740,405"/>
+</map>

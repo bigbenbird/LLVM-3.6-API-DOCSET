@@ -1,0 +1,51 @@
+<map id="Function.h" name="Function.h">
+<area shape="rect" id="node2" href="$AssumptionCache_8h.html" title="AssumptionCache.h" alt="" coords="2344,155,2495,181"/>
+<area shape="rect" id="node3" href="$AssumptionCache_8cpp.html" title="AssumptionCache.cpp" alt="" coords="2419,229,2585,256"/>
+<area shape="rect" id="node4" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="2609,229,2774,256"/>
+<area shape="rect" id="node5" href="$CodeMetrics_8cpp.html" title="CodeMetrics.cpp" alt="" coords="2129,229,2257,256"/>
+<area shape="rect" id="node6" href="$Lint_8cpp.html" title="Lint.cpp" alt="" coords="2281,229,2353,256"/>
+<area shape="rect" id="node7" href="$MemoryDependenceAnalysis_8cpp.html" title="MemoryDependenceAnalysis.cpp" alt="" coords="3007,229,3242,256"/>
+<area shape="rect" id="node8" href="$CallGraph_8h.html" title="CallGraph.h" alt="" coords="3462,80,3558,107"/>
+<area shape="rect" id="node9" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="3525,155,3692,181"/>
+<area shape="rect" id="node10" href="$CFGPrinter_8h.html" title="CFGPrinter.h" alt="" coords="3818,155,3919,181"/>
+<area shape="rect" id="node11" href="$IntervalIterator_8h.html" title="IntervalIterator.h" alt="" coords="3944,155,4071,181"/>
+<area shape="rect" id="node12" href="$LazyCallGraph_8h.html" title="LazyCallGraph.h" alt="" coords="1009,229,1134,256"/>
+<area shape="rect" id="node13" href="$RegionPass_8h.html" title="RegionPass.h" alt="" coords="628,80,733,107"/>
+<area shape="rect" id="node14" href="$LinkAllPasses_8h.html" title="LinkAllPasses.h" alt="" coords="584,155,703,181"/>
+<area shape="rect" id="node15" href="$ScalarEvolution_8h.html" title="ScalarEvolution.h" alt="" coords="420,80,552,107"/>
+<area shape="rect" id="node16" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="221,155,365,181"/>
+<area shape="rect" id="node17" href="$IR_2CFG_8h.html" title="CFG.h" alt="" coords="3868,80,3928,107"/>
+<area shape="rect" id="node18" href="$Dominators_8h.html" title="Dominators.h" alt="" coords="3290,155,3399,181"/>
+<area shape="rect" id="node19" href="$AliasAnalysis_8cpp.html" title="AliasAnalysis.cpp" alt="" coords="3279,229,3410,256"/>
+<area shape="rect" id="node20" href="$CodeGenPrepare_8cpp.html" title="CodeGenPrepare.cpp" alt="" coords="3543,229,3701,256"/>
+<area shape="rect" id="node21" href="$DwarfEHPrepare_8cpp.html" title="DwarfEHPrepare.cpp" alt="" coords="2805,229,2959,256"/>
+<area shape="rect" id="node22" href="$BranchProbabilityInfo_8cpp.html" title="BranchProbabilityInfo.cpp" alt="" coords="4095,155,4277,181"/>
+<area shape="rect" id="node23" href="$InstIterator_8h.html" title="InstIterator.h" alt="" coords="241,80,344,107"/>
+<area shape="rect" id="node24" href="$AliasAnalysisEvaluator_8cpp.html" title="AliasAnalysisEvaluator.cpp" alt="" coords="5,155,196,181"/>
+<area shape="rect" id="node25" href="$AtomicExpandPass_8cpp.html" title="AtomicExpandPass.cpp" alt="" coords="389,155,559,181"/>
+<area shape="rect" id="node26" href="$InstVisitor_8h.html" title="InstVisitor.h" alt="" coords="1273,155,1369,181"/>
+<area shape="rect" id="node27" href="$CFLAliasAnalysis_8cpp.html" title="CFLAliasAnalysis.cpp" alt="" coords="694,229,849,256"/>
+<area shape="rect" id="node28" href="$InstCount_8cpp.html" title="InstCount.cpp" alt="" coords="873,229,984,256"/>
+<area shape="rect" id="node29" href="$IntrinsicInst_8h.html" title="IntrinsicInst.h" alt="" coords="2707,80,2814,107"/>
+<area shape="rect" id="node30" href="$CostModel_8cpp.html" title="CostModel.cpp" alt="" coords="2925,155,3041,181"/>
+<area shape="rect" id="node31" href="$CodeGen_2Analysis_8cpp.html" title="Analysis.cpp" alt="" coords="2066,155,2167,181"/>
+<area shape="rect" id="node32" href="$ErlangGCPrinter_8cpp.html" title="ErlangGCPrinter.cpp" alt="" coords="3066,155,3215,181"/>
+<area shape="rect" id="node33" href="$Module_8h.html" title="Module.h" alt="" coords="1417,80,1497,107"/>
+<area shape="rect" id="node34" href="$IR_2PassManager_8h.html" title="PassManager.h" alt="" coords="911,155,1029,181"/>
+<area shape="rect" id="node35" href="$SampleProfWriter_8h.html" title="SampleProfWriter.h" alt="" coords="1105,155,1248,181"/>
+<area shape="rect" id="node36" href="$ForwardControlFlowIntegrity_8cpp.html" title="A pass that instruments code with fast checks for indirect calls and hooks for a function to check vi..." alt="" coords="1493,155,1716,181"/>
+<area shape="rect" id="node37" href="$GlobalMerge_8cpp.html" title="GlobalMerge.cpp" alt="" coords="1740,155,1869,181"/>
+<area shape="rect" id="node38" href="$JumpInstrTables_8cpp.html" title="An implementation of jump&#45;instruction tables. " alt="" coords="1893,155,2041,181"/>
+<area shape="rect" id="node39" href="$SampleProfReader_8h.html" title="SampleProfReader.h" alt="" coords="4055,80,4205,107"/>
+<area shape="rect" id="node40" href="$BypassSlowDivision_8h.html" title="BypassSlowDivision.h" alt="" coords="3633,80,3792,107"/>
+<area shape="rect" id="node41" href="$ConstantFolding_8cpp.html" title="ConstantFolding.cpp" alt="" coords="4230,80,4382,107"/>
+<area shape="rect" id="node42" href="$JumpInstrTableInfo_8cpp.html" title="Information about jump&#45;instruction tables that have been created by JumpInstrTables pass..." alt="" coords="4407,80,4571,107"/>
+<area shape="rect" id="node43" href="$LibCallAliasAnalysis_8cpp.html" title="LibCallAliasAnalysis.cpp" alt="" coords="4595,80,4767,107"/>
+<area shape="rect" id="node44" href="$LibCallSemantics_8cpp.html" title="LibCallSemantics.cpp" alt="" coords="4791,80,4949,107"/>
+<area shape="rect" id="node45" href="$ModuleDebugInfoPrinter_8cpp.html" title="ModuleDebugInfoPrinter.cpp" alt="" coords="4973,80,5175,107"/>
+<area shape="rect" id="node46" href="$SparsePropagation_8cpp.html" title="SparsePropagation.cpp" alt="" coords="5199,80,5370,107"/>
+<area shape="rect" id="node47" href="$Trace_8cpp.html" title="Trace.cpp" alt="" coords="5394,80,5477,107"/>
+<area shape="rect" id="node48" href="$EHStreamer_8cpp.html" title="EHStreamer.cpp" alt="" coords="5501,80,5628,107"/>
+<area shape="rect" id="node49" href="$BranchFolding_8cpp.html" title="BranchFolding.cpp" alt="" coords="5653,80,5791,107"/>
+<area shape="rect" id="node50" href="$GCMetadata_8cpp.html" title="GCMetadata.cpp" alt="" coords="5816,80,5945,107"/>
+</map>

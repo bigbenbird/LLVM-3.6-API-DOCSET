@@ -1,0 +1,5 @@
+<map id="llvm::SmallVectorTemplateBase&lt; T, true &gt;" name="llvm::SmallVectorTemplateBase&lt; T, true &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="5,185,196,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="38,5,203,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T, typename \&gt;" alt="" coords="117,81,308,123"/>
+</map>

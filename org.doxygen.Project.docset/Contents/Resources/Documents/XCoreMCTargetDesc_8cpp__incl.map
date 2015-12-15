@@ -1,0 +1,42 @@
+<map id="XCoreMCTargetDesc.cpp" name="XCoreMCTargetDesc.cpp">
+<area shape="rect" id="node2" href="$XCoreMCTargetDesc_8h.html" title="XCoreMCTargetDesc.h" alt="" coords="645,80,808,107"/>
+<area shape="rect" id="node6" href="$XCoreInstPrinter_8h.html" title="This file contains the declaration of the XCoreInstPrinter class, which is used to print XCore MCInst..." alt="" coords="2902,80,3106,107"/>
+<area shape="rect" id="node15" href="$XCoreMCAsmInfo_8h.html" title="XCoreMCAsmInfo.h" alt="" coords="1206,80,1348,107"/>
+<area shape="rect" id="node27" href="$XCoreTargetStreamer_8h.html" title="XCoreTargetStreamer.h" alt="" coords="1381,80,1552,107"/>
+<area shape="rect" id="node36" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="1812,304,2006,331"/>
+<area shape="rect" id="node41" href="$MCCodeGenInfo_8h.html" title="llvm/MC/MCCodeGenInfo.h" alt="" coords="2352,80,2543,107"/>
+<area shape="rect" id="node44" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2210,468,2416,495"/>
+<area shape="rect" id="node45" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="2567,155,2726,181"/>
+<area shape="rect" id="node47" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2274,304,2456,331"/>
+<area shape="rect" id="node48" href="$FormattedStream_8h.html" title="llvm/Support/FormattedStream.h" alt="" coords="104,386,338,413"/>
+<area shape="rect" id="node49" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="2652,304,2859,331"/>
+<area shape="rect" id="node7" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="2879,386,3051,413"/>
+<area shape="rect" id="node9" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2836,468,3001,495"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1200,550,1351,577"/>
+<area shape="rect" id="node16" href="$MCAsmInfoELF_8h.html" title="llvm/MC/MCAsmInfoELF.h" alt="" coords="1082,155,1262,181"/>
+<area shape="rect" id="node17" href="$MCAsmInfo_8h.html" title="llvm/MC/MCAsmInfo.h" alt="" coords="438,229,598,256"/>
+<area shape="rect" id="node18" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="794,304,965,331"/>
+<area shape="rect" id="node19" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="414,386,556,413"/>
+<area shape="rect" id="node20" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="573,468,720,495"/>
+<area shape="rect" id="node23" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="499,707,674,733"/>
+<area shape="rect" id="node26" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="245,468,448,495"/>
+<area shape="rect" id="node21" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="600,550,770,577"/>
+<area shape="rect" id="node22" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="386,632,549,659"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="886,632,1076,659"/>
+<area shape="rect" id="node25" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="674,632,861,659"/>
+<area shape="rect" id="node28" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="1286,155,1454,181"/>
+<area shape="rect" id="node29" href="$MCAssembler_8h.html" title="llvm/MC/MCAssembler.h" alt="" coords="1098,229,1272,256"/>
+<area shape="rect" id="node35" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="998,379,1212,420"/>
+<area shape="rect" id="node40" href="$MCWinEH_8h.html" title="llvm/MC/MCWinEH.h" alt="" coords="1296,229,1444,256"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1237,386,1400,413"/>
+<area shape="rect" id="node34" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="1650,468,1781,495"/>
+<area shape="rect" id="node31" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1150,468,1335,495"/>
+<area shape="rect" id="node32" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1375,543,1552,584"/>
+<area shape="rect" id="node37" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1627,550,1826,577"/>
+<area shape="rect" id="node38" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="1948,386,2148,413"/>
+<area shape="rect" id="node39" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2059,468,2186,495"/>
+<area shape="rect" id="node42" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2532,386,2710,413"/>
+<area shape="rect" id="node43" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="2542,468,2710,495"/>
+<area shape="rect" id="node46" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="2324,229,2492,256"/>
+<area shape="rect" id="node50" href="$include_2llvm-c_2Disassembler_8h.html" title="llvm&#45;c/Disassembler.h" alt="" coords="2718,550,2881,577"/>
+</map>

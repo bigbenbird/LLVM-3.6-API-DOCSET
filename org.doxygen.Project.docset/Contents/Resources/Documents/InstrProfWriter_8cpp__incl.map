@@ -1,0 +1,31 @@
+<map id="InstrProfWriter.cpp" name="InstrProfWriter.cpp">
+<area shape="rect" id="node2" href="$InstrProfWriter_8h.html" title="llvm/ProfileData/InstrProf\lWriter.h" alt="" coords="1418,304,1597,345"/>
+<area shape="rect" id="node40" href="$InstrProfIndexed_8h.html" title="InstrProfIndexed.h" alt="" coords="2479,155,2616,181"/>
+<area shape="rect" id="node47" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2253,468,2425,495"/>
+<area shape="rect" id="node48" href="$EndianStream_8h.html" title="llvm/Support/EndianStream.h" alt="" coords="3081,155,3291,181"/>
+<area shape="rect" id="node49" href="$OnDiskHashTable_8h.html" title="Defines facilities for reading and writing on&#45;disk hash tables. " alt="" coords="2281,80,2510,107"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1335,468,1482,495"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1011,543,1174,569"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1881,393,2040,420"/>
+<area shape="rect" id="node38" href="$InstrProf_8h.html" title="llvm/ProfileData/InstrProf.h" alt="" coords="2659,393,2849,420"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3085,468,3287,495"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="93,543,221,569"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="393,543,550,569"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1642,543,1813,569"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1793,781,1968,808"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="364,699,549,726"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1391,617,1554,644"/>
+<area shape="rect" id="node17" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1989,617,2180,644"/>
+<area shape="rect" id="node24" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="927,699,1114,726"/>
+<area shape="rect" id="node18" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2200,699,2417,726"/>
+<area shape="rect" id="node28" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1181,617,1367,644"/>
+<area shape="rect" id="node29" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2441,692,2619,733"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2309,543,2460,569"/>
+<area shape="rect" id="node35" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1952,468,2127,495"/>
+<area shape="rect" id="node36" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="2688,543,2857,569"/>
+<area shape="rect" id="node41" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2691,229,2854,256"/>
+<area shape="rect" id="node44" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2501,468,2708,495"/>
+<area shape="rect" id="node45" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="1709,393,1857,420"/>
+<area shape="rect" id="node42" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="2579,311,2729,338"/>
+<area shape="rect" id="node46" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1709,468,1877,495"/>
+</map>

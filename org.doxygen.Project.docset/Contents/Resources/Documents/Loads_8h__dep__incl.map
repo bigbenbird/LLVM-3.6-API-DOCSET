@@ -1,0 +1,12 @@
+<map id="Loads.h" name="Loads.h">
+<area shape="rect" id="node2" href="$Lint_8cpp.html" title="Lint.cpp" alt="" coords="5,80,77,107"/>
+<area shape="rect" id="node3" href="$Loads_8cpp.html" title="Loads.cpp" alt="" coords="102,80,189,107"/>
+<area shape="rect" id="node4" href="$FastISel_8cpp.html" title="FastISel.cpp" alt="" coords="213,80,312,107"/>
+<area shape="rect" id="node5" href="$InstCombineLoadStoreAlloca_8cpp.html" title="InstCombineLoadStoreAlloca.cpp" alt="" coords="337,80,570,107"/>
+<area shape="rect" id="node6" href="$GVN_8cpp.html" title="GVN.cpp" alt="" coords="594,80,673,107"/>
+<area shape="rect" id="node7" href="$JumpThreading_8cpp.html" title="JumpThreading.cpp" alt="" coords="697,80,841,107"/>
+<area shape="rect" id="node8" href="$MergedLoadStoreMotion_8cpp.html" title="This pass performs merges of loads and stores on both sides of a. " alt="" coords="866,80,1073,107"/>
+<area shape="rect" id="node9" href="$ScalarReplAggregates_8cpp.html" title="ScalarReplAggregates.cpp" alt="" coords="1097,80,1287,107"/>
+<area shape="rect" id="node10" href="$SROA_8cpp.html" title="SROA.cpp" alt="" coords="1311,80,1396,107"/>
+<area shape="rect" id="node11" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="1419,80,1618,107"/>
+</map>

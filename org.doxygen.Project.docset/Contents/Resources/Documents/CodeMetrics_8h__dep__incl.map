@@ -1,0 +1,9 @@
+<map id="CodeMetrics.h" name="CodeMetrics.h">
+<area shape="rect" id="node2" href="$CodeMetrics_8cpp.html" title="CodeMetrics.cpp" alt="" coords="5,80,133,107"/>
+<area shape="rect" id="node3" href="$InlineCost_8cpp.html" title="InlineCost.cpp" alt="" coords="158,80,269,107"/>
+<area shape="rect" id="node4" href="$LoopRotation_8cpp.html" title="LoopRotation.cpp" alt="" coords="293,80,425,107"/>
+<area shape="rect" id="node5" href="$LoopUnrollPass_8cpp.html" title="LoopUnrollPass.cpp" alt="" coords="449,80,596,107"/>
+<area shape="rect" id="node6" href="$LoopUnswitch_8cpp.html" title="LoopUnswitch.cpp" alt="" coords="621,80,758,107"/>
+<area shape="rect" id="node7" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="783,80,921,107"/>
+<area shape="rect" id="node8" href="$SLPVectorizer_8cpp.html" title="SLPVectorizer.cpp" alt="" coords="945,80,1081,107"/>
+</map>

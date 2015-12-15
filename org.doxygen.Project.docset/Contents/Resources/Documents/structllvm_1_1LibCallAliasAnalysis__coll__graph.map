@@ -1,0 +1,10 @@
+<map id="llvm::LibCallAliasAnalysis" name="llvm::LibCallAliasAnalysis">
+<area shape="rect" id="node2" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="5,132,144,159"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="67,5,152,32"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="115,81,245,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="353,361,492,388"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="106,272,267,299"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="357,272,488,299"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="107,183,261,209"/>
+<area shape="rect" id="node11" href="$classllvm_1_1LibCallInfo.html" title="llvm::LibCallInfo" alt="" coords="661,361,781,388"/>
+</map>

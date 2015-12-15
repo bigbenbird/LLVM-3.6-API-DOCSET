@@ -1,0 +1,51 @@
+<map id="Statistic.h" name="Statistic.h">
+<area shape="rect" id="node2" href="$DependenceAnalysis_8cpp.html" title="DependenceAnalysis.cpp" alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node3" href="$InstCount_8cpp.html" title="InstCount.cpp" alt="" coords="212,80,323,107"/>
+<area shape="rect" id="node4" href="$InstructionSimplify_8cpp.html" title="InstructionSimplify.cpp" alt="" coords="347,80,511,107"/>
+<area shape="rect" id="node5" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="535,80,701,107"/>
+<area shape="rect" id="node6" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="726,80,867,107"/>
+<area shape="rect" id="node7" href="$InlineCost_8cpp.html" title="InlineCost.cpp" alt="" coords="892,80,1003,107"/>
+<area shape="rect" id="node8" href="$MemoryBuiltins_8cpp.html" title="MemoryBuiltins.cpp" alt="" coords="1027,80,1174,107"/>
+<area shape="rect" id="node9" href="$MemoryDependenceAnalysis_8cpp.html" title="MemoryDependenceAnalysis.cpp" alt="" coords="1198,80,1433,107"/>
+<area shape="rect" id="node10" href="$ModuleDebugInfoPrinter_8cpp.html" title="ModuleDebugInfoPrinter.cpp" alt="" coords="1457,80,1659,107"/>
+<area shape="rect" id="node11" href="$RegionInfo_8cpp.html" title="RegionInfo.cpp" alt="" coords="1683,80,1798,107"/>
+<area shape="rect" id="node12" href="$RegionPrinter_8cpp.html" title="RegionPrinter.cpp" alt="" coords="1823,80,1955,107"/>
+<area shape="rect" id="node13" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="1979,80,2126,107"/>
+<area shape="rect" id="node14" href="$AsmPrinter_8cpp.html" title="AsmPrinter.cpp" alt="" coords="2151,80,2269,107"/>
+<area shape="rect" id="node15" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="2293,80,2420,107"/>
+<area shape="rect" id="node16" href="$BranchFolding_8cpp.html" title="BranchFolding.cpp" alt="" coords="2445,80,2583,107"/>
+<area shape="rect" id="node17" href="$CodeGenPrepare_8cpp.html" title="CodeGenPrepare.cpp" alt="" coords="2608,80,2767,107"/>
+<area shape="rect" id="node18" href="$DeadMachineInstructionElim_8cpp.html" title="DeadMachineInstructionElim.cpp" alt="" coords="2791,80,3021,107"/>
+<area shape="rect" id="node19" href="$DwarfEHPrepare_8cpp.html" title="DwarfEHPrepare.cpp" alt="" coords="3045,80,3199,107"/>
+<area shape="rect" id="node20" href="$EarlyIfConversion_8cpp.html" title="EarlyIfConversion.cpp" alt="" coords="3223,80,3381,107"/>
+<area shape="rect" id="node21" href="$ForwardControlFlowIntegrity_8cpp.html" title="A pass that instruments code with fast checks for indirect calls and hooks for a function to check vi..." alt="" coords="3405,80,3628,107"/>
+<area shape="rect" id="node22" href="$GlobalMerge_8cpp.html" title="GlobalMerge.cpp" alt="" coords="3652,80,3781,107"/>
+<area shape="rect" id="node23" href="$IfConversion_8cpp.html" title="IfConversion.cpp" alt="" coords="3805,80,3932,107"/>
+<area shape="rect" id="node24" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="3957,80,4077,107"/>
+<area shape="rect" id="node25" href="$JumpInstrTables_8cpp.html" title="An implementation of jump&#45;instruction tables. " alt="" coords="4101,80,4249,107"/>
+<area shape="rect" id="node26" href="$LiveDebugVariables_8cpp.html" title="LiveDebugVariables.cpp" alt="" coords="4273,80,4448,107"/>
+<area shape="rect" id="node27" href="$LiveRangeEdit_8cpp.html" title="LiveRangeEdit.cpp" alt="" coords="4473,80,4611,107"/>
+<area shape="rect" id="node28" href="$LiveRegMatrix_8cpp.html" title="LiveRegMatrix.cpp" alt="" coords="4635,80,4771,107"/>
+<area shape="rect" id="node29" href="$LiveStackAnalysis_8cpp.html" title="LiveStackAnalysis.cpp" alt="" coords="4795,80,4958,107"/>
+<area shape="rect" id="node30" href="$LocalStackSlotAllocation_8cpp.html" title="LocalStackSlotAllocation.cpp" alt="" coords="4982,80,5187,107"/>
+<area shape="rect" id="node31" href="$MachineBlockPlacement_8cpp.html" title="MachineBlockPlacement.cpp" alt="" coords="5212,80,5416,107"/>
+<area shape="rect" id="node32" href="$MachineCombiner_8cpp.html" title="MachineCombiner.cpp" alt="" coords="5441,80,5603,107"/>
+<area shape="rect" id="node33" href="$MachineCopyPropagation_8cpp.html" title="MachineCopyPropagation.cpp" alt="" coords="5627,80,5838,107"/>
+<area shape="rect" id="node34" href="$MachineCSE_8cpp.html" title="MachineCSE.cpp" alt="" coords="5862,80,5990,107"/>
+<area shape="rect" id="node35" href="$MachineLICM_8cpp.html" title="MachineLICM.cpp" alt="" coords="6015,80,6147,107"/>
+<area shape="rect" id="node36" href="$MachineRegionInfo_8cpp.html" title="MachineRegionInfo.cpp" alt="" coords="6171,80,6337,107"/>
+<area shape="rect" id="node37" href="$MachineSink_8cpp.html" title="MachineSink.cpp" alt="" coords="6361,80,6491,107"/>
+<area shape="rect" id="node38" href="$OptimizePHIs_8cpp.html" title="OptimizePHIs.cpp" alt="" coords="6515,80,6649,107"/>
+<area shape="rect" id="node39" href="$PeepholeOptimizer_8cpp.html" title="PeepholeOptimizer.cpp" alt="" coords="6673,80,6843,107"/>
+<area shape="rect" id="node40" href="$PHIElimination_8cpp.html" title="PHIElimination.cpp" alt="" coords="6867,80,7007,107"/>
+<area shape="rect" id="node41" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="7031,80,7210,107"/>
+<area shape="rect" id="node42" href="$PrologEpilogInserter_8cpp.html" title="PrologEpilogInserter.cpp" alt="" coords="7235,80,7409,107"/>
+<area shape="rect" id="node43" href="$RegAllocBase_8cpp.html" title="RegAllocBase.cpp" alt="" coords="7433,80,7568,107"/>
+<area shape="rect" id="node44" href="$RegAllocFast_8cpp.html" title="RegAllocFast.cpp" alt="" coords="7593,80,7721,107"/>
+<area shape="rect" id="node45" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="7745,80,7891,107"/>
+<area shape="rect" id="node46" href="$RegisterCoalescer_8cpp.html" title="RegisterCoalescer.cpp" alt="" coords="7915,80,8078,107"/>
+<area shape="rect" id="node47" href="$DAGCombiner_8cpp.html" title="DAGCombiner.cpp" alt="" coords="8102,80,8241,107"/>
+<area shape="rect" id="node48" href="$FastISel_8cpp.html" title="FastISel.cpp" alt="" coords="8265,80,8363,107"/>
+<area shape="rect" id="node49" href="$InstrEmitter_8cpp.html" title="InstrEmitter.cpp" alt="" coords="8387,80,8510,107"/>
+<area shape="rect" id="node50" href="$ScheduleDAGFast_8cpp.html" title="ScheduleDAGFast.cpp" alt="" coords="8534,80,8697,107"/>
+</map>

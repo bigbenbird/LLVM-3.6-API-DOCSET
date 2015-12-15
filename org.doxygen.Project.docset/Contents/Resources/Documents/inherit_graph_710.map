@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; Value *,\l ValueHandleBase *, DenseMap\lInfo\&lt; Value * \&gt;, detail::\lDenseMapPair\&lt; Value *, ValueHandle\lBase * \&gt; \&gt;, Value *, ValueHandleBase\l *, DenseMapInfo\&lt; Value * \&gt;, detail\l::DenseMapPair\&lt; Value *, ValueHandleBase * \&gt; \&gt;" alt="" coords="5,5,348,135"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Value\l *, ValueHandleBase * \&gt;" alt="" coords="396,49,575,91"/>
+</map>

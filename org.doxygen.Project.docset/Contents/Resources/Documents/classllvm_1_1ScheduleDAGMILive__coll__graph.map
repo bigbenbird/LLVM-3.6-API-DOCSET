@@ -1,0 +1,40 @@
+<map id="llvm::ScheduleDAGMILive" name="llvm::ScheduleDAGMILive">
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGMI.html" title="llvm::ScheduleDAGMI" alt="" coords="2017,1481,2176,1508"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAGInstrs.html" title="llvm::ScheduleDAGInstrs" alt="" coords="1603,580,1782,607"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="1204,747,1348,773"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="794,808,957,835"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SUnit.html" title="SUnit &#45; Scheduling unit. This is a node in the scheduling DAG. " alt="" coords="830,1008,921,1035"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDep, 4 \&gt;" alt="" coords="425,906,569,947"/>
+<area shape="rect" id="node8" href="$structllvm_1_1MCSchedClassDesc.html" title="llvm::MCSchedClassDesc" alt="" coords="405,972,588,999"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="415,544,578,571"/>
+<area shape="rect" id="node27" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="429,595,564,621"/>
+<area shape="rect" id="node36" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="806,1532,945,1559"/>
+<area shape="rect" id="node39" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="416,1497,577,1524"/>
+<area shape="rect" id="node10" href="$classbool.html" title="bool" alt="" coords="76,684,125,711"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="61,1303,141,1329"/>
+<area shape="rect" id="node13" href="$classllvm_1_1TargetRegisterClass.html" title="llvm::TargetRegisterClass" alt="" coords="407,1073,587,1100"/>
+<area shape="rect" id="node14" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="612,1319,760,1345"/>
+<area shape="rect" id="node16" href="$classllvm_1_1MachineRegisterInfo.html" title="llvm::MachineRegisterInfo" alt="" coords="784,909,967,936"/>
+<area shape="rect" id="node17" href="$classllvm_1_1TargetRegisterInfo.html" title="llvm::TargetRegisterInfo" alt="" coords="791,707,960,733"/>
+<area shape="rect" id="node18" href="$classllvm_1_1TargetInstrInfo.html" title="llvm::TargetInstrInfo" alt="" coords="802,757,949,784"/>
+<area shape="rect" id="node20" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="5,544,196,571"/>
+<area shape="rect" id="node21" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineInstr *, llvm\l::SUnit * \&gt;" alt="" coords="1193,797,1359,853"/>
+<area shape="rect" id="node24" href="$classllvm_1_1MachineFrameInfo.html" title="Abstract Stack Frame Information. " alt="" coords="1190,140,1362,167"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SparseSet.html" title="llvm::SparseSet\&lt; VReg2SUnit,\l VirtReg2IndexFunctor \&gt;" alt="" coords="1167,242,1385,283"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; PhysRegSUOper, llvm\l::identity\&lt; unsigned \&gt;\l, uint16_t \&gt;" alt="" coords="1189,307,1363,378"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1187,403,1365,429"/>
+<area shape="rect" id="node30" href="$classllvm_1_1MachineInstr.html" title="llvm::MachineInstr" alt="" coords="1207,453,1345,480"/>
+<area shape="rect" id="node31" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; VReg2SUnit, VirtReg2Index\lFunctor \&gt;" alt="" coords="1173,656,1379,712"/>
+<area shape="rect" id="node32" href="$classllvm_1_1TargetSchedModel.html" title="Provide an instruction scheduling machine model to CodeGen passes. " alt="" coords="1189,943,1363,969"/>
+<area shape="rect" id="node33" href="$classllvm_1_1BitVector.html" title="llvm::BitVector" alt="" coords="1219,1700,1333,1727"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ScheduleDAGTopologicalSort.html" title="llvm::ScheduleDAGTopologicalSort" alt="" coords="1573,1481,1813,1508"/>
+<area shape="rect" id="node38" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="431,1548,562,1575"/>
+<area shape="rect" id="node41" href="$structllvm_1_1IntervalPressure.html" title="llvm::IntervalPressure" alt="" coords="2017,1764,2176,1791"/>
+<area shape="rect" id="node42" href="$structllvm_1_1RegisterPressure.html" title="Base class for register pressure results. " alt="" coords="1611,1813,1774,1840"/>
+<area shape="rect" id="node44" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l unsigned, 8 \&gt;" alt="" coords="1204,1835,1348,1877"/>
+<area shape="rect" id="node45" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes. " alt="" coords="1635,1763,1750,1789"/>
+<area shape="rect" id="node46" href="$classllvm_1_1RegPressureTracker.html" title="llvm::RegPressureTracker" alt="" coords="2007,1833,2187,1860"/>
+<area shape="rect" id="node47" href="$classllvm_1_1RegisterClassInfo.html" title="llvm::RegisterClassInfo" alt="" coords="2015,1884,2179,1911"/>
+<area shape="rect" id="node48" href="$classllvm_1_1PressureDiffs.html" title="Array of PressureDiffs. " alt="" coords="2027,1935,2167,1961"/>
+<area shape="rect" id="node50" href="$classllvm_1_1SchedDFSResult.html" title="Compute the values of each DAG node for various metrics during DFS. " alt="" coords="2017,2036,2177,2063"/>
+</map>

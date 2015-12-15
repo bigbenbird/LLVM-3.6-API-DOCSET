@@ -1,0 +1,11 @@
+<map id="llvm::IndexedMap&lt; T, ToIndexT &gt;" name="llvm::IndexedMap&lt; T, ToIndexT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; LiveOut\lPair, MBB2NumberFunctor \&gt;" alt="" coords="447,37,651,78"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; std\l::pair\&lt; unsigned, unsigned\l \&gt;, llvm::VirtReg2IndexFunctor \&gt;" alt="" coords="435,103,663,159"/>
+<area shape="rect" id="node4" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; llvm\l::LiveInterval *, llvm\l::VirtReg2IndexFunctor \&gt;" alt="" coords="459,183,638,239"/>
+<area shape="rect" id="node5" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; std\l::pair\&lt; const llvm::TargetRegister\lClass *, llvm::MachineOperand\l * \&gt;, llvm::VirtReg2IndexFunctor \&gt;" alt="" coords="429,263,668,334"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; llvm\l::FunctionLoweringInfo\l::LiveOutInfo, llvm::VirtReg2Index\lFunctor \&gt;" alt="" coords="433,358,664,429"/>
+<area shape="rect" id="node7" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; unsigned \&gt;" alt="" coords="438,453,659,480"/>
+<area shape="rect" id="node8" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; llvm\l::LiveVariables::VarInfo,\l llvm::VirtReg2IndexFunctor \&gt;" alt="" coords="444,504,653,560"/>
+<area shape="rect" id="node9" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; int,\l llvm::VirtReg2IndexFunctor \&gt;" alt="" coords="444,583,653,625"/>
+<area shape="rect" id="node10" href="$classllvm_1_1IndexedMap.html" title="llvm::IndexedMap\&lt; unsigned,\l llvm::VirtReg2IndexFunctor \&gt;" alt="" coords="443,649,654,690"/>
+</map>

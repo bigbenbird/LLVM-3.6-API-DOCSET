@@ -1,0 +1,15 @@
+<map id="llvm::MipsModuleDAGToDAGISel" name="llvm::MipsModuleDAGToDAGISel">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="1471,5,1661,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="1261,5,1400,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="1058,5,1143,32"/>
+<area shape="rect" id="node22" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="749,471,877,497"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MipsTargetMachine.html" title="llvm::MipsTargetMachine" alt="" coords="1477,148,1655,175"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1240,273,1421,300"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1027,772,1175,799"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="741,1159,885,1185"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="286,1061,450,1088"/>
+<area shape="rect" id="node16" href="$classbool.html" title="bool" alt="" coords="10,864,59,891"/>
+<area shape="rect" id="node19" href="$classunsigned.html" title="unsigned" alt="" coords="328,824,408,851"/>
+<area shape="rect" id="node20" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="765,721,860,748"/>
+<area shape="rect" id="node21" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="733,772,892,799"/>
+</map>

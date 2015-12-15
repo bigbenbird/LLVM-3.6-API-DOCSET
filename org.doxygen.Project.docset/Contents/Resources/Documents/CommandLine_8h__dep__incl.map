@@ -1,0 +1,51 @@
+<map id="CommandLine.h" name="CommandLine.h">
+<area shape="rect" id="node2" href="$RegionInfoImpl_8h.html" title="RegionInfoImpl.h" alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node3" href="$RegionInfo_8cpp.html" title="RegionInfo.cpp" alt="" coords="13,155,127,181"/>
+<area shape="rect" id="node4" href="$CommandFlags_8h.html" title="CommandFlags.h" alt="" coords="504,155,639,181"/>
+<area shape="rect" id="node5" href="$MachinePassRegistry_8h.html" title="MachinePassRegistry.h" alt="" coords="259,80,423,107"/>
+<area shape="rect" id="node6" href="$LegacyPassNameParser_8h.html" title="LegacyPassNameParser.h" alt="" coords="447,80,634,107"/>
+<area shape="rect" id="node7" href="$IR_2PassManager_8h.html" title="PassManager.h" alt="" coords="659,80,777,107"/>
+<area shape="rect" id="node8" href="$MCTargetOptionsCommandFlags_8h.html" title="MCTargetOptionsCommandFlags.h" alt="" coords="802,80,1045,107"/>
+<area shape="rect" id="node9" href="$Options_8h.html" title="Options.h" alt="" coords="1069,80,1151,107"/>
+<area shape="rect" id="node10" href="$PluginLoader_8h.html" title="PluginLoader.h" alt="" coords="1175,80,1290,107"/>
+<area shape="rect" id="node11" href="$RegistryParser_8h.html" title="RegistryParser.h" alt="" coords="1314,80,1437,107"/>
+<area shape="rect" id="node12" href="$SimplifyIndVar_8h.html" title="SimplifyIndVar.h" alt="" coords="1461,80,1583,107"/>
+<area shape="rect" id="node13" href="$AliasAnalysisCounter_8cpp.html" title="AliasAnalysisCounter.cpp" alt="" coords="1607,80,1789,107"/>
+<area shape="rect" id="node14" href="$AliasAnalysisEvaluator_8cpp.html" title="AliasAnalysisEvaluator.cpp" alt="" coords="1813,80,2004,107"/>
+<area shape="rect" id="node15" href="$BlockFrequencyInfo_8cpp.html" title="BlockFrequencyInfo.cpp" alt="" coords="2029,80,2199,107"/>
+<area shape="rect" id="node16" href="$CGSCCPassManager_8cpp.html" title="CGSCCPassManager.cpp" alt="" coords="2223,80,2402,107"/>
+<area shape="rect" id="node17" href="$CostModel_8cpp.html" title="CostModel.cpp" alt="" coords="2427,80,2543,107"/>
+<area shape="rect" id="node18" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="2567,80,2711,107"/>
+<area shape="rect" id="node19" href="$DependenceAnalysis_8cpp.html" title="DependenceAnalysis.cpp" alt="" coords="2736,80,2919,107"/>
+<area shape="rect" id="node20" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="2943,80,3109,107"/>
+<area shape="rect" id="node21" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="3134,80,3275,107"/>
+<area shape="rect" id="node22" href="$LoopInfo_8cpp.html" title="LoopInfo.cpp" alt="" coords="3300,80,3403,107"/>
+<area shape="rect" id="node23" href="$RegionPrinter_8cpp.html" title="RegionPrinter.cpp" alt="" coords="3427,80,3559,107"/>
+<area shape="rect" id="node24" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="3583,80,3730,107"/>
+<area shape="rect" id="node25" href="$ScopedNoAliasAA_8cpp.html" title="ScopedNoAliasAA.cpp" alt="" coords="3754,80,3917,107"/>
+<area shape="rect" id="node26" href="$TypeBasedAliasAnalysis_8cpp.html" title="TypeBasedAliasAnalysis.cpp" alt="" coords="3941,80,4140,107"/>
+<area shape="rect" id="node27" href="$BitcodeWriter_8cpp.html" title="BitcodeWriter.cpp" alt="" coords="4164,80,4296,107"/>
+<area shape="rect" id="node28" href="$AggressiveAntiDepBreaker_8cpp.html" title="AggressiveAntiDepBreaker.cpp" alt="" coords="4321,80,4539,107"/>
+<area shape="rect" id="node29" href="$ARMException_8cpp.html" title="ARMException.cpp" alt="" coords="4563,80,4702,107"/>
+<area shape="rect" id="node30" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="4727,80,4853,107"/>
+<area shape="rect" id="node31" href="$DwarfUnit_8cpp.html" title="DwarfUnit.cpp" alt="" coords="4877,80,4988,107"/>
+<area shape="rect" id="node32" href="$BasicTargetTransformInfo_8cpp.html" title="BasicTargetTransformInfo.cpp" alt="" coords="5013,80,5221,107"/>
+<area shape="rect" id="node33" href="$BranchFolding_8cpp.html" title="BranchFolding.cpp" alt="" coords="5245,80,5383,107"/>
+<area shape="rect" id="node34" href="$CodeGenPrepare_8cpp.html" title="CodeGenPrepare.cpp" alt="" coords="5408,80,5567,107"/>
+<area shape="rect" id="node35" href="$EarlyIfConversion_8cpp.html" title="EarlyIfConversion.cpp" alt="" coords="5591,80,5749,107"/>
+<area shape="rect" id="node36" href="$EdgeBundles_8cpp.html" title="EdgeBundles.cpp" alt="" coords="5773,80,5905,107"/>
+<area shape="rect" id="node37" href="$ForwardControlFlowIntegrity_8cpp.html" title="A pass that instruments code with fast checks for indirect calls and hooks for a function to check vi..." alt="" coords="5929,80,6152,107"/>
+<area shape="rect" id="node38" href="$GlobalMerge_8cpp.html" title="GlobalMerge.cpp" alt="" coords="6176,80,6305,107"/>
+<area shape="rect" id="node39" href="$IfConversion_8cpp.html" title="IfConversion.cpp" alt="" coords="6329,80,6456,107"/>
+<area shape="rect" id="node40" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="6481,80,6601,107"/>
+<area shape="rect" id="node41" href="$JumpInstrTables_8cpp.html" title="An implementation of jump&#45;instruction tables. " alt="" coords="6625,80,6773,107"/>
+<area shape="rect" id="node42" href="$LiveDebugVariables_8cpp.html" title="LiveDebugVariables.cpp" alt="" coords="6797,80,6972,107"/>
+<area shape="rect" id="node43" href="$LiveIntervalAnalysis_8cpp.html" title="LiveIntervalAnalysis.cpp" alt="" coords="6997,80,7170,107"/>
+<area shape="rect" id="node44" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="7195,80,7369,107"/>
+<area shape="rect" id="node45" href="$MachineBlockFrequencyInfo_8cpp.html" title="MachineBlockFrequencyInfo.cpp" alt="" coords="7394,80,7618,107"/>
+<area shape="rect" id="node46" href="$MachineBlockPlacement_8cpp.html" title="MachineBlockPlacement.cpp" alt="" coords="7643,80,7847,107"/>
+<area shape="rect" id="node47" href="$MachineCombiner_8cpp.html" title="MachineCombiner.cpp" alt="" coords="7871,80,8034,107"/>
+<area shape="rect" id="node48" href="$MachineLICM_8cpp.html" title="MachineLICM.cpp" alt="" coords="8059,80,8191,107"/>
+<area shape="rect" id="node49" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="8215,80,8381,107"/>
+<area shape="rect" id="node50" href="$MachineSink_8cpp.html" title="MachineSink.cpp" alt="" coords="8405,80,8535,107"/>
+</map>

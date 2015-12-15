@@ -1,0 +1,10 @@
+<map id="llvm::LiveRangeEdit::Remat" name="llvm::LiveRangeEdit::Remat">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineInstr.html" title="llvm::MachineInstr" alt="" coords="85,317,222,344"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lInstr \&gt;" alt="" coords="45,213,229,255"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; MachineInstr \&gt;" alt="" coords="5,109,152,151"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="108,5,255,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="176,117,368,143"/>
+<area shape="rect" id="node7" href="$classllvm_1_1VNInfo.html" title="llvm::VNInfo" alt="" coords="261,317,360,344"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes. " alt="" coords="253,221,368,247"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title="unsigned" alt="" coords="392,221,472,247"/>
+</map>

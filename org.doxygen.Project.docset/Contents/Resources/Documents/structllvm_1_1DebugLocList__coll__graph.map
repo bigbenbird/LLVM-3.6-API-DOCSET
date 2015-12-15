@@ -1,0 +1,47 @@
+<map id="llvm::DebugLocList" name="llvm::DebugLocList">
+<area shape="rect" id="node2" href="$classllvm_1_1DwarfCompileUnit.html" title="llvm::DwarfCompileUnit" alt="" coords="2600,595,2771,622"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DwarfUnit.html" title="llvm::DwarfUnit" alt="" coords="2432,595,2551,622"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer. " alt="" coords="2036,217,2231,273"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; AllocatorT, SlabSize,\l SizeThreshold \&gt; \&gt;" alt="" coords="1601,173,1777,244"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators..." alt="" coords="1145,188,1289,229"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DwarfFile.html" title="llvm::DwarfFile" alt="" coords="2077,363,2189,390"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DwarfDebug.html" title="Collects and handles dwarf debug information. " alt="" coords="2066,414,2201,441"/>
+<area shape="rect" id="node10" href="$classllvm_1_1AsmPrinterHandler.html" title="Collects and handles AsmPrinter objects required to build debug or EH information. " alt="" coords="1600,269,1777,295"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DIE.html" title="llvm::DIE" alt="" coords="2095,503,2172,530"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::DIEValue *, 12 \&gt;" alt="" coords="1605,320,1772,361"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::DIEValue * \&gt;" alt="" coords="1137,283,1297,324"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\&lt; T \&gt;" alt="" coords="715,114,912,141"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="1145,113,1289,155"/>
+<area shape="rect" id="node49" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::DebugLocEntry \&gt;" alt="" coords="1125,35,1308,76"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike\&lt; T \&gt;\l::value \&gt;" alt="" coords="245,95,436,151"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="5,63,196,104"/>
+<area shape="rect" id="node50" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::DebugLocEntry,\l isPodLike\&lt; llvm::DebugLocEntry\l \&gt;::value \&gt;" alt="" coords="460,21,691,92"/>
+<area shape="rect" id="node48" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::DebugLocEntry, 4 \&gt;" alt="" coords="1595,5,1783,47"/>
+<area shape="rect" id="node19" href="$classllvm_1_1DIEAbbrev.html" title="llvm::DIEAbbrev" alt="" coords="1627,386,1750,413"/>
+<area shape="rect" id="node20" href="$classllvm_1_1FoldingSetImpl_1_1Node.html" title="FoldingSetNode" alt="" coords="1155,386,1278,413"/>
+<area shape="rect" id="node21" href="$classunsigned.html" title="unsigned" alt="" coords="773,834,853,861"/>
+<area shape="rect" id="node38" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1615,1425,1763,1451"/>
+<area shape="rect" id="node39" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="1153,1363,1281,1390"/>
+<area shape="rect" id="node22" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::DIEEntry * \&gt;" alt="" coords="2046,703,2221,759"/>
+<area shape="rect" id="node23" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::MDNode *, llvm::DIEEntry\l *, DenseMapInfo\&lt; const llvm\l::MDNode * \&gt;, detail::DenseMapPair\l\&lt; const llvm::MDNode *, llvm::DIEEntry\l * \&gt; \&gt;, const llvm::MDNode *, llvm::\lDIEEntry *, DenseMapInfo\&lt; const llvm\l::MDNode * \&gt;, detail::DenseMapPair\&lt; const\l llvm::MDNode *, llvm::DIEEntry * \&gt; \&gt;" alt="" coords="1537,683,1840,841"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="1587,1048,1790,1089"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::DIE * \&gt;" alt="" coords="2046,1041,2221,1097"/>
+<area shape="rect" id="node30" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::DIE *, const llvm::\lMDNode * \&gt;" alt="" coords="2051,917,2216,973"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::MDNode *, llvm::DIE\l *, DenseMapInfo\&lt; const\l llvm::MDNode * \&gt;, detail\l::DenseMapPair\&lt; const llvm\l::MDNode *, llvm::DIE * \&gt; \&gt;\l, const llvm::MDNode *, llvm\l::DIE *, DenseMapInfo\&lt; const\l llvm::MDNode * \&gt;, detail::DenseMapPair\l\&lt; const llvm::MDNode *, llvm::DIE * \&gt; \&gt;" alt="" coords="1547,1114,1830,1287"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DIEInteger.html" title="llvm::DIEInteger" alt="" coords="2072,1217,2195,1243"/>
+<area shape="rect" id="node29" href="$classllvm_1_1DIEValue.html" title="llvm::DIEValue" alt="" coords="1633,1311,1745,1338"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::DIE\l *, const llvm::MDNode\l *, DenseMapInfo\&lt; llvm\l::DIE * \&gt;, detail::DenseMapPair\l\&lt; llvm::DIE *, const llvm::MDNode\l * \&gt; \&gt;, llvm::DIE *, const llvm\l::MDNode *, DenseMapInfo\&lt; llvm::DIE\l * \&gt;, detail::DenseMapPair\&lt; llvm::DIE\l *, const llvm::MDNode * \&gt; \&gt;" alt="" coords="1556,865,1821,1024"/>
+<area shape="rect" id="node32" href="$classllvm_1_1AsmPrinter.html" title="This class is intended to be used as a driving class for all asm writers. " alt="" coords="2070,1577,2197,1603"/>
+<area shape="rect" id="node33" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="1593,1577,1784,1603"/>
+<area shape="rect" id="node34" href="$classllvm_1_1MCStreamer.html" title="llvm::MCStreamer" alt="" coords="1620,1627,1757,1654"/>
+<area shape="rect" id="node35" href="$classllvm_1_1Mangler.html" title="llvm::Mangler" alt="" coords="1635,1678,1742,1705"/>
+<area shape="rect" id="node36" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1607,1779,1770,1806"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MachineModuleInfo.html" title="llvm::MachineModuleInfo" alt="" coords="1599,1830,1778,1857"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MCInstrInfo.html" title="llvm::MCInstrInfo" alt="" coords="1625,1475,1752,1502"/>
+<area shape="rect" id="node41" href="$classllvm_1_1MCSymbol.html" title="llvm::MCSymbol" alt="" coords="1627,1729,1751,1755"/>
+<area shape="rect" id="node42" href="$classllvm_1_1MCContext.html" title="llvm::MCContext" alt="" coords="1625,1526,1752,1553"/>
+<area shape="rect" id="node43" href="$classllvm_1_1MCSection.html" title="llvm::MCSection" alt="" coords="2071,122,2195,149"/>
+<area shape="rect" id="node44" href="$classllvm_1_1SectionKind.html" title="llvm::SectionKind" alt="" coords="1623,122,1754,149"/>
+<area shape="rect" id="node46" href="$classllvm_1_1DICompileUnit.html" title="A wrapper for a compile unit. " alt="" coords="2060,562,2207,589"/>
+<area shape="rect" id="node47" href="$classllvm_1_1DIScope.html" title="A base class for various scopes. " alt="" coords="1634,554,1743,581"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TrackingMDRef.h" name="TrackingMDRef.h">
+<area shape="rect" id="node2" href="$MetadataTracking_8h.html" title="llvm/IR/MetadataTracking.h" alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node15" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="115,229,281,256"/>
+<area shape="rect" id="node3" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="375,155,551,181"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="305,229,491,256"/>
+<area shape="rect" id="node10" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="567,229,744,256"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="409,311,584,338"/>
+<area shape="rect" id="node5" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="608,304,785,345"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="105,311,291,338"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::DiagnosticInfoOptimizationFailure" name="llvm::DiagnosticInfoOptimizationFailure">
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks. " alt="" coords="5,80,264,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. The print method must be ove..." alt="" coords="61,5,208,32"/>
+</map>

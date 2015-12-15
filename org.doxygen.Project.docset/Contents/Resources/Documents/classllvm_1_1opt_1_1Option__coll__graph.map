@@ -1,0 +1,5 @@
+<map id="llvm::opt::Option" name="llvm::opt::Option">
+<area shape="rect" id="node2" href="$structllvm_1_1opt_1_1OptTable_1_1Info.html" title="Entry for a single option instance in the option data table. " alt="" coords="7,168,147,209"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="85,5,165,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1opt_1_1OptTable.html" title="Provide access to the Option info table. " alt="" coords="171,175,311,202"/>
+</map>

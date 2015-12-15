@@ -1,0 +1,33 @@
+<map id="llvm::TargetMachine" name="llvm::TargetMachine">
+<area shape="rect" id="node2" href="$structllvm_1_1CPPTargetMachine.html" title="llvm::CPPTargetMachine" alt="" coords="205,335,379,361"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="201,385,383,412"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AArch64TargetMachine.html" title="llvm::AArch64TargetMachine" alt="" coords="433,56,636,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AMDGPUTargetMachine.html" title="llvm::AMDGPUTargetMachine" alt="" coords="431,132,638,159"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ARMBaseTargetMachine.html" title="llvm::ARMBaseTargetMachine" alt="" coords="431,208,639,235"/>
+<area shape="rect" id="node16" href="$classllvm_1_1HexagonTargetMachine.html" title="llvm::HexagonTargetMachine" alt="" coords="432,259,637,285"/>
+<area shape="rect" id="node17" href="$classllvm_1_1MipsTargetMachine.html" title="llvm::MipsTargetMachine" alt="" coords="446,309,623,336"/>
+<area shape="rect" id="node20" href="$classllvm_1_1MSP430TargetMachine.html" title="llvm::MSP430TargetMachine" alt="" coords="435,360,635,387"/>
+<area shape="rect" id="node21" href="$classllvm_1_1NVPTXTargetMachine.html" title="llvm::NVPTXTargetMachine" alt="" coords="439,411,630,437"/>
+<area shape="rect" id="node24" href="$classllvm_1_1PPCTargetMachine.html" title="llvm::PPCTargetMachine" alt="" coords="448,461,621,488"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SparcTargetMachine.html" title="llvm::SparcTargetMachine" alt="" coords="442,512,627,539"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SystemZTargetMachine.html" title="llvm::SystemZTargetMachine" alt="" coords="431,563,638,589"/>
+<area shape="rect" id="node31" href="$classllvm_1_1X86TargetMachine.html" title="llvm::X86TargetMachine" alt="" coords="449,613,621,640"/>
+<area shape="rect" id="node32" href="$classllvm_1_1XCoreTargetMachine.html" title="llvm::XCoreTargetMachine" alt="" coords="442,664,627,691"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AArch64beTargetMachine.html" title="llvm::AArch64beTargetMachine" alt="" coords="687,5,905,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AArch64leTargetMachine.html" title="llvm::AArch64leTargetMachine" alt="" coords="689,56,903,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1GCNTargetMachine.html" title="llvm::GCNTargetMachine" alt="" coords="707,107,885,133"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ARMTargetMachine.html" title="llvm::ARMTargetMachine" alt="" coords="708,157,884,184"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ThumbTargetMachine.html" title="llvm::ThumbTargetMachine" alt="" coords="700,208,892,235"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ARMBETargetMachine.html" title="llvm::ARMBETargetMachine" alt="" coords="961,107,1155,133"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ARMLETargetMachine.html" title="llvm::ARMLETargetMachine" alt="" coords="963,157,1153,184"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ThumbBETargetMachine.html" title="llvm::ThumbBETargetMachine" alt="" coords="953,208,1163,235"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ThumbLETargetMachine.html" title="llvm::ThumbLETargetMachine" alt="" coords="955,259,1161,285"/>
+<area shape="rect" id="node18" href="$classllvm_1_1MipsebTargetMachine.html" title="llvm::MipsebTargetMachine" alt="" coords="699,259,893,285"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MipselTargetMachine.html" title="llvm::MipselTargetMachine" alt="" coords="702,309,890,336"/>
+<area shape="rect" id="node22" href="$classllvm_1_1NVPTXTargetMachine32.html" title="llvm::NVPTXTargetMachine32" alt="" coords="693,360,899,387"/>
+<area shape="rect" id="node23" href="$classllvm_1_1NVPTXTargetMachine64.html" title="llvm::NVPTXTargetMachine64" alt="" coords="693,411,899,437"/>
+<area shape="rect" id="node25" href="$classllvm_1_1PPC32TargetMachine.html" title="llvm::PPC32TargetMachine" alt="" coords="701,461,891,488"/>
+<area shape="rect" id="node26" href="$classllvm_1_1PPC64TargetMachine.html" title="llvm::PPC64TargetMachine" alt="" coords="701,512,891,539"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SparcV8TargetMachine.html" title="llvm::SparcV8TargetMachine" alt="" coords="695,563,897,589"/>
+<area shape="rect" id="node29" href="$classllvm_1_1SparcV9TargetMachine.html" title="llvm::SparcV9TargetMachine" alt="" coords="695,613,897,640"/>
+</map>

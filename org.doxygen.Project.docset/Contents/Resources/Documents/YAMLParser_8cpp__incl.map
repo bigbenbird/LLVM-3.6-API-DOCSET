@@ -1,0 +1,32 @@
+<map id="YAMLParser.cpp" name="YAMLParser.cpp">
+<area shape="rect" id="node2" href="$YAMLParser_8h.html" title="llvm/Support/YAMLParser.h" alt="" coords="2277,80,2467,107"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3245,229,3416,256"/>
+<area shape="rect" id="node28" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="1352,155,1560,181"/>
+<area shape="rect" id="node30" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="297,229,423,256"/>
+<area shape="rect" id="node31" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1098,304,1305,331"/>
+<area shape="rect" id="node39" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2162,304,2334,331"/>
+<area shape="rect" id="node40" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3508,304,3623,331"/>
+<area shape="rect" id="node41" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="3849,80,4004,107"/>
+<area shape="rect" id="node42" href="$SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="1363,80,1549,107"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1380,304,1583,331"/>
+<area shape="rect" id="node3" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="3124,155,3292,181"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2250,386,2401,413"/>
+<area shape="rect" id="node25" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2683,155,2858,181"/>
+<area shape="rect" id="node37" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="1166,155,1327,181"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="llvm/ADT/iterator_range.h" alt="" coords="3287,386,3473,413"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2828,304,2991,331"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1978,468,2153,495"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2562,304,2753,331"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2729,386,2916,413"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1957,386,2174,413"/>
+<area shape="rect" id="node26" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="449,304,618,331"/>
+<area shape="rect" id="node29" href="$Support_8h.html" title="llvm&#45;c/Support.h" alt="" coords="94,386,221,413"/>
+<area shape="rect" id="node32" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1447,229,1681,256"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title="llvm/Support/ErrorOr.h" alt="" coords="1097,229,1261,256"/>
+<area shape="rect" id="node33" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1869,304,2035,331"/>
+<area shape="rect" id="node35" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="897,304,1074,331"/>
+<area shape="rect" id="node36" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="782,379,959,420"/>
+<area shape="rect" id="node43" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1584,155,1731,181"/>
+<area shape="rect" id="node44" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="693,229,821,256"/>
+<area shape="rect" id="node45" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2492,229,2649,256"/>
+</map>

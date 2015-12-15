@@ -1,0 +1,5 @@
+<map id="llvm::DominatorTree" name="llvm::DominatorTree">
+<area shape="rect" id="node2" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; BasicBlock \&gt;" alt="" coords="5,185,188,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DominatorBase.html" title="Base class that other, more interesting dominator analyses inherit from. " alt="" coords="43,5,199,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class. " alt="" coords="112,96,335,123"/>
+</map>

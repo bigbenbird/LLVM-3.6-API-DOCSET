@@ -1,0 +1,4 @@
+<map id="llvm::Win64Exception" name="llvm::Win64Exception">
+<area shape="rect" id="node2" href="$classllvm_1_1EHStreamer.html" title="Emits exception handling directives. " alt="" coords="27,80,161,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AsmPrinterHandler.html" title="Collects and handles AsmPrinter objects required to build debug or EH information. " alt="" coords="5,5,183,32"/>
+</map>

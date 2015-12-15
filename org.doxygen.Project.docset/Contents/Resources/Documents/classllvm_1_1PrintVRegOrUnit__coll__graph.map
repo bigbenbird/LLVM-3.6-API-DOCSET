@@ -1,0 +1,6 @@
+<map id="llvm::PrintVRegOrUnit" name="llvm::PrintVRegOrUnit">
+<area shape="rect" id="node2" href="$classllvm_1_1PrintRegUnit.html" title="llvm::PrintRegUnit" alt="" coords="30,171,165,197"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="5,81,85,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetRegisterInfo.html" title="llvm::TargetRegisterInfo" alt="" coords="110,81,279,108"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MCRegisterInfo.html" title="llvm::MCRegisterInfo" alt="" coords="119,5,270,32"/>
+</map>

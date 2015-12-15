@@ -1,0 +1,10 @@
+<map id="llvm::PtrToIntOperator" name="llvm::PtrToIntOperator">
+<area shape="rect" id="node2" href="$classllvm_1_1ConcreteOperator.html" title="llvm::ConcreteOperator\l\&lt; Operator, Instruction\l::PtrToInt \&gt;" alt="" coords="147,408,317,464"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Operator.html" title="llvm::Operator" alt="" coords="77,297,190,323"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="90,213,177,240"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="5,124,96,151"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="11,5,91,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users. " alt="" coords="121,124,202,151"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ConcreteOperator.html" title="A helper template for defining operators for individual opcodes. " alt="" coords="215,289,385,331"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SuperClass.html" title="SuperClass" alt="" coords="253,213,347,240"/>
+</map>

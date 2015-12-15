@@ -1,0 +1,10 @@
+<map id="llvm::MachObjectWriter" name="llvm::MachObjectWriter">
+<area shape="rect" id="node2" href="$classllvm_1_1MCObjectWriter.html" title="llvm::MCObjectWriter" alt="" coords="1594,55,1747,81"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="1219,5,1299,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1raw__ostream.html" title="llvm::raw_ostream" alt="" coords="1189,56,1328,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MCSectionData *, uint64_t \&gt;" alt="" coords="1565,106,1776,147"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const MCSection\lData *, uint64_t, DenseMapInfo\l\&lt; const MCSectionData * \&gt;, detail\l::DenseMapPair\&lt; const MCSectionData\l *, uint64_t \&gt; \&gt;, const MCSectionData\l *, uint64_t, DenseMapInfo\&lt; const MCSectionData\l * \&gt;, detail::DenseMapPair\&lt; const MCSectionData\l *, uint64_t \&gt; \&gt;" alt="" coords="788,43,1133,187"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="5,128,189,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="561,163,764,234"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="1157,178,1360,219"/>
+</map>

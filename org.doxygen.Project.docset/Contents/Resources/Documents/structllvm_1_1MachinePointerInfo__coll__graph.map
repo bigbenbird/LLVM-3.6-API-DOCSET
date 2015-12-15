@@ -1,0 +1,4 @@
+<map id="llvm::MachinePointerInfo" name="llvm::MachinePointerInfo">
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const llvm::Value\l *, const llvm::PseudoSource\lValue * \&gt;" alt="" coords="377,57,584,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; PT1, PT2 \&gt;" alt="" coords="5,71,144,113"/>
+</map>

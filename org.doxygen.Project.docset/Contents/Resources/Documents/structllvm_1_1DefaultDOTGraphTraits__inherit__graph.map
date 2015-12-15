@@ -1,0 +1,17 @@
+<map id="llvm::DefaultDOTGraphTraits" name="llvm::DefaultDOTGraphTraits">
+<area shape="rect" id="node2" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; GraphType \&gt;" alt="" coords="659,31,814,72"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; Ty \&gt;" alt="" coords="298,72,453,113"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DOTGraphTraits_3_01BlockFrequencyInfo_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; BlockFrequencyInfo * \&gt;" alt="" coords="283,137,468,179"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DOTGraphTraits_3_01CallGraph_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; CallGraph * \&gt;" alt="" coords="298,203,453,244"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DOTGraphTraits_3_01const_01Function_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; const Function * \&gt;" alt="" coords="298,268,453,309"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DOTGraphTraits_3_01const_01MachineFunction_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; const MachineFunction * \&gt;" alt="" coords="271,333,479,375"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DOTGraphTraits_3_01DomTreeNode_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; DomTreeNode * \&gt;" alt="" coords="298,399,453,440"/>
+<area shape="rect" id="node11" href="$structllvm_1_1DOTGraphTraits_3_01MachineBlockFrequencyInfo_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; MachineBlockFrequencyInfo * \&gt;" alt="" coords="256,464,495,505"/>
+<area shape="rect" id="node12" href="$structllvm_1_1DOTGraphTraits_3_01RegionNode_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; RegionNode * \&gt;" alt="" coords="298,529,453,571"/>
+<area shape="rect" id="node14" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAG_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; ScheduleDAG * \&gt;" alt="" coords="298,595,453,636"/>
+<area shape="rect" id="node15" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAGMI_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; ScheduleDAGMI * \&gt;" alt="" coords="293,660,458,701"/>
+<area shape="rect" id="node16" href="$structllvm_1_1DOTGraphTraits_3_01SelectionDAG_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; SelectionDAG * \&gt;" alt="" coords="298,725,453,767"/>
+<area shape="rect" id="node9" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; DominatorTree * \&gt;" alt="" coords="658,365,815,407"/>
+<area shape="rect" id="node10" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; PostDominatorTree * \&gt;" alt="" coords="644,431,829,472"/>
+<area shape="rect" id="node13" href="$structllvm_1_1DOTGraphTraits_3_01RegionInfoPass_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; RegionInfoPass * \&gt;" alt="" coords="658,529,815,571"/>
+</map>

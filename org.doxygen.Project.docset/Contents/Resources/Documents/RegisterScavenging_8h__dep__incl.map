@@ -1,0 +1,26 @@
+<map id="RegisterScavenging.h" name="RegisterScavenging.h">
+<area shape="rect" id="node2" href="$BranchFolding_8cpp.html" title="BranchFolding.cpp" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$PrologEpilogInserter_8cpp.html" title="PrologEpilogInserter.cpp" alt="" coords="169,80,343,107"/>
+<area shape="rect" id="node4" href="$RegisterScavenging_8cpp.html" title="RegisterScavenging.cpp" alt="" coords="367,80,542,107"/>
+<area shape="rect" id="node5" href="$TailDuplication_8cpp.html" title="TailDuplication.cpp" alt="" coords="567,80,705,107"/>
+<area shape="rect" id="node6" href="$AArch64A57FPLoadBalancing_8cpp.html" title="AArch64A57FPLoadBalancing.cpp" alt="" coords="730,80,966,107"/>
+<area shape="rect" id="node7" href="$AArch64FrameLowering_8cpp.html" title="AArch64FrameLowering.cpp" alt="" coords="990,80,1189,107"/>
+<area shape="rect" id="node8" href="$AArch64RegisterInfo_8cpp.html" title="AArch64RegisterInfo.cpp" alt="" coords="1213,80,1390,107"/>
+<area shape="rect" id="node9" href="$ARMBaseRegisterInfo_8cpp.html" title="ARMBaseRegisterInfo.cpp" alt="" coords="1414,80,1597,107"/>
+<area shape="rect" id="node10" href="$ARMFrameLowering_8cpp.html" title="ARMFrameLowering.cpp" alt="" coords="1621,80,1795,107"/>
+<area shape="rect" id="node11" href="$ARMLoadStoreOptimizer_8cpp.html" title="ARMLoadStoreOptimizer.cpp" alt="" coords="1819,80,2023,107"/>
+<area shape="rect" id="node12" href="$Thumb1RegisterInfo_8cpp.html" title="Thumb1RegisterInfo.cpp" alt="" coords="2047,80,2222,107"/>
+<area shape="rect" id="node13" href="$HexagonFixupHwLoops_8cpp.html" title="HexagonFixupHwLoops.cpp" alt="" coords="2247,80,2441,107"/>
+<area shape="rect" id="node14" href="$HexagonFrameLowering_8cpp.html" title="HexagonFrameLowering.cpp" alt="" coords="2465,80,2668,107"/>
+<area shape="rect" id="node15" href="$HexagonRegisterInfo_8cpp.html" title="HexagonRegisterInfo.cpp" alt="" coords="2693,80,2873,107"/>
+<area shape="rect" id="node16" href="$Mips16InstrInfo_8cpp.html" title="Mips16InstrInfo.cpp" alt="" coords="2897,80,3042,107"/>
+<area shape="rect" id="node17" href="$MipsSEFrameLowering_8cpp.html" title="MipsSEFrameLowering.cpp" alt="" coords="3066,80,3257,107"/>
+<area shape="rect" id="node18" href="$PPCFrameLowering_8cpp.html" title="PPCFrameLowering.cpp" alt="" coords="3281,80,3452,107"/>
+<area shape="rect" id="node19" href="$PPCRegisterInfo_8cpp.html" title="PPCRegisterInfo.cpp" alt="" coords="3477,80,3625,107"/>
+<area shape="rect" id="node20" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="3648,80,3760,107"/>
+<area shape="rect" id="node21" href="$SIPrepareScratchRegs_8cpp.html" title="SIPrepareScratchRegs.cpp" alt="" coords="3785,80,3975,107"/>
+<area shape="rect" id="node22" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="3999,80,4134,107"/>
+<area shape="rect" id="node23" href="$SystemZFrameLowering_8cpp.html" title="SystemZFrameLowering.cpp" alt="" coords="4158,80,4362,107"/>
+<area shape="rect" id="node24" href="$XCoreFrameLowering_8cpp.html" title="XCoreFrameLowering.cpp" alt="" coords="4386,80,4569,107"/>
+<area shape="rect" id="node25" href="$XCoreRegisterInfo_8cpp.html" title="XCoreRegisterInfo.cpp" alt="" coords="4593,80,4753,107"/>
+</map>

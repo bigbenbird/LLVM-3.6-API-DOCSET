@@ -1,0 +1,8 @@
+<map id="llvm::GraphTraits&lt; GraphType &gt;" name="llvm::GraphTraits&lt; GraphType &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l FlatIt\&lt; MachineRegionNode * \&gt; \&gt;" alt="" coords="387,5,629,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l FlatIt\&lt; RegionNode * \&gt; \&gt;" alt="" coords="413,71,603,112"/>
+<area shape="rect" id="node3" href="$structllvm_1_1GraphTraits_3_01MachineRegionInfo_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineRegionInfo * \&gt;" alt="" coords="679,5,849,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1GraphTraits_3_01MachineRegionInfoPass_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineRegionInfoPass * \&gt;" alt="" coords="899,5,1097,47"/>
+<area shape="rect" id="node6" href="$structllvm_1_1GraphTraits_3_01RegionInfo_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l RegionInfo * \&gt;" alt="" coords="695,71,833,112"/>
+<area shape="rect" id="node7" href="$structllvm_1_1GraphTraits_3_01RegionInfoPass_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l RegionInfoPass * \&gt;" alt="" coords="925,71,1071,112"/>
+</map>

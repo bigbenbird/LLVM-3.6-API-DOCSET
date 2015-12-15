@@ -1,0 +1,11 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node1" href="$group__LLVMCCoreModule.html" title="Modules" alt="" coords="352,5,427,32"/>
+<area shape="rect" id="node2" href="$group__LLVMCCoreTypes.html" title="Types and Enumerations" alt="" coords="300,56,479,83"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueBasicBlock.html" title="Basic Block" alt="" coords="342,107,437,133"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreValueMetadata.html" title="Metadata" alt="" coords="348,157,431,184"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreValues.html" title="Values" alt="" coords="357,208,421,235"/>
+<area shape="rect" id="node6" href="$group__LLVMCCoreValueInstruction.html" title="Instructions" alt="" coords="341,259,437,285"/>
+<area shape="rect" id="node7" href="$group__LLVMCCoreType.html" title="Types" alt="" coords="361,309,418,336"/>
+<area shape="rect" id="node8" href="$group__LLVMCCoreContext.html" title="Contexts" alt="" coords="350,360,429,387"/>
+<area shape="rect" id="node10" href="$group__LLVMC.html" title="LLVM&#45;C: C interface\l to LLVM" alt="" coords="5,175,152,217"/>
+</map>

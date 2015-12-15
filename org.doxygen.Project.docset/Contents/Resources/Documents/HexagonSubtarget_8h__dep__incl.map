@@ -1,0 +1,32 @@
+<map id="HexagonSubtarget.h" name="HexagonSubtarget.h">
+<area shape="rect" id="node2" href="$HexagonTargetMachine_8h.html" title="HexagonTargetMachine.h" alt="" coords="2283,80,2465,107"/>
+<area shape="rect" id="node4" href="$HexagonAsmPrinter_8cpp.html" title="HexagonAsmPrinter.cpp" alt="" coords="2541,229,2717,256"/>
+<area shape="rect" id="node12" href="$HexagonCFGOptimizer_8cpp.html" title="HexagonCFGOptimizer.cpp" alt="" coords="5,155,199,181"/>
+<area shape="rect" id="node13" href="$HexagonCopyToCombine_8cpp.html" title="HexagonCopyToCombine.cpp" alt="" coords="223,155,431,181"/>
+<area shape="rect" id="node14" href="$HexagonExpandPredSpillCode_8cpp.html" title="HexagonExpandPredSpillCode.cpp" alt="" coords="456,155,697,181"/>
+<area shape="rect" id="node16" href="$HexagonFrameLowering_8cpp.html" title="HexagonFrameLowering.cpp" alt="" coords="722,155,925,181"/>
+<area shape="rect" id="node19" href="$HexagonISelLowering_8cpp.html" title="HexagonISelLowering.cpp" alt="" coords="2919,155,3104,181"/>
+<area shape="rect" id="node20" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="3129,155,3329,181"/>
+<area shape="rect" id="node22" href="$HexagonRegisterInfo_8cpp.html" title="HexagonRegisterInfo.cpp" alt="" coords="3353,155,3533,181"/>
+<area shape="rect" id="node25" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="3557,155,3823,181"/>
+<area shape="rect" id="node26" href="$HexagonSplitTFRCondSets_8cpp.html" title="HexagonSplitTFRCondSets.cpp" alt="" coords="3847,155,4064,181"/>
+<area shape="rect" id="node28" href="$HexagonTargetObjectFile_8cpp.html" title="HexagonTargetObjectFile.cpp" alt="" coords="4088,155,4295,181"/>
+<area shape="rect" id="node29" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="4319,155,4519,181"/>
+<area shape="rect" id="node30" href="$HexagonInstrInfo_8cpp.html" title="HexagonInstrInfo.cpp" alt="" coords="4594,80,4751,107"/>
+<area shape="rect" id="node31" href="$HexagonSubtarget_8cpp.html" title="HexagonSubtarget.cpp" alt="" coords="4775,80,4946,107"/>
+<area shape="rect" id="node3" href="$HexagonAsmPrinter_8h.html" title="HexagonAsmPrinter.h" alt="" coords="2233,155,2395,181"/>
+<area shape="rect" id="node7" href="$HexagonMCInst_8h.html" title="HexagonMCInst.h" alt="" coords="2075,155,2209,181"/>
+<area shape="rect" id="node15" href="$HexagonFixupHwLoops_8cpp.html" title="HexagonFixupHwLoops.cpp" alt="" coords="2470,155,2665,181"/>
+<area shape="rect" id="node17" href="$HexagonHardwareLoops_8cpp.html" title="HexagonHardwareLoops.cpp" alt="" coords="2689,155,2894,181"/>
+<area shape="rect" id="node18" href="$HexagonISelDAGToDAG_8cpp.html" title="HexagonISelDAGToDAG.cpp" alt="" coords="949,155,1149,181"/>
+<area shape="rect" id="node21" href="$HexagonPeephole_8cpp.html" title="HexagonPeephole.cpp" alt="" coords="1173,155,1338,181"/>
+<area shape="rect" id="node23" href="$HexagonRemoveSZExtArgs_8cpp.html" title="HexagonRemoveSZExtArgs.cpp" alt="" coords="1361,155,1587,181"/>
+<area shape="rect" id="node24" href="$HexagonSelectionDAGInfo_8cpp.html" title="HexagonSelectionDAGInfo.cpp" alt="" coords="1611,155,1828,181"/>
+<area shape="rect" id="node27" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="1852,155,2051,181"/>
+<area shape="rect" id="node5" href="$HexagonMCInstLower_8cpp.html" title="HexagonMCInstLower.cpp" alt="" coords="2136,229,2321,256"/>
+<area shape="rect" id="node6" href="$HexagonInstPrinter_8cpp.html" title="HexagonInstPrinter.cpp" alt="" coords="2346,229,2517,256"/>
+<area shape="rect" id="node8" href="$HexagonDisassembler_8cpp.html" title="HexagonDisassembler.cpp" alt="" coords="1690,229,1882,256"/>
+<area shape="rect" id="node9" href="$HexagonMCCodeEmitter_8cpp.html" title="HexagonMCCodeEmitter.cpp" alt="" coords="1906,229,2111,256"/>
+<area shape="rect" id="node10" href="$HexagonMCInst_8cpp.html" title="HexagonMCInst.cpp" alt="" coords="1295,229,1445,256"/>
+<area shape="rect" id="node11" href="$HexagonMCTargetDesc_8cpp.html" title="HexagonMCTargetDesc.cpp" alt="" coords="1469,229,1666,256"/>
+</map>

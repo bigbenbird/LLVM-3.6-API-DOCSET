@@ -1,0 +1,10 @@
+<map id="Constants" name="Constants">
+<area shape="rect" id="node1" href="$group__LLVMCCoreValueConstantExpressions.html" title="Constant Expressions" alt="" coords="252,5,412,32"/>
+<area shape="rect" id="node2" href="$group__LLVMCCoreValueConstantGlobals.html" title="Global Values" alt="" coords="278,56,386,83"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueConstantComposite.html" title="Composite Constants" alt="" coords="252,107,412,133"/>
+<area shape="rect" id="node4" href="$group__LLVMCoreValueConstantGlobalVariable.html" title="Global Variables" alt="" coords="270,157,394,184"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreValues.html" title="Values" alt="" coords="5,157,69,184"/>
+<area shape="rect" id="node7" href="$group__LLVMCCoreValueFunction.html" title="Function values" alt="" coords="272,208,392,235"/>
+<area shape="rect" id="node8" href="$group__LLVMCoreValueConstantGlobalAlias.html" title="Global Aliases" alt="" coords="277,259,387,285"/>
+<area shape="rect" id="node9" href="$group__LLVMCCoreValueConstantScalar.html" title="Scalar constants" alt="" coords="267,309,397,336"/>
+</map>

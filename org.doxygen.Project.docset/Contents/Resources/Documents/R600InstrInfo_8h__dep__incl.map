@@ -1,0 +1,18 @@
+<map id="R600InstrInfo.h" name="R600InstrInfo.h">
+<area shape="rect" id="node2" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="5,80,207,107"/>
+<area shape="rect" id="node3" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="231,80,418,107"/>
+<area shape="rect" id="node4" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="291,155,462,181"/>
+<area shape="rect" id="node5" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="493,80,676,107"/>
+<area shape="rect" id="node6" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="708,155,907,181"/>
+<area shape="rect" id="node8" href="$AMDILCFGStructurizer_8cpp.html" title="AMDILCFGStructurizer.cpp" alt="" coords="751,80,941,107"/>
+<area shape="rect" id="node9" href="$R600ClauseMergePass_8cpp.html" title="R600ClauseMergePass.cpp" alt="" coords="965,80,1159,107"/>
+<area shape="rect" id="node10" href="$R600ControlFlowFinalizer_8cpp.html" title="R600ControlFlowFinalizer.cpp" alt="" coords="1183,80,1387,107"/>
+<area shape="rect" id="node11" href="$R600EmitClauseMarkers_8cpp.html" title="R600EmitClauseMarkers.cpp" alt="" coords="1411,80,1615,107"/>
+<area shape="rect" id="node12" href="$R600ExpandSpecialInstrs_8cpp.html" title="R600ExpandSpecialInstrs.cpp" alt="" coords="1639,80,1848,107"/>
+<area shape="rect" id="node13" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="1872,80,2004,107"/>
+<area shape="rect" id="node14" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="2029,80,2189,107"/>
+<area shape="rect" id="node15" href="$R600OptimizeVectorRegisters_8cpp.html" title="R600OptimizeVectorRegisters.cpp" alt="" coords="2213,80,2450,107"/>
+<area shape="rect" id="node16" href="$R600Packetizer_8cpp.html" title="R600Packetizer.cpp" alt="" coords="2475,80,2620,107"/>
+<area shape="rect" id="node17" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class. " alt="" coords="2645,80,2799,107"/>
+<area shape="rect" id="node7" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="486,155,683,181"/>
+</map>

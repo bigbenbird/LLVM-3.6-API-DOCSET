@@ -1,0 +1,8 @@
+<map id="LivePhysRegs.h" name="LivePhysRegs.h">
+<area shape="rect" id="node2" href="$StackMapLivenessAnalysis_8h.html" title="StackMapLivenessAnalysis.h" alt="" coords="13,80,217,107"/>
+<area shape="rect" id="node4" href="$ExecutionDepsFix_8cpp.html" title="ExecutionDepsFix.cpp" alt="" coords="241,80,401,107"/>
+<area shape="rect" id="node5" href="$IfConversion_8cpp.html" title="IfConversion.cpp" alt="" coords="426,80,553,107"/>
+<area shape="rect" id="node6" href="$LivePhysRegs_8cpp.html" title="LivePhysRegs.cpp" alt="" coords="577,80,711,107"/>
+<area shape="rect" id="node7" href="$X86FloatingPoint_8cpp.html" title="X86FloatingPoint.cpp" alt="" coords="736,80,891,107"/>
+<area shape="rect" id="node3" href="$StackMapLivenessAnalysis_8cpp.html" title="StackMapLivenessAnalysis.cpp" alt="" coords="5,155,224,181"/>
+</map>

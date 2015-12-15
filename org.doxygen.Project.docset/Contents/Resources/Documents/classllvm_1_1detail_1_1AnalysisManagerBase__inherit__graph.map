@@ -1,0 +1,4 @@
+<map id="llvm::detail::AnalysisManagerBase&lt; DerivedT, IRUnitT &gt;" name="llvm::detail::AnalysisManagerBase&lt; DerivedT, IRUnitT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1AnalysisManager.html" title="A generic analysis pass manager with lazy running and caching of results. " alt="" coords="415,5,619,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1AnalysisManagerBase.html" title="llvm::detail::AnalysisManager\lBase\&lt; AnalysisManager\&lt; IRUnitT\l \&gt;, IRUnitT \&gt;" alt="" coords="399,85,635,141"/>
+</map>
